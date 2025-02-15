@@ -1,0 +1,699 @@
+usan_stem_id,stem,subgroup,annotation,stem_class,major_class
+3341,-ac,,anti-inflammatory agents (acetic acid derivatives),suffix,
+3342,-ac,-zolac,anti-inflammatory agents (acetic acid derivatives): anti-inflammatory; pyrazole acetic acid derivatives,suffix,
+3343,-actant,,pulmonary surfactants,suffix,
+3344,-adenant,,adenosine receptor antagonists,suffix,
+3345,-adol,,analgesics (mixed opiate receptor agonists/antagonists),suffix,GPCR
+3346,-adol-,,analgesics (mixed opiate receptor agonists/antagonists),infix,GPCR
+3347,-adox,,antibacterials (quinoline dioxide derivatives),suffix,
+3348,-afenone,,antiarrhythmics (propafenone derivatives),suffix,ion channel
+3349,-afil,,phosphodiesterase type 5 inhibitors (PDE5) inhibitors,suffix,PDE
+3350,-afil,-denafil,phosphodiesterase type 5 inhibitors (PDE5) inhibitors: (PDE5) inhibitors containing a sulfonamide moiety,suffix,
+3351,-aj-,,antiarrhythmics (ajmaline derivatives),infix,ion channel
+3352,-alap,,aldehyde traps,suffix,
+3353,-alcap,,allosteric modulators of small-conductance calcium activated potassium (SK) channels,suffix,
+3354,-aldrate,,antacid aluminum salts,suffix,
+3355,-algron,,alpha1- and alpha2- adrenoreceptor agonists,suffix,GPCR
+3356,-alol,,combined alpha and beta blockers,suffix,GPCR
+3357,-amidine,,pentamidine derivatives/analogues,suffix,
+3358,-amidis,,antimyloidotics,suffix,
+3359,-ampa-,,ionotropic non-NMDA (N-methyl D-aspartate) glutamate receptors [AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor) and/or KA (kainite antagonist) receptors],infix,
+3360,-ampa-,-ampanel,ionotropic non-NMDA (N-methyl D-aspartate) glutamate receptors [AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor) and/or KA (kainite antagonist) receptors]: antagonists,suffix,
+3361,-ampa-,-ampator,ionotropic non-NMDA (N-methyl D-aspartate) glutamate receptors [AMPA (alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor) and/or KA (kainite antagonist) receptors]: modulators,suffix,
+3362,-andr-,,androgens,infix,NR
+3363,-anib,,angiogenesis inhibitors,suffix,kinase
+3364,-aniten,,"androgen receptor inhibitor, N-terminal domain inhibitor",suffix,
+3365,-anserin,,serotonin 5-HT2 receptor antagonists,suffix,GPCR
+3366,-antel,,anthelmintics (undefined group),suffix,
+3367,-antel,-quantel,anthelmintics (undefined group): 2-deoxoparaherquamide A derivatives,suffix,
+3368,-antrone,,"antineoplastics, anthraquinone derivatives",suffix,
+3369,-apsel,,P-selectin antagonists,suffix,
+3370,-apt-,,"aptamers, classical and mirror",infix,
+3371,-arabine,,antineoplastics (arabinofuranosyl derivatives),suffix,
+3372,aril-,,antiviral (arildone derivatives),prefix,
+3373,-aril-,,antiviral (arildone derivatives),infix,
+3374,-aril,,antiviral (arildone derivatives),suffix,
+3375,-arit,,antirheumatics (lobenzarit type),suffix,
+3376,-arol,,anticoagulants (dicumarol type),suffix,
+3377,-arone,,antiarrhythmics,suffix,ion channel
+3378,-arone,-iodarone,antiarrhythmics: indicates high iodine content,suffix,
+3379,-arotene,,arotinoid derivatives,suffix,NR
+3380,-arsin,,organoarsenic compounds,suffix,
+3381,arte-,,antimalarials (artemisin derivatives),prefix,
+3382,-ase,,enzymes,suffix,
+3383,-ase,-dismase,enzymes: superoxide dismutase activity,suffix,
+3384,-ase,-glutenase,enzymes: enzymes/proteases that have gluten as the substrate,suffix,
+3385,-ase,-teplase,enzymes: tissue-type plasminogen activators,suffix,
+3386,-ase,-uplase,enzymes: urokinase-type plasminogen activators,suffix,
+3387,-ast,,antiasthmatics/antiallergics (not acting primarily as antihistamines),suffix,
+3388,-ast,-lukast,antiasthmatics/antiallergics (not acting primarily as antihistamines): leukotriene receptor antagonists,suffix,GPCR
+3389,-ast,-milast,antiasthmatics/antiallergics (not acting primarily as antihistamines): type IV phosphodiesterase,suffix,PDE
+3390,-ast,-tegrast,antiasthmatics/antiallergics (not acting primarily as antihistamines): integrin antagonists,suffix,
+3391,-ast,-trodast,antiasthmatics/antiallergics (not acting primarily as antihistamines): thromboxane A2 receptor antagonists,suffix,GPCR
+3392,-ast,-zolast,antiasthmatics/antiallergics (not acting primarily as antihistamines): leukotriene biosynthesis inhibitors,suffix,
+3393,-atadine,,"tricyclic histaminic-H1 receptor antagonists, loratadine derivatives (formerly-tadine)",suffix,
+3394,-astine,,antihistaminics (histamine-H1 receptor antagonists),suffix,GPCR
+3395,-azenil,,benzodiazepine receptor agonists/antagonists,suffix,ion channel
+3396,-azepam,,antianxiety agents (diazepam type),suffix,ion channel
+3397,-azepide,,cholecystokinin receptor antagonists,suffix,GPCR
+3398,-azocine,,"narcotic antagonists/agonists (6,7-benzomorphan derivatives)",suffix,GPCR
+3399,-azoline,,antihistamines/local vasoconstrictors (antazoline type),suffix,GPCR
+3400,-azosin,,antihypertensives (prazosin type),suffix,GPCR
+3401,-bactam,,beta-lactamase inhibitors,suffix,
+3402,-balpin,,bacterial,suffix,
+3403,-bamate,,tranquilizers/antiepileptics (propanediol and pentanediol groups),suffix,
+3404,-barb,,barbituric acid derivatives,suffix,ion channel
+3405,-barb-,,barbituric acid derivatives,infix,ion channel
+3406,-basib,,inhibitors of the ADAM (A disintegrin and A metalloprotease) enzymes (sheddases),suffix,
+3407,-begron,,beta3 adrenoreceptor agonists,suffix,GPCR
+3408,-bendazole,,antithelmintics (tibendazole type),suffix,
+3409,-bep,,bioengineered proteins,suffix,
+3410,-berel,,estrogen receptor beta agonist,suffix,NR
+3411,-bersat,,anticonvulsants; antimigraine (benzoylamino-benzpyran derivatives),suffix,
+3412,-betin,,Amyloid beta (Abeta) binders,suffix,
+3413,-binop,,nociceptin opion receptor (NOP) agonists,suffix,
+3414,-bol,,anabolic steroids,suffix,NR
+3415,-bol-,,anabolic steroids,infix,NR
+3416,-borole,,"boroles, boron compounds",suffix,
+3417,-bresib,,extra-terminal motif (BET) family of bromodomain (BRD) proteins,suffix,
+3418,-brodib,,"histone acetyltransferase inhibitors, targeting the bromodomain acetyl transferase proteins adenoviral E1A-binding protein (p300) and cAMP-responsive element binding protein (CREB) binding protein (CBP)",suffix,
+3419,-bufen,,"non-steriodal anti-inflammatory agents, fenbufen derivatives",suffix,
+3420,-bulin,,antineoplastics (mitotic inhibitors; tubulin binders),suffix,
+3421,-butan,,antiseptics (dapabutan type),suffix,
+3422,-butazone,,anti-inflammatory analgesics (phenylbutazone type),suffix,
+3423,-buzone,,anti-inflammatory analgesics (phenylbutazone type) Note: INN Stem is-buzone,suffix,
+3424,-caftor,,cystic fibrosis transmembrane regulator (CFTR) protein modulators,suffix,
+3425,-caine,,local anesthetics,suffix,ion channel
+3426,-caleret,,calcium receptor antagonists,suffix,
+3427,calci-,,vitamin D analogs,prefix,NR
+3428,-calci-,,vitamin D analogs,infix,NR
+3429,-camra,,antivirals (intracellular adhesion molecule 1 (ICAM-1) derivatives,suffix,
+3430,-camsule,,camphorsulfonic acid derivatives used as UVA sunscreens,suffix,
+3431,-camten,,allosteric cardiac myosin modulators,suffix,
+3432,-cap,,viral capsids,suffix,
+3433,-cap,-pacap,viral capsids: papillomavirus,suffix,
+3434,-capoc,,"agonists of the Gardos channel, or the calcium activated potassium channel of intermediate conductance",suffix,ion channel
+3435,-capone,,catechol-O-methyltransferase (COMT) inhibitors,suffix,
+3436,-caprant,,kappa opiod receptor antagonists,suffix,
+3437,-carbef,,antibiotics (carbacephem derivatives),suffix,
+3438,-calcet,,calcium-sensing receptor (CaSR) agonists,suffix,
+3439,-tiv,-camtiv,cardiac myosin activator,suffix,
+3440,-casan,,caspase inhibitors,suffix,protease
+3441,-caserin,,"serotonin receptor agonists, primarily 5-HT2",suffix,GPCR
+3442,-catib,,cathespin inhibitors,suffix,protease
+3443,-cebec,,cytochrome bc1 complex inhibitors in mycobacterium tuberculosis,suffix,
+3444,cef-,,cephalosporins,prefix,
+3445,-cept,,"receptor molecules or membrane ligands, natural, modified or modified",suffix,
+3446,-cept,-bacept,"receptor molecules or membrane ligands, natural, modified or modified: B-cells",suffix,
+3447,-cept,-bercept,"receptor molecules or membrane ligands, natural, modified or modified: vascular endothelial growth factor (VEGF) receptors",suffix,
+3448,-cept,-cocept,"receptor molecules or membrane ligands, natural, modified or modified: complement receptors",suffix,
+3449,-cept,-farcept,"receptor molecules or membrane ligands, natural, modified or modified: interferon receptors",suffix,
+3450,-cept,-lefacept,"receptor molecules or membrane ligands, natural, modified or modified: lymphocyte function-associated antigen 3 (LFA) receptors",suffix,
+3451,-cept,-nacept,"receptor molecules or membrane ligands, natural, modified or modified: interleukin receptors",suffix,
+3452,-cept,-nercept,"receptor molecules or membrane ligands, natural, modified or modified: tumor necrosis factor receptors",suffix,
+3453,-cept,-tacept,"receptor molecules or membrane ligands, natural, modified or modified: T-cell receptors",suffix,
+3454,-cept,-tercept,"receptor molecules or membrane ligands, natural, modified or modified: transforming growth factor receptors",suffix,
+3455,-cept,-vircept,"receptor molecules or membrane ligands, natural, modified or modified: antiviral receptors",suffix,
+3456,-cerfont,,CRF-1 (corticotropin releasing factor) receptor antagonists,suffix,GPCR
+3457,-cetrapib,,cholesterol ester transfer protein inhibitors,suffix,
+3458,-cic,,hepatoprotectives (timonacic type),suffix,
+3459,-ciclib,,cyclin dependent kinase inhibitors (formerly-cidib),suffix,kinase
+3460,-cidin,,natural antibiotics (undefined group),suffix,
+3461,-ciguat,,guanaline cyclase activators,suffix,
+3462,-cillin,,penicillins,suffix,
+3463,-cirnon,,"Chemokine receptor (CCR) antagonists, not antivirals",suffix,GPCR
+3464,-citabine,,"nucleoside antiviral or antineoplastic agents, cytarabine or azarabine derivatives",suffix,
+3465,-clidine,,muscarinic receptor agonists/antagonists,suffix,GPCR
+3466,-clidinium,,muscarinic receptor agonists/antagonists,suffix,
+3467,-clomol,,"heat-shock protein inducers, bimoclomal type",suffix,
+3468,-clone,,hypnotics/tranquilizers (zopiclone type),suffix,ion channel
+3469,-closporin,,cyclosporin derivatives,suffix,
+3470,-copan,,complement receptor antagonists/complement inhibitors,suffix,
+3471,-coplan,,complement ligand inhibitors,suffix,
+3472,-conazole,,systemic antifungals (miconazole type),suffix,
+3473,-corat,,glucocorticoid receptor agonists ( not glucocorticoids),suffix,NR
+3474,-corilant,,glucocorticoid receptor antagonists (not glucocorticoids),suffix,
+3475,-cort-,,cortisone derivatives,infix,NR
+3476,-coxib,,cyclooxygenase-2 inhibitors,suffix,
+3477,-crinat,,diuretics (ethacrynic acid derivatives),suffix,
+3478,-crine,,acridine derivatives,suffix,
+3479,-cromil,,antiallergics (cromoglicic acid derivatives),suffix,
+3480,-cycline,,antibiotics (tetracycline derivatives),suffix,
+3481,-dacin,,"antibiotics, DNA gyrase and topoisomerase IV inhibitors",suffix,
+3482,-dan,,positive inotropic agents (pimobendan type),suffix,
+3483,-dapsone,,antimycobacterials (diaminodiphenylsulfone derivatives),suffix,
+3484,-dar,,multidrug resistance inhibitors,suffix,
+3485,-dar,-codar,multidrug resistance inhibitors: pipecolic acid derivatives,suffix,
+3486,-dar,-cridar,multidrug resistance inhibitors: acridine carboxamide derivatives,suffix,
+3487,-dar,-quidar,multidrug resistance inhibitors: quinoline derivatives,suffix,
+3488,-dar,-spodar,multidrug resistance inhibitors: ciclosporin D derivatives,suffix,
+3489,-degib,,hedgehog signaling inhibitors,suffix,
+3490,-delpar,,PPAR delta receptor agonists,suffix,
+3491,-metan,,murine double minute 2 (MDM2) inhibitors,suffix,
+3492,-demetan,,murine double minute 2 (MDM2) inhibitors,suffix,
+3493,-denoson,,adenosine A receptor agonists,suffix,GPCR
+3494,-depsin,,depsipeptide derivatives,suffix,
+3495,deu-,,deuterated compounds,prefix,
+3496,-dil-,,vasodilators (undefined group),infix,
+3497,-dil,,vasodilators (undefined group),suffix,
+3501,-dil,-fradil,vasodilators (undefined group): calcium channel blockers acting as vasodilators,suffix,
+3502,-dil,-prodil,vasodilators (undefined group): NMDA receptor antagonists,suffix,
+3503,-dil,-sudil,vasodilators (undefined group): Rho protein kinase (ROCK) inhibitors,suffix,
+3504,-dipine,,phenylpyridine vasodilators,suffix,ion channel
+3505,-ditan,,"antimigraine, serotonin 5-HT1 receptor agonists",suffix,GPCR
+3506,-ditraz,,acaricide/tick repellent,suffix,
+3507,-dnar,,DNA fragments that block transcription,suffix,
+3508,-domide,,thalidomide derivatives,suffix,
+3509,-domide,-zigdomide,thalidomide derivatives: zinc finger protein degradation inducing thalidomide derivatives,suffix,
+3510,-dopa,,dopamine receptor agonists,suffix,GPCR
+3511,-dopidine,,dopamine D2 receptor modulator,suffix,GPCR
+3512,-dore,,dopamine D2D3 receptor modulators,suffix,GPCR
+3513,-dotin,,synthetic analogs of the dolastatin series,suffix,
+3514,-dralazine,,antihypertensives (hydrazine-phthalazines),suffix,
+3515,-drine,,sympathomimetics,suffix,
+3516,-dronate,,calcium metabolism regulators,suffix,
+3517,-ectedin,,ecteinascidin derivatives,suffix,
+3518,-ectin,,antiparasitics (ivermectin type),suffix,
+3519,-edir,,embryonic ectoderm development protein (EED) inhibitors,suffix,
+3520,ef-,,Fc fusion protein,prefix,
+3521,-emcinal,,erythromycin derivatives lacking antibiotic activity; motilin agonists,suffix,
+3522,-entan,,endothelin receptor antagonists,suffix,GPCR
+3523,-erg-,,ergot alkaloid derivatives,infix,
+3524,-eridine,,analgesics (meperidine type),suffix,
+3525,-ermin,,growth factors,suffix,
+3526,-ermin,-bermin,growth factors: vascular endothelial growth factors,suffix,
+3527,-ermin,-dermin,growth factors: epidermal growth factors,suffix,
+3528,-ermin,-fermin,growth factors: fibroblast growth factors,suffix,
+3529,-ermin,-nermin,growth factors: tumor necrosis factors,suffix,
+3530,-ermin,-plermin,growth factors: platelet derived growth factors,suffix,
+3531,-ermin,-otermin,growth factors: bone morphogenetic proteins,suffix,
+3532,-ermin,-sermin,growth factors: insulin-like growth factors,suffix,
+3533,-ermin,-termin,growth factors: transforming growth factors,suffix,
+3534,-espib,,heat shock protein inhibitors,suffix,
+3535,estr-,,estrogens,prefix,NR
+3536,-estr-,,estrogens,infix,NR
+3537,-estrant,,estrogen antagonists,suffix,NR
+3538,-etanide,,diuretics (piretanide type),suffix,
+3539,-fadine,,monoamine transport inhibitors,suffix,
+3540,-farin,,warfarin analogs,suffix,
+3541,-farnib,,farnesyl transferase inhibitor,suffix,
+3542,-faxine,,"antianxiety, antidepressant inhibitor of norepinephrine and dopamine re-uptake",suffix,
+3543,-fenacin,,muscarinic receptor antagonists,suffix,GPCR
+3544,-fenamate,,anti-inflammatory agents (anthranilic acid derivatives) and their salts or esters,suffix,
+3545,-fenamic acid,,anti-inflammatory agents (anthranilic acid derivatives) and their salts or esters,suffix,
+3546,-fenicol,,"antibacterial antibiotics, chloramphenicol analogs",suffix,
+3547,-fenine,,analgesics (fenamic acid subgroup),suffix,
+3548,-fenin,,diagnostic aids ((phenylcarbamoyl) methyl iminodiacetic acid derivatives),suffix,
+3549,-fensine,,"norepinephrine, serotonin, dopamine, reuptake inhibitor",suffix,
+3550,-fentanil,,narcotic analgesics (fentanyl derivatives),suffix,GPCR
+3551,-fentrine,,phosphodiesterase inhibitor,suffix,PDE
+3552,-feport,,ferrorportin receptor modulators,suffix,
+3553,-fetamin,,amfetamine derivatives,suffix,
+3554,-fetamine,,amfetamine derivatives,suffix,
+3555,-fexor-,,farnesoid X receptor agonists,infix,NR
+3556,-fexorate,,farnesoid X receptor agonists,suffix,NR
+3557,-fiban,,fibrinogen receptor antagonists (glycoprotein IIb/IIIa receptor antagonists),suffix,
+3558,-fibrate,,antihyperlipidemics (clofibrate type),suffix,NR
+3559,-fibric acid,,antihyperlipidemics (clofibrate type),suffix,
+3560,-filam,,filamin A binders,suffix,
+3561,-filcon,,hydrophilic contact lens material,suffix,
+3562,-fimloc,,FimH (E.coli) blockers,suffix,
+3563,-fingol,,sphingosine derivatives,suffix,
+3564,-flapon,,5-lipoxygenase-activating protein (FLAP) inhibitors,suffix,
+3565,-flurane,,general inhalation anesthetics (halogenated alkane derivatives),suffix,
+3566,-focon,,hydrophobic contact lens materials,suffix,
+3567,-forant,,histamine H4 receptor antagonists,suffix,
+3568,-formin,,hypoglycemics (phenformin type),suffix,
+3569,fos-,,phosphoro-derivatives,prefix,
+3570,-fos-,,phosphoro-derivatives,infix,
+3571,-fosfamide,,isophosphoramide mustard derivatives,suffix,
+3572,-fosine,,cytostatic phospholipid derivatives,suffix,
+3573,-fulven,,"antineoplastic, acylfulvene derivatives",suffix,
+3574,-fungerp,,"antifungals, triterpinoids",suffix,
+3575,-fungin,,antifungal antibiotics (undefined group),suffix,
+3576,-fusp,,fusion proteins,suffix,
+3577,-fylline,,theophylline derivatives,suffix,GPCR
+3578,-gab-,,gabamimetics,infix,ion channel
+3579,gab-,,gabamimetics,prefix,ion channel
+3580,gado-,,gadolinium derivatives (principally for diagnostic use),prefix,
+3581,-galtin,,inhibitors of galectin-3,suffix,
+3582,-ganan,,"antimicrobial, bactericidal permeability increasing polypeptide",suffix,
+3583,-gapil,,neuronal apoptosis inhibitors; glyceraldehyde-3-phosphate dehydrogenase (GAPDH),suffix,
+3584,-gatran,,thrombin inhibitors (argatroban type),suffix,protease
+3585,-gepant,,calcitonin gene-related peptide receptor antagonists,suffix,GPCR
+3586,-gest-,,progestins,infix,NR
+3587,-giline,,"Monoamine oxidase (MAO) inhibitors, type B",suffix,
+3588,-gillin,,antibiotics (Aspergillus strains),suffix,
+3589,gli-,,antidiabetics,prefix,
+3590,-gliatin,,glucokinase activator,suffix,
+3591,-gliflozin,,"phlorozin derivatives, phenolic glycosides",suffix,
+3592,-glinide,,"antidiabetic, sodium glucose co-transporter 2 (SGLT2) inhibitors, not phlorozin derivatives",suffix,
+3593,-glipron,,glucagon-like peptide receptor agonists,suffix,
+3594,-gliptin,,dipeptidyl aminopeptidase-IV inhibitors,suffix,protease
+3595,-glitazar,,peroxisome proliferator activiating receptor (PPAR) agonists (not thiazolidene derivatives),suffix,NR
+3596,-glitazone,,peroxisome proliferator activiating receptor (PPAR) agonists (thiazolidene derivatives),suffix,NR
+3597,-glivant,,antagonist of the glucagon receptor,suffix,
+3598,-glucagon,,synthetic glucagon analogs,suffix,
+3599,-glumide,,"cholecystokinin (CCK) antagonists, antiulcer, anxiolytic agent",suffix,GPCR
+3600,-glurant,,"metabotropic glutamate receptor antagonists, negative allosteric modulators",suffix,GPCR
+3601,-golix,,gonadotropin releasing hormone (GnRH) receptor antagonists (nonpeptide),suffix,GPCR
+3602,-grel-,,"platelet aggregation inhibitors, primarily platelet P2Y12 receptor antagonists",infix,
+3603,-grel,,"platelet aggregation inhibitors, primarily platelet P2Y12 receptor antagonists",suffix,
+3604,guan-,,antihypertensives (guanidine derivatives),prefix,
+3605,-icam,,anti-inflammatory agents (isoxicam type),suffix,
+3606,-ifan,,hypoxia-inducible factor (HIF) inhibitors,suffix,
+3607,-ifene,,antiestrogens of the clomifene and tamoxifen groups,suffix,
+3608,-ilide,,class III antiarrhythmic agents,suffix,ion channel
+3609,-imepodib,,inosine monophosphate dehydrogenase inhibitors,suffix,
+3610,-imex,,immunostimulants,suffix,
+3611,-imibe,,"antihyperlipidaemics, acyl CoA: cholesterol acyltransferase (ACAT) inhibitors",suffix,
+3612,-imod,,immunomodulators,suffix,
+3613,-imod,-mapimod,immunomodulators: mitogen-activated protein (MAP) kinase inhibitors,suffix,kinase
+3614,-imod,-tirimod,immunomodulators: napthyridine analogs,suffix,
+3615,-imod,-tolimod,"immunomodulators: immunomodulators, toll-like receptor agonists",suffix,
+3616,-imus,,immunosuppressives,suffix,
+3617,-imus,-romilus,"immunosuppressives: immunosuppressant, rapamycin derivatives",suffix,
+3618,-inurad,,urate transporter inhibitors,suffix,
+3619,io-,,iodine-containing contrast media,prefix,
+3620,-irudin,,anticoagulants (hirudin type),suffix,
+3621,-isant,,histamine H3 receptor antagonists,suffix,GPCR
+3622,-isomide,,antiarrhythmics (disopyramide derivatives),suffix,ion channel
+3623,-ium,,quaternary ammonium derivatives,suffix,
+3624,-onium,,quaternary ammonium derivatives,suffix,
+3625,-ium,-clidinium,quaternary ammonium derivatives: muscarinic receptor agonists/antagonists,suffix,
+3626,-ium,-curium,quaternary ammonium derivatives: neuromuscular blocking agents,suffix,
+3627,-ium,-curonium,quaternary ammonium derivatives: neuromuscular blocking agents,suffix,
+3630,-onium,-curonium,quaternary ammonium derivatives: neuromuscular blocking agents,suffix,
+3631,-ivon,,Von Willebrand factor inhibitors,suffix,
+3632,-ixafor,,CXCR receptor antagonists,suffix,GPCR
+3633,-ixibat,,ileal bile acid transporter (IBAT) inhibitors,suffix,
+3634,-kacin,,antibiotics obtained from Streptomyces kanamyceticus (related to kanamycin),suffix,
+3635,-kalant,,potassium channel antagonists,suffix,ion channel
+3636,-kalant,-nakalant,potassium channel antagonists: mixed sodium/potassium channel blockers,suffix,
+3637,-kalim,,potassium channel agonists,suffix,ion channel
+3638,-kalner,,opener of large conductance calcium-activated (maxi-K) potassium channels,suffix,ion channel
+3639,-kef-,,enkephalin agonists (various indications),infix,GPCR
+3640,-kin,,interleukins,suffix,
+3641,-kin,-decakin,interleukins: interleukin-10 analogues and derivatives,suffix,
+3642,-kin,-dodekin,interleukins: interleukin-12 analogues and derivatives,suffix,
+3643,-kin,-elvekin,interleukins: interleukin-11 analogues and derivatives,suffix,
+3644,-kin,-enicokin,interleukins: interleukin-21,suffix,
+3645,-kin,-eptakin,interleukins: interleukin-7 analogues and derivatives,suffix,
+3646,-kin,-exakin,interleukins: interleukin-6 analogues and derivatives,suffix,
+3647,-kin,-leukin,interleukins: interleukin-2 analogues and derivatives,suffix,
+3648,-kin,-nakin,interleukins: interleukin-1 analogues and derivatives,suffix,
+3649,-kin,-benakin,interleukins: interleukin-1-beta analogues and derivatives,suffix,
+3650,-kin,-onakin,interleukins: interleukin-1-alpha analogues and derivatives,suffix,
+3651,-kin,-nonakin,interleukins: interleukin-9 analogues and derivatives,suffix,
+3652,-kin,-octakin,interleukins: interleukin-8 analogues and derivatives,suffix,
+3653,-kin,-penkin,interleukins: interleukin-5 analogues and derivatives,suffix,
+3654,-kin,-trakin,interleukins: interleukin-4 analogues and derivatives,suffix,
+3655,-kinra,,interleukin receptor antagonists,suffix,
+3656,-kinra,-nakinra,interleukin receptor antagonists: interleukin-1 (IL-1) receptor antagonists,suffix,
+3657,-kinra,-trakinra,interleukin receptor antagonists: interleukin-4 (IL-4) receptor antagonists,suffix,
+3658,-kiren,,renin inhibitors,suffix,protease
+3659,-laner,,"antagonists of GABA (gamma-aminobutyric acid) regulated chloride channels, antiparasitic agents",suffix,
+3660,-lazard,,lipid peroxidation inhibitors,suffix,
+3661,-lazine,,"antiarrhythmic/antianginal/antihypertensive agents, phthalazine like structure",suffix,
+3662,-leptin,,leptin derivatives,suffix,
+3663,-leuton,,5-lipoxygenase inhibitors,suffix,
+3664,-lipim,,lipoprotein lipase activators,suffix,
+3665,-lisib,,phosphatidylinositol 3-kinase (PI3K) inhibitors,suffix,
+3666,-lixron,,liver X nuclear hormone (LXR) receptor agonists,suffix,
+3667,-loride,,"epithelial sodium channel (ENaC) inhibitors, amiloride derivatives",suffix,
+3668,-lubant,,leukotriene receptor antagonists (treatment of inflammatory skin disorders),suffix,GPCR
+3669,-luren,,inducers of ribosomal readthrough on nonsense mutation mRNA stop codons,suffix,
+3670,-lutamide,,non-steroid antiandrogens,suffix,
+3671,-mab,,monoclonal antibodies,suffix,
+3672,-madlin,,ubiquitin ligase inhibitors,suffix,
+3673,-manid,,mycolic acid inhibitors,suffix,
+3674,-mantadine,,antivirals/antiparkinsonians (adamantane derivatives),suffix,
+3675,-mantine,,antivirals/antiparkinsonians (adamantane derivatives),suffix,
+3676,-melagon,,melanocortin-1 receptor (MC1R) agonists,suffix,
+3677,-meline,,cholinergic agonists (arecoline derivatives used in treatment of Alzheimer's disease,suffix,
+3678,-melteon,,selective melatonin receptor agonist,suffix,GPCR
+3679,-menib,,inhibitor of the menin-MLL (KMT2A) receptor,suffix,
+3680,-mer,,polymers,suffix,
+3681,-mer,-drimer,polymers: dendrimers,suffix,
+3682,-meran,,messenger RNA (mRNA),suffix,
+3683,-mesine,,sigma receptor ligands,suffix,
+3684,-mestane,,antineoplastics (aromatase inhibitors),suffix,
+3685,-metacin,,anti-inflammatory agents (indomethacin type),suffix,
+3686,-mdor,,postive allosteric modulators not acting as agonists NMDA,suffix,
+3687,-mdor,-nemdor,postive allosteric modulators not acting as agonists NMDA: postive allosteric modulators not acting as agonists NMDA,suffix,
+3688,-meton,,hepatocyte growth factor (HGF)-MET agonists,suffix,
+3689,-metrep,,"antagonists of the transient receptor potential channel (TRP), melatsatin (TRPM) type",suffix,
+3690,-micin,,antibiotics (Micromonospora strains),suffix,
+3691,-minib,,"kinase inhibitor, binds to myristoyl binding site",suffix,
+3692,-monam,,monobactam antibiotics,suffix,
+3693,-moren,,non-peptidic growth hormone secretagogues,suffix,
+3694,-motine,,antivirals (quinoline derivatives),suffix,
+3695,-moxin,,monoamine oxidase inhibitors (hydrazine derivatives),suffix,
+3696,-mulin,,"antibacterials, pleuromulin derivatives",suffix,
+3697,-multin,,mucosal tolerance inductors,suffix,
+3698,-mustine,,antineoplastics (chloroethylamine derivatives),suffix,
+3699,-mycin,,antibiotics (Streptomyces strain),suffix,
+3700,nab-,,cannabinol derivatives,prefix,GPCR
+3701,-nab-,,cannabinol derivatives,infix,GPCR
+3702,-nab,,cannabinol derivatives,suffix,GPCR
+3704,-nab-,-nabant,"cannabinol derivatives: CB (e.g., CB, CB2, etc.) cannabinoid receptor antagonists",suffix,GPCR
+3706,-naclid,,"solute carrier family 6, including sodium and chloride-dependent creatine transporter 1 (SLC6A8), inhibitors alpha-synuclein oligomerization inhibitors",suffix,
+3707,nal-,,narcotic agonists/antagonists (normorphine type),prefix,GPCR
+3708,-nal-,,narcotic agonists/antagonists (normorphine type),infix,
+3709,-napanor,,sodium-hydrogen antiporter (also called sodium-proton exchanger) inhibitors,suffix,
+3710,-napant,,inhibitor of apoptosis protein (IAP),suffix,
+3711,-nemdaz,,N-methyl D-aspartate (NMDA) receptor antagonists (N2B subunit),suffix,
+3712,-nepag,,non-prostanoid prostaglandin receptor agonists,suffix,
+3713,-nesib,,kinesin inhibitors,suffix,
+3714,-netap,,neurotoxic protein translation inhibitors,suffix,
+3715,-neurin,,neurotensin receptor antagonists; neurotropins,suffix,GPCR
+3716,-nexor,,exportin 1 inhibitors,suffix,
+3717,-nicline,,nicotinic acetylcholine receptor partial agonists/agonists,suffix,ion channel
+3718,-nidap,,nonsteroidal anti-inflammatory agents (tenidap type),suffix,
+3719,-nidazole,,antiprotozoal substances (metronidazole type),suffix,
+3720,nifur-,,5-nitrofuran derivatives,prefix,
+3721,-nixin,,anti-inflammatory agents (anilinonicotinic acid derivatives),suffix,
+3722,-nod,,"nitrogen oxide (eg., nitrxyl and nitric oxide) donors",suffix,
+3723,-nontrine,,phosphodiesterase type 9 (PDE9) inhibitors,suffix,
+3724,-oligide,,decoy oligodeoxynucleotides (ODNs),suffix,
+3725,-olol,,beta-blockers (propranolol type),suffix,GPCR
+3726,-olone,,steroids (not prednisolone derivatives),suffix,NR
+3727,-onide,,topical steroids (acetal derivatives),suffix,NR
+3728,-opilone,,epothilones,suffix,
+3729,-opran,,opioid receptor antagonists,suffix,GPCR
+3730,-orex,,anorexiants,suffix,
+3732,-orphan,,narcotic antagonists/agonists (morphinan derivatives),suffix,GPCR
+3733,-orphan-,,narcotic antagonists/agonists (morphinan derivatives),infix,
+3734,-osuran,,urotensin receptor antagonists,suffix,GPCR
+3735,-otilate,,"hepatoprotectants, di-isopropyl (1,3-dithiol-2-ylidene) propanedioate and related compounds",suffix,
+3736,-oxacin,,antibacterials (quinolone derivatives),suffix,
+3737,-oxane,,alpha-adrenoceptor antagonists (benzodioxane derivatives),suffix,
+3738,-oxan,,alpha-adrenoceptor antagonists (benzodioxane derivatives),suffix,
+3739,-oxanide,,antiparasitics (salicylanilide derivatives),suffix,
+3740,-oxef,,antibiotics (oxacefalosporanic acid derivatives),suffix,
+3741,-oxetine,,antidepressants (fluoxetine type),suffix,
+3742,-oxetine,-tioxetine,antidepressants (fluoxetine type): thioether derivatives,suffix,
+3743,-oxin,,"fluoroquinolone derivatives, nonantibacterial indication (e.g., antineoplastic antibiotics)",suffix,
+3744,-padon,,"dopamine D1-like receptors (e.g., D1 and D5 subtypes) agonists/partial agonists and potentiators",suffix,
+3745,-pafant,,platelet-activating factor antagonists,suffix,GPCR
+3746,-pamide,,diuretics (sulfamoylbenzoic acid derivatives),suffix,
+3747,-pamil,,coronary vasodilators (verapamil type),suffix,ion channel
+3748,-pamine,,dopaminergics (butopamine type),suffix,GPCR
+3749,-pansel,,selectin antagonists inhibiting all selectin types,suffix,
+3750,-parantag,,antagonists of heparin and/or low molecular weight heparins,suffix,
+3751,-parcin,,glycopeptide antibiotics,suffix,
+3752,-parib,,poly-ADP-ribose polymerase inhibitors,suffix,
+3753,-parin,,heparin derivatives and low molecular weight (or depolymerized) heparins,suffix,
+3754,-parinux,,antihrombotic indirect selective synthetic factor Xa inhibitors,suffix,
+3755,-paroid,,antithrombotics (heparinoid type),suffix,
+3756,-paxar,,Protease-activated receptor 1 (PAR1) antagonists,suffix,
+3757,peg-,,"PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer",prefix,
+3758,-penem,,"antibacterial antibiotics, carbapenem derivatives",suffix,
+3759,perflu-,,blood substitutes and/or diagnostics (perfluorochemicals),prefix,
+3760,-perit,,neuropeptide Y5 antagonists,suffix,GPCR
+3761,-perone,,antianxiety agents/neuroleptics (4'-fluoro-4-piperidinobutyrophenone derivatives),suffix,
+3762,-perone,-peridol,antianxiety agents/neuroleptics (4'-fluoro-4-piperidinobutyrophenone derivatives): antipsychotics (haloperidol type),suffix,
+3763,-perone,-peridone,antianxiety agents/neuroleptics (4'-fluoro-4-piperidinobutyrophenone derivatives): antipsychotics (risperidone type),suffix,
+3764,-pertin,,glycine transporter/reuptake inhibitors,suffix,
+3765,-pezil,,acetylcholinesterase inhibitors used in the treatment of Alzheimer's disease,suffix,
+3766,-pidem,,hypnotics/sedatives (zolpidem type),suffix,ion channel
+3767,-pin,,tricyclic compounds,suffix,
+3768,-pine,,tricyclic compounds,suffix,
+3769,-piprant,,"prostaglandin receptor antagonists, non prostinoid structure",suffix,
+3770,-pirdine,,serotonin 5-HT6 receptor inhibitors,suffix,GPCR
+3771,-pirox,,antimycotics (pyridone derivatives),suffix,
+3772,-pivat,,pyruvate kinase activators,suffix,
+3773,-plact,,platelet factor 4 analogs and derivatives,suffix,GPCR
+3774,-pladib,,phospholipase A2 inhibitors,suffix,
+3775,-plam,,survival motor neurin SMN1 and SMN2 splicing modulators,suffix,
+3776,-planin,,antibacterials (Actinoplanes strains),suffix,
+3777,-plasinin,,inhibitors of plasminogen activator inhibitors- type 1,suffix,
+3778,-plasmin,,plasmin proteins and derivatives,suffix,
+3779,-platin,,antineoplastics (platinum derivatives),suffix,
+3780,-plenib,,spleen tyrosine kinase (Syk) inhibitors,suffix,
+3781,-plon,,"non-benzodiazepine anxiolytics, sedatives, hypnotics",suffix,
+3782,-podect,,phosphodiesterase 10 (PDE10) inhibitors,suffix,
+3783,-podun,,phosphodiesterase type 1 (PDE1) ihibitors,suffix,
+3784,-poetin,,erythropoietins,suffix,
+3785,-porfin,,benzoporphyrin derivatives,suffix,
+3786,-pramine,,antidepressants (imipramine type),suffix,
+3787,-prazan,,"proton pump inhibitors, not dependent on acid activation",suffix,
+3788,-prazole,,antiulcer agents (benzimidazole derivatives),suffix,
+3789,-prazole,-maprazole,antiulcer agents (benzimidazole derivatives): proton pump inhibitors,suffix,
+3790,pred-,,prednisone and prednisolone derivatives,prefix,NR
+3791,-pred-,,prednisone and prednisolone derivatives,infix,NR
+3792,-pred,,prednisone and prednisolone derivatives,suffix,NR
+3793,-pressin,,vasoconstrictors (vasopressin derivatives),suffix,GPCR
+3794,-pril,,antihypertensives (ACE inhibitors),suffix,protease
+3795,-pril-,,antihypertensives (ACE inhibitors),infix,
+3797,-pril-,-prilat,"antihypertensives (ACE inhibitors): antihypertensives (ACE inhibitors), diacid analogs",suffix,
+3798,-prinim,,"nootropic agents (learning/cognitive enhancers), purine derivatives",suffix,
+3799,-prim,,"antibacterials (trimethoprim type), dihydrofolate reductase (DHFR) inhibitors",suffix,
+3800,-pris-,,steriodal compounds acting on progesterone receptors (excluding-gest- compounds),infix,
+3801,-prisnil,,selective progesterone receptor modulators (SPRM),suffix,NR
+3802,-pristin,,"antibacterials, pristinamycin derivatives",suffix,
+3803,-pristone,,progesterone receptor antagonists,suffix,NR
+3804,-profen,,anti-inflammatory/analgesic agents (ibuprofen type),suffix,
+3805,-proget,,nonsteroidal ligand for the progesterone receptor,suffix,NR
+3806,-prost-,,prostaglandins,infix,GPCR
+3807,-prost,,prostaglandins,suffix,GPCR
+3808,-protafib,,protein tyrosine phosphatase 1B inhibitors,suffix,
+3809,-pterin,,pteridine derivatives,suffix,
+3810,-punil,,"mitochondrial benzodiazepine receptor (MBR) selective, partial, or inverse agonists (purine derivatives)",suffix,
+3811,-queside,,cholesterol sequestrants (glycosides),suffix,
+3812,-quiline,,"antibiotics, diarylquinoline structure",suffix,
+3813,-quinil,,"benzodiazepine receptor agonists, partial agonists, inverse agonists (quinolone derivatives)",suffix,
+3814,-racetam,,"nootropic agents (learning, cognitive enhancers), piracetam type",suffix,
+3815,-racil,,uracil type antineoplastics,suffix,
+3816,-rafenib,,rapidly accelerated fibrosarcoma (RAF) kinase inhibitors,suffix,kinase
+3817,-ragon,,receptor for advanced glycation endproducts (RAGE) inhibitors,suffix,
+3818,-rasib,,Kirsten rat sarcoma (KRAS) inhibitors,suffix,
+3819,-rebant,,retinol binding protein 4 (RBP4) antagonists,suffix,
+3820,-relin,,prehormones or hormone-release stimulating peptides,suffix,
+3821,-relin,-morelin,prehormones or hormone-release stimulating peptides: growth hormone-release stimulating peptides,suffix,
+3822,-relin,-tirelin,prehormones or hormone-release stimulating peptides: thyrotropin releasing hormone analogues,suffix,GPCR
+3823,-relix,,hormone-release inhibiting peptides,suffix,
+3824,-renone,,aldosterone antagonists (spironolactone type),suffix,NR
+3825,-resdax,,reactive nitrogen and/or oxygen species redox modulators,suffix,
+3826,-retin-,,retinol derivatives,infix,NR
+3827,-retin,,retinol derivatives,suffix,NR
+3828,-rian,,ryanodine receptor modulators,suffix,
+3829,-ribine,,ribofuranil derivatives (pyrazofurin type),suffix,
+3830,rifa-,,antibiotics (rifamycin derivatives),prefix,
+3831,-rinone,,cardiotonics (amrinone type),suffix,PDE
+3832,-rixin,,chemokine (C-X-C motif) receptor 2 (CXCR2) modulators,suffix,GPCR
+3833,-rocin,,t-RNA synthetase inhibitors,suffix,
+3834,-rogant,,retinoid-related orphan receptor-γt (RORγt) antagonists/inverse agonists,suffix,
+3835,-rozole,,aromatase inhibitors (imidazole/triazole derivatives),suffix,
+3836,-rsen,,antisense oligonucleotides,suffix,
+3837,-rsen,-nersen,antisense oligonucleotides: neurologic indications,suffix,
+3838,-rsen,-virsen,antisense oligonucleotides: antivirals,suffix,
+3839,-rubicin,,antineoplastic antibiotics (daunorubicin type),suffix,
+3840,sal-,,anti-inflammatory agents (salicylic acid derivatives),prefix,
+3841,-sal-,,anti-inflammatory agents (salicylic acid derivatives),infix,
+3842,-sal,,anti-inflammatory agents (salicylic acid derivatives),suffix,
+3843,-sap,,serum amyloid P (SAP) inhibitors,suffix,
+3844,-sarm,,selective androgen receptor modulator (non-steroidal),suffix,
+3845,-sartan,,angiotensin II receptor antagonists,suffix,GPCR
+3846,-selan,,E-selectin antagonists,suffix,
+3847,-semide,,diuretics (furosemide type),suffix,
+3848,-tiv,-semtiv,troponin activators skeletal muscle,suffix,
+3849,-serod,,serotonin receptor antagonists and partial agonists,suffix,GPCR
+3850,-serpine,,Rauwolfia alkaloid derivatives,suffix,
+3851,-sertib,,serine/threonine kinase inhibitors,suffix,
+3852,-setrag,,"serotonin 5-HT receptor agonists, not principally 5-HT2",suffix,GPCR
+3853,-setron,,serotonin 5-HT3 receptor antagonists,suffix,ion channel
+3854,-siban,,oxytocin antagonists,suffix,GPCR
+3855,-sidenib,,mutated isocitrate dehydrogenase (IDH) inhibitors,suffix,
+3856,-sidomine,,antianginals (sydnone derivatives),suffix,
+3857,-sidone,,antipsychotic with binding activity on sertonin (5-HT2A) and dopamine (D2) receptors,suffix,GPCR
+3858,-siptor,,Src homology 2-containing inositol-5' phosphatase 1 (SHIP1) activators,suffix,
+3859,-siran-,,small interfering RNA (siRNA),infix,
+3860,-sirvat,,silent mating type information regulator (SIRT1) receptor agonists,suffix,
+3861,-solmin,,alpha-synuclein oligomerization inhibitors,suffix,
+3862,som-,,growth hormone derivatives,prefix,
+3863,som-,som--bove,growth hormone derivatives: bovine somatotropin derivatives,combined prefix and suffix,
+3864,som-,som--por,growth hormone derivatives: porcine somatotropin derivatives,combined prefix and suffix,
+3865,-sonan,,serotonin 5-HT1B receptor inhibitors,suffix,GPCR
+3866,-sopasem,,superoxide dismutase (SOD) mimetics,suffix,
+3867,-spemin,,spermine and/or homospermine derivatives or analogs,suffix,
+3868,-spirone,,anxiolytics (buspirone type),suffix,GPCR
+3869,-stat,,enzyme inhibitors,suffix,
+3870,-stat-,,enzyme inhibitors,infix,
+3871,-stat,-alstat,enzyme inhibitors: 1) kallikrein inhibitors or 2) serine protease inhibitors,suffix,
+3872,-stat,-becestat,enzyme inhibitors: beta secretase inhibitors,suffix,
+3873,-stat,-castat,enzyme inhibitors: dopamine b-hydrolase (DBH) inhibitors,suffix,
+3874,-stat,-clustat,enzyme inhibitors: Cluster of differentiation (CD) inhibitors (alternative: CD73 inhibitors),suffix,
+3875,-stat,-costat,enzyme inhibitors: acetyl CoA carboxylase (ACC) inhibitors,suffix,
+3876,-stat,-daxistat,enzyme inhibitors: D-amino acid oxidase (DAAO) inhibitors,suffix,
+3877,-stat,-dostat,"enzyme inhibitors: indoleamine 2, 3-dioxygenase 1 (IDO1) inhibitors",suffix,
+3878,-stat,-drostat,enzyme inhibitors: inhibitors of aldosterone synthase,suffix,
+3879,-stat,-dustat,enzyme inhibitors: hypoxia-inducible factor (HIF) prolyl hydroxylase inhibitors,suffix,
+3880,-stat,-elestat,enzyme inhibitors: elastase inhibitors,suffix,protease
+3881,-stat,-fanstat,enzyme inhibitors: fatty acid synthase inhibitors,suffix,
+3882,-stat,-faxstat,enzyme inhibitors: partial fatty acid oxidation (pFOX) inhibitor,suffix,
+3883,-stat,-filstat,enzyme inhibitors: anti-fibrotic/cyclophilin inhibitor,suffix,
+3884,-stat,-folastat,enzyme inhibitors: folate hydrolose (also called Prostate Specific Membrane Antigen (PSMA) or glutamate carboxypeptidase II) inhibitors,suffix,
+3885,-stat,-gacestat,enzyme inhibitors: gamma secretase inhibitors,suffix,
+3886,-stat,-glenastat,enzyme inhibitors: glutaminase inhibitor,suffix,
+3887,-stat,-glustat,enzyme inhibitors: glucosyltransferase inhibitors,suffix,
+3888,-stat,-inostat,enzyme inhibitors: histone deacetylase inhibitors,suffix,
+3889,-stat,-lanstat,enzyme inhibitors: lanosterol 14a-demethylase inhibitors,suffix,
+3890,-stat,-listat,enzyme inhibitors: gastrointestinal lipase inhibitors,suffix,
+3891,-stat,-mastat,enzyme inhibitors: matrix metalloprotease inhibitors,suffix,protease
+3892,-stat,-metostat,enzyme inhibitors: histone N-methyl transferase inhibitors,suffix,
+3893,-stat,-(a)mostat,enzyme inhibitors: proteolytic enzyme inhibitors,suffix,protease
+3894,-stat,-parstat,enzyme inhibitors: heparin derivatives,suffix,
+3895,-stat,-perstat,enzyme inhibitors: myeloperoxidase inhibitors,suffix,
+3896,-stat,-polstat,enzyme inhibitors: DNA polymerase,suffix,
+3897,-stat,-quistat,enzyme inhibitors: squalene synthase inhibitors,suffix,
+3899,-stat,-restat,enzyme inhibitors: aldose-reductase inhibitors,suffix,
+3900,-stat,-sonstat,enzyme inhibitors: s-nitrosoglutathione reductase (GSNOR) inhibitors,suffix,
+3902,-stat,-sumstat,enzyme inhibitors: small ubiquitin-like modifier inhibitor,suffix,
+3903,-stat,-telstat,enzyme inhibitors: telomerase inhibitors,suffix,
+3904,-stat,-tiostat,enzyme inhibitors: glutathione-s- transferase inhibitors,suffix,
+3905,-stat,-tristat,enzyme inhibitors: tryptophan hydroxylase inhibitors,suffix,
+3906,-stat,-unistat,enzyme inhibitors: nitric oxide synthase inhibitors,suffix,
+3907,-stat,-urestat,enzyme inhibitors: urease inhibitors,suffix,
+3908,-stat,-xestat,enzyme inhibitors: autotaxin inhibitors,suffix,
+3909,-stat,-xostat,enzyme inhibitors: xanthine oxidase/dehydrogenase inhibitors,suffix,
+3949,-ster-,,"steroids (androgens, anabolics)",infix,NR
+3950,-steride,,testosterone reductase inhibitors,suffix,NR
+3951,-stigmine,,cholinesterase inhibitors (physostigmine type),suffix,
+3952,-stim,,colony-stimulating factors,suffix,
+3953,-stim,-distim,colony-stimulating factors: conjugates of two different types of colony-stimulating factors,suffix,
+3954,-stim,-gramostim,colony-stimulating factors: granulocyte macrophage colony-stimulating factors (GM-CSF),suffix,
+3955,-stim,-grastim,colony-stimulating factors: granulocyte colony-stimulating factors (G-CSF),suffix,
+3956,-stim,-mostim,colony-stimulating factors: macrophage colony-stimulating factors (M-CSF),suffix,
+3957,-stim,-plestim,colony-stimulating factors: interleukin 3 deriviatives; pleiotropic colony-stimulating factors,suffix,
+3958,-stinel,,"N-methyl-D-asparate (NMDA) receptor antagonist/agonists, glycine recognition site",suffix,ion channel
+3959,-sulam,,"antineoplastics, apoptosis inducing sulfonamide",suffix,
+3960,sulfa-,,antimicrobials (sulfonamides derivatives),prefix,
+3961,-sulfan,,"antineoplastics, alkylating agents (methane sulfonate derivatives)",suffix,
+3962,-sulind,,"antineoplastics, pro-apoptotic cGMP phosphodiesterase inhibitors, sulindac metabolites",suffix,
+3963,-pride,,sulpride derivatives and analogs,suffix,GPCR
+3964,-tansine,,maytansinoid derivatives,suffix,
+3965,-tant,,tachykinin (neurokinin) receptor antagonists,suffix,
+3966,-tant,-dutant,tachykinin (neurokinin) receptor antagonists: NK2 receptor antagonists,suffix,GPCR
+3967,-tant,-nertant,tachykinin (neurokinin) receptor antagonists: neurotensin receptor antagonists,suffix,
+3968,-tant,-netant,tachykinin (neurokinin) receptor antagonists: NK3 receptor antagonists,suffix,GPCR
+3969,-tant,-pitant,tachykinin (neurokinin) receptor antagonists: NK1 receptor antagonists,suffix,GPCR
+3970,-tapide,,microsomal triglyceride transfer protein (MTP) inhibitors,suffix,
+3971,-taront,,trace amine associated receptor (TAAR) agonists,suffix,
+3972,-taxel,,"antineoplastics, taxane derivatives",suffix,
+3973,-tecan,,antineoplastics (camptothecin derivatives),suffix,
+3974,-tecarin,,antineoplastics (rebeccamycin derivatives),suffix,
+3975,-tepa,,antineoplastics (thiotepa derivatives),suffix,
+3976,-terkib,,extracellular signal regulated kinase (ERK) types 1 and 2 inhibitors (formerly-xertinib),suffix,
+3977,-terol,,bronchodilators (phenethylamine derivatives),suffix,GPCR
+3978,-terone,,antiandrogens,suffix,
+3979,-terone,-teronel,antiandrogens: non-steroid antiandrogens,suffix,
+3980,-tesind,,thymidylate synthase inhibitors (benzindole derivatives),suffix,
+3981,-thiazide,,diuretics (thiazide derivatives),suffix,
+3982,-tiapine,,antipsychotics (dibenzothiazepine derivatives),suffix,GPCR
+3983,-tiazem,,calcium channel blockers (diltiazem type),suffix,ion channel
+3984,-tibant,,antiasthmatics (bradykinin antagonists),suffix,GPCR
+3985,-tide,,peptides,suffix,
+3986,-tide,-actide,peptides: synthetic corticotropins,suffix,GPCR
+3987,-tide,-ciclatide,peptides: cyclic peptides,suffix,
+3988,-tide,-clotide,peptides: gastrointestinal functions; normalizing agent,suffix,
+3989,-tide,-dutide,peptides: oxyntomodulin analogs,suffix,
+3990,-tide,-enatide,peptides: exendin-4-derivatives,suffix,
+3991,-tide,-esatide,peptides: erythropoiesis stimulating agents and/or erythropoietin mimetic peptides,suffix,
+3992,-tide,-fibatide,peptides: platelet aggregation inhibitor (GPIIb/IIIa receptor antagonist),suffix,
+3993,-tide,-gaptide,peptides: gap junction protein channel modulators,suffix,
+3994,-tide,-glutide,peptides: glucagon-like peptide (GLP) analogs,suffix,GPCR
+3995,-tide,-lintide,peptides: amylin derivatives or mimics,suffix,
+3996,-tide,-melanotide,peptides: melanocortin receptor agonists,suffix,
+3997,-tide,-murtide,peptides: peptides with muranic acid present,suffix,
+3998,-tide,-netide,peptides: neuropeptide Y (NPY) receptors and analogues,suffix,
+3999,-tide,-nitide,peptides: angiogenesis related peptides,suffix,
+4000,-tide,-paratide,peptides: parathyroid hormone related peptide,suffix,
+4001,-tide,-potide,peptides: peptides with prostate cancer indications,suffix,
+4002,-tide,-pultide,peptides: peptides used as pulmonary surfactants,suffix,
+4003,-tide,-ramtide,peptides: recruiting antibody molecule,suffix,
+4004,-tide,-reotide,peptides: inhibition of growth hormone release,suffix,
+4005,-tide,-ritide,peptides: atrial natriuretic type substances,suffix,
+4006,-tide,-sortide,"peptides: targets the Vps10p sorting receptor family (e.g., sortilin)",suffix,
+4007,-tide,-virtide,peptides: antiviral peptides,suffix,
+4008,-tide,-votide,peptides: (prostate-specific membrane antigen) PSMA binding peptide,suffix,
+4009,-tide,-zotide,peptides: zonulin antagonists,suffix,
+4010,-tidine,,H2-receptor antagonists (cimetidine type),suffix,GPCR
+4011,-tinib,,tyrosine kinase inhibitors,suffix,kinase
+4012,-tinib,-brutinib,tyrosine kinase inhibitors: tyrosine kinase inhibitors Bruton's (Btk) inhibitors,suffix,kinase
+4013,-tinib,-citinib,tyrosine kinase inhibitors: tyrosine kinase inhibitors; janus kinase inhibitors,suffix,
+4014,-tinib,-ertinib,tyrosine kinase inhibitors: epidermal growth factor receptor (EGFR) inhibitors,suffix,
+4015,-tinib,-metinib,tyrosine kinase inhibitors: tyrosine kinase inhibitors; MEK (MAPK kinase) inhibitors,suffix,kinase
+4016,-tinib,-trectinib,tyrosine kinase inhibitors: tropomyosin receptor kinase (TRK) inhibitors,suffix,
+4017,-tirom-,,"antihyperlipidemic, thyromimetic derivatives",infix,
+4018,-tirotide,,neuropeptide Y (NPY) inhibitors,suffix,
+4019,-tocin,,oxytocin derivatives,suffix,GPCR
+4020,-toclax,,bcl-2 (B-cell lymphoma 2) inhibitors,suffix,
+4021,-toin,,antiepileptics (hydantoin derivatives),suffix,
+4022,-toran,,toll-like receptor antagonists,suffix,
+4023,-traline,,selective serotonin reuptake inhibitors (SSRI),suffix,
+4024,-treg-,,cellular therapy T regulatory cells,infix,
+4025,-tremon,,transient receptor potential cation cannel subfamily M member 8 (TRPM8) agonists [also known as the cold and menthol receptor 1 (CMR1)],suffix,
+4026,-trep,,transient receptor potential antagonists,suffix,
+4027,-trexate,,antimetabolites (folic acid derivatives),suffix,
+4028,-trexed,,antineoplastic thymidylate synthetase inhibitors,suffix,
+4029,-tricin,,antibiotics (polyene derivatives),suffix,
+4030,-trigine,,"sodium channel blockers, signal transduction modulators",suffix,
+4031,-tril,,endopeptidase inhibitors,suffix,protease
+4032,-trilat,,endopeptidase inhibitors,suffix,protease
+4033,-tril,-lutril,endopeptidase inhibitors: neutral endopeptidase inhibitors possessing additional endothelin converting enzyme inhibitory activity,suffix,
+4034,-tril,-patril,endopeptidase inhibitors: ACE (angiotensin-1 converting enzyme) and NEP (neutral endopeptidase) inhibitors,suffix,
+4038,-trilat,-patrilat,endopeptidase inhibitors: ACE (angiotensin-1 converting enzyme) and NEP (neutral endopeptidase) inhibitors,suffix,
+4039,-triptan,,antimigraine agents (5-HT1 receptor agonists); sumatriptan derivatives,suffix,GPCR
+4040,-triptyline,,"antidepressants (dibenzol[a,d]cycloheptane derivatives)",suffix,
+4041,-troban,,antithrombotics (thromboxane A2 receptor antagonists),suffix,GPCR
+4042,-troline,,antipsychotics (dopamine D2 antagonists),suffix,GPCR
+4043,-trombopag,,thrombopoetin agonists,suffix,
+4044,-trop-,,atropine derivatives,infix,GPCR
+4045,-trop,,atropine derivatives,suffix,GPCR
+4046,trop-,,atropine derivatives,prefix,GPCR
+4047,-uracil,,uracil derivatives used as thyroid antagonists and as antineoplastics,suffix,
+4048,-uridine,,antivirals; antineoplastics (uridine derivatives),suffix,
+4049,-vancin,,vancomycin-related compounds,suffix,
+4050,-vaptan,,vasopressin receptor antagonists,suffix,GPCR
+4051,-vatrep,,vanilloid 1 receptor antagonists,suffix,
+4052,-verine,,spasmolytic agents (papaverine type),suffix,
+4053,vin-,,vinca alkaloids,prefix,
+4054,-vin-,,vinca alkaloids,infix,
+4055,vir-,,antivirals,prefix,
+4056,-vir-,,antivirals,infix,
+4057,-vir,,antivirals,suffix,
+4096,-vir-,-virenz,antivirals: non-nucleoside reverse transcriptase inhibitors; benzoxazinone derivatives,suffix,
+4097,-vir-,-virimat,"antivirals: antiviral, disrupts viral maturation",suffix,
+4098,-vir-,-virine,"antivirals: non-nucleoside reverse transcriptase inhibitors, not benzoxazinone derivatives",suffix,
+4100,-vir,-amivir,antivirals: neuraminidase inhibitors,suffix,
+4101,-vir,-asvir,antivirals: nonstructural protein 5A (NS5A) inhibitors,suffix,
+4102,-vir,-atovir,antivirals: respiratory syncytial virus (RSV) fusion inhibitors,suffix,
+4103,-vir,-buvir,antivirals: RNA polymerase (NS5B) inhibitors,suffix,
+4104,-vir,-capavir,antivirals: viral capsid inhibitors,suffix,
+4105,-vir,-cavir,antivirals: carbocyclic nucleosides,suffix,
+4106,-vir,-corvir,antivirals: inhibitor of functional assembly of viral core proteins,suffix,
+4107,-vir,-cyclovir,antivirals: antivirals (acyclovir type),suffix,
+4108,-vir,-ciclovir,antivirals: antivirals (acyclovir type),suffix,
+4109,-vir,-desivir,antivirals: adenosine analogs acting as RNA polymerase inhibitors,suffix,
+4110,-vir,-gosivir,antivirals: glucosidase inhibitors,suffix,
+4111,-vir,-navir,antivirals: HIV protease inhibitors (saquinavir type),suffix,protease
+4112,-vir,-piravir,"antivirals: treatments of SARS-CoV-2 infection, inhibiting viral RNA replication",suffix,
+4113,-vir,-previr,antivirals: serine protease inhibitors,suffix,protease
+4114,-vir,-sporivir,antivirals: cyclosporine derivatives,suffix,
+4115,-vir,-tegravir,antivirals: integrase inhibitors,suffix,
+4116,-vir,-trelvir,antivirals: inhibitor of COVID 3CL protease,suffix,
+4121,-viroc,,"antivirals, chemokine receptor (CCR) antagonists",suffix,GPCR
+4122,-viroc,-criviroc,"antivirals, chemokine receptor (CCR) antagonists: immunomodulators",suffix,
+4123,-vivint,,WNT (wingless-type mouse mammary tumor virus) pathway inhibitors,suffix,
+4124,-vudine,,antineoplastics; antivirals (zidovudine group) (exception: edoxudine),suffix,
+4125,-xaban,,"antithrombotics, blood coagulation factor XA inhibitors",suffix,protease
+4126,-xanox,,antiallergic respiratory tract drugs (xanoxic acid derivatives),suffix,
+4127,-xetan,,chelating agents,suffix,
+4128,-xian,,coagulation factor XIa inhibitors,suffix,
+4129,-zolamide,,carbonic anhydrase inhibitors,suffix,
+4130,-zolid,,oxazolidinone antibacterials,suffix,
+4131,-zomib,,proteozome inhibitors,suffix,
+4132,-zotan,,5-HT1A receptor agonists/antagonists acting primarily as neuroprotectors,suffix,GPCR
+4133,-peg-,,"PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer",infix,
+4134,stat-,,enzyme inhibitors,prefix,

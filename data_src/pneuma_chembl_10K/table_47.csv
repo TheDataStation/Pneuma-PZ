@@ -1,0 +1,1681 @@
+warning_id,record_id,molregno,warning_type,warning_class,warning_description,warning_country,warning_year,efo_term,efo_id,efo_id_for_warning_class
+1,1343079,2341159,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2,1343079,2341159,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+3,1343079,2341159,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+4,2138986,1763543,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+5,1344548,237298,Black Box Warning,,,United States,,,,
+11,1697433,1380836,Black Box Warning,,,United States,,,,
+16,1343835,16450,Black Box Warning,misuse,,United States,,,,EFO:0011049
+17,1343835,16450,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+26,1344915,169652,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+27,1344915,169652,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+35,1343689,83515,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+36,1343689,83515,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+37,1343689,83515,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+44,1695896,1380107,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+47,1343607,864943,Black Box Warning,,,United States,,,,
+56,1344479,675582,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+57,1344479,675582,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+58,1344479,675582,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+61,1343431,674482,Black Box Warning,misuse,,United States,,,,EFO:0011049
+64,1390871,675775,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+66,1344106,1926908,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+72,1344799,674836,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+81,1343324,435293,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+83,1344320,154051,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+88,1343608,2287105,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+89,1343608,2287105,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+98,1344376,630439,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+99,1343143,674915,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+106,1343950,155045,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+108,1344593,543,Black Box Warning,misuse,,United States,,,,EFO:0011049
+109,1344804,8838,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+110,1344804,8838,Black Box Warning,misuse,,United States,,,,EFO:0011049
+130,1343887,155006,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+134,1343644,674929,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+135,1343644,674929,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+145,1344114,1279,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+152,1343924,308917,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+158,1343926,431141,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+159,1343926,431141,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+160,1343926,431141,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+161,1344643,674351,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+162,1344643,674351,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+163,1344643,674351,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+165,1583655,1376065,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+168,1343914,674509,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+170,1343184,32869,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+172,1702681,1378029,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+173,1702681,1378029,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+178,1702595,1377970,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+179,1392874,1121861,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+183,1344171,544432,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+192,1343423,798263,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+210,1344853,119498,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+221,1392876,1121863,Black Box Warning,,,United States,,,,
+224,1343869,93617,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+225,1343869,93617,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+227,1344999,675387,Black Box Warning,,,United States,,,,
+231,1702682,1378030,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+236,1392880,1121867,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+242,1343888,139281,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+243,1343889,674347,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+245,1343316,446784,Black Box Warning,misuse,,United States,,,,EFO:0011049
+246,1343316,446784,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+247,1343637,1543312,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+248,1343637,1543312,Black Box Warning,misuse,,United States,,,,EFO:0011049
+249,1344610,675686,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+250,1343619,545956,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+252,1344141,56644,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+256,1343658,76963,Black Box Warning,misuse,,United States,,,,EFO:0011049
+257,1343658,76963,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+258,1344899,675699,Black Box Warning,,,United States,,,,
+261,1699873,1376138,Black Box Warning,,,United States,,,,
+277,1344584,116349,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+279,1343623,598447,Black Box Warning,,,United States,,,,
+283,1344353,444750,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+285,1344571,15086,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+286,1344571,15086,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+289,1343903,300022,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+290,1343903,300022,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+296,1702644,1339907,Black Box Warning,,,United States,,,,
+313,1344003,674481,Black Box Warning,,,United States,,,,
+317,1344452,61682,Black Box Warning,,,United States,,,,
+322,1344122,18694,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+323,1344122,18694,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+324,1344122,18694,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+327,1390836,675782,Black Box Warning,,,United States,,,,
+330,1344036,675579,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+337,1343349,11002,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+338,1343349,11002,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+339,1343344,674680,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+364,1343977,2832026,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+365,1343977,2832026,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+366,1343977,2832026,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+367,1343977,2832026,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+373,1343960,241,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+374,1343960,241,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+375,1344441,210388,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+376,1344441,210388,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+380,1344579,8633,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+381,1344579,8633,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+382,1344579,8633,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+383,1344579,8633,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+384,1343639,674732,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+385,1343967,467361,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+390,1698337,581843,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+391,1344388,674539,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+392,1343385,674583,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+393,1343138,1673803,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+396,1344368,641189,Black Box Warning,,,United States,,,,
+400,1343314,674661,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+402,1343614,548124,Black Box Warning,,,United States,,,,
+408,1344626,2261,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+410,1344626,2261,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+414,1702339,447955,Black Box Warning,misuse,,United States,,,,EFO:0011049
+416,1343496,2335062,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+417,1343496,2335062,Black Box Warning,misuse,,United States,,,,EFO:0011049
+442,1344970,72873,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+443,1344970,72873,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+444,1344970,72873,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+450,1343645,51182,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+454,1343409,5772,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+455,1343409,5772,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+464,1344474,405364,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+465,1344474,405364,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+466,1344474,405364,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+467,1344474,405364,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+468,1344475,84644,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+473,1344443,675493,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+474,1344443,675493,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+476,1344443,675493,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+480,1343685,674426,Black Box Warning,,,United States,,,,
+481,1343998,446279,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+482,1343998,446279,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+484,1343749,564990,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+486,1343749,564990,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+487,1343749,564990,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+488,1435099,112090,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+492,1702485,1377908,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+495,1697230,675367,Black Box Warning,,,United States,,,,
+499,1344689,545075,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+502,1343490,674507,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+505,1879208,161281,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+506,1938076,2197732,Black Box Warning,,,United States,,,,
+507,1344146,675679,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+514,1344109,78902,Black Box Warning,misuse,,United States,,,,EFO:0011049
+520,1343296,1926820,Black Box Warning,misuse,,United States,,,,EFO:0011049
+530,1937947,29890,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+531,1937947,29890,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+532,1937947,29890,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+533,1344967,675131,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+534,1344967,675131,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+535,1344967,675131,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+536,1343952,674755,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+537,1343952,674755,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+538,1343952,674755,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+539,1343686,123693,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+540,1343686,123693,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+541,1343686,123693,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+544,1343993,390877,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+545,1343993,390877,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+546,1343993,390877,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+547,1344758,675813,Black Box Warning,,,United States,,,,
+553,1343647,77652,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+554,1343647,77652,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+555,1343647,77652,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+558,1343648,674468,Black Box Warning,,,United States,,,,
+565,1976817,1626776,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+566,1976817,1626776,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+570,1343204,674971,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+571,1344933,94571,Black Box Warning,,,United States,,,,
+572,1344599,1377883,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+573,1344599,1377883,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+575,1344343,1927101,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+577,1344343,1927101,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+578,1344343,1927101,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+580,1343202,5638,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+591,1344351,1051125,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+593,1344690,462435,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+594,1344690,462435,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+595,1344600,2197611,Black Box Warning,,,United States,,,,
+597,1343725,675680,Black Box Warning,,,United States,,,,
+598,1344691,152751,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+600,1697108,1380293,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+601,1343212,674279,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+605,1976760,1626757,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+608,1390864,675788,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+621,1697541,1380942,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+623,1697541,1380942,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+625,1343468,2197562,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+631,1344228,74911,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+632,1344813,674610,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+633,1344299,2197277,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+634,2973287,2197802,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+637,1343838,2832013,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+638,1343838,2832013,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+642,1344692,674932,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+643,1344692,674932,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+649,1343162,1590760,Black Box Warning,,,United States,,,,
+660,1344718,674273,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+661,1879128,1540481,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+668,1344327,27626,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+669,1344327,27626,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+670,1344327,27626,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+671,1344720,674381,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+672,1344720,674381,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+673,1344720,674381,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+674,1343232,674924,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+675,1343232,674924,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+676,1343232,674924,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+677,1344629,421038,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+678,1344629,421038,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+679,1344629,421038,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+686,1344566,675552,Black Box Warning,,,United States,,,,
+690,1344694,674931,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+691,1344694,674931,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+692,1344694,674931,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+693,1343535,421334,Black Box Warning,misuse,,United States,,,,EFO:0011049
+694,1343234,675371,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+705,1344314,26431,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+706,1344314,26431,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+707,1344314,26431,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+709,1343829,68607,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+712,1344572,1248731,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+713,1344572,1248731,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+714,1344572,1248731,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+715,1344572,1248731,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+718,1344847,390990,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+720,1392855,61945,Black Box Warning,,,United States,,,,
+723,1343148,150451,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+725,1343148,150451,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+730,1343089,1376006,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+731,1343089,1376006,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+732,1343089,1376006,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+737,1343744,19915,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+738,1343744,19915,Black Box Warning,misuse,,United States,,,,EFO:0011049
+739,1344809,30072,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+740,1344809,30072,Black Box Warning,misuse,,United States,,,,EFO:0011049
+746,1344116,674781,Black Box Warning,misuse,,United States,,,,EFO:0011049
+755,1344557,674773,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+759,1344735,82983,Black Box Warning,,,United States,,,,
+763,1343956,624161,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+764,1343956,624161,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+767,1343752,635,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+770,1344076,419542,Black Box Warning,,,United States,,,,
+775,1343603,675033,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+777,1343543,674805,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+783,1344555,16308,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+784,1344555,16308,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+785,1344555,16308,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+787,1344083,52087,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+790,1344542,345595,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+798,1344019,41644,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+801,1343900,1592407,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+802,1344751,83044,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+803,1344751,83044,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+817,1343260,1248733,Black Box Warning,,,United States,,,,
+821,1343259,674408,Black Box Warning,,,United States,,,,
+826,1344505,674934,Black Box Warning,,,United States,,,,
+828,1344059,365284,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+829,1344059,365284,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+830,1344059,365284,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+831,1344771,674801,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+832,1344771,674801,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+833,1344771,674801,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+843,1344783,675524,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+844,1344060,1592405,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+845,1344060,1592405,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+849,3133112,2335505,Black Box Warning,,,United States,,,,
+859,1390837,675784,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+872,1344273,3859,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+874,1343203,674937,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+876,1344316,2335118,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+879,1696310,1380714,Black Box Warning,,,United States,,,,
+887,1343573,2197548,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+888,1343573,2197548,Black Box Warning,misuse,,United States,,,,EFO:0011049
+895,1343809,699406,Black Box Warning,misuse,,United States,,,,EFO:0011049
+896,1343809,699406,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+902,1344274,4730,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+903,1344274,4730,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+910,1343587,11674,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+911,1343587,11674,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+912,1343587,11674,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+915,1344956,1532645,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+919,1344229,674927,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+920,1344229,674927,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+922,1879133,1448219,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+923,1879133,1448219,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+924,1390866,675777,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+925,1344852,119640,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+926,1344852,119640,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+927,1344852,119640,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+928,1344016,13949,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+934,1344311,543658,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+935,1344680,2197716,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+936,1343733,250908,Black Box Warning,,,United States,,,,
+937,1697116,1380301,Black Box Warning,,,United States,,,,
+944,1343317,173,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+945,1343317,173,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+946,1343317,173,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+948,1344034,675617,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+951,1697475,1380877,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+960,1696371,1380774,Black Box Warning,,,United States,,,,
+963,1343709,675613,Black Box Warning,,,United States,,,,
+980,1344079,675076,Black Box Warning,,,United States,,,,
+992,1343097,421066,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+993,1344312,2197385,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+994,1344312,2197385,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+995,1697260,675442,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+999,1344088,4941,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1006,1344095,13928,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1009,1343866,97867,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1015,1344005,675703,Black Box Warning,,,United States,,,,
+1021,1344111,255904,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1022,1344111,255904,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1023,1344276,16591,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1024,1344276,16591,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1025,1344276,16591,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1026,1344870,675075,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1027,1344870,675075,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1029,1344870,675075,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1030,1344870,675075,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1035,1344547,33986,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1036,1344547,33986,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+1037,1343308,38727,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+1043,1343218,675130,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1044,1343973,675399,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1047,1343440,93895,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1048,1343440,93895,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1049,1343323,63649,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1051,1343323,63649,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1053,1343323,63649,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1070,1702639,1378002,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1072,1343493,2197639,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1073,1343493,2197639,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1078,1344167,2197422,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1079,1343642,16654,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1083,1343494,2224030,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1084,1344227,675129,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1085,1343074,189204,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1086,1343760,674777,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1087,1343236,1376008,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1091,1702537,1377932,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1092,1344484,10898,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1098,1343628,109797,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1101,1703520,59519,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1109,1344270,1038355,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1110,1699882,1376143,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1128,1343434,699486,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1131,1343762,675138,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1138,1344052,986494,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1139,1344052,986494,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1140,1344052,986494,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1141,1344328,34608,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1142,1344328,34608,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1143,1344328,34608,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1144,1344328,34608,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+1145,1344524,29989,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1146,1344524,29989,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1147,1344524,29989,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1148,1343753,543171,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1151,1344561,20496,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1152,1344561,20496,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1153,1344561,20496,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1155,1344300,674814,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1156,1344300,674814,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1160,1344792,547402,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1161,1344792,547402,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1169,1344981,675003,Black Box Warning,,,United States,,,,
+1172,1344532,547681,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+1175,1344532,547681,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1177,1343668,674776,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1178,1343668,674776,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1179,1343668,674776,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1181,1344277,674903,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1187,1343765,38588,Black Box Warning,,,United States,,,,
+1188,1705350,49931,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1189,1705350,49931,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1191,1705350,49931,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1192,1705350,49931,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1193,1705350,49931,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1194,1705350,49931,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1195,1705350,49931,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1196,1344158,1737244,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1197,1344158,1737244,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1198,1344158,1737244,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1199,1344158,1737244,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1200,1344158,1737244,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1201,1344158,1737244,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1202,1344530,1063,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1213,1703640,563451,Black Box Warning,,,United States,,,,
+1216,1344047,49842,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1217,1344279,552883,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1223,1344810,674891,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1225,1343910,1533286,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1226,1343068,1355926,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1228,1695932,1380123,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1229,1344055,27912,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1232,1344483,674557,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1240,1344326,674371,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1248,1343253,2335035,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1250,1705422,25047,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1253,1343290,51042,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1254,1695913,456123,Black Box Warning,,,United States,,,,
+1256,1343548,27610,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1257,1344795,22391,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1258,1343549,13590,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1259,1343549,13590,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1260,1343254,504310,Black Box Warning,,,United States,,,,
+1261,1343508,840903,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1262,1343508,840903,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1264,1343213,674485,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1268,1343358,674632,Black Box Warning,,,United States,,,,
+1269,1344022,674285,Black Box Warning,,,United States,,,,
+1271,1344589,1376014,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1272,1344589,1376014,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1273,1344908,674686,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1274,1344908,674686,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+1277,1344037,675588,Black Box Warning,,,United States,,,,
+1278,1344398,386457,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1279,1344398,386457,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1280,1344398,386457,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1282,1704347,1378913,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1283,1704347,1378913,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1284,1704347,1378913,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1285,1344255,68396,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1286,1344255,68396,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1287,1344255,68396,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1289,1343512,139210,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1290,1343512,139210,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1291,1343512,139210,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1292,1343142,461225,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1296,1344461,675083,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1303,1343332,51056,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1304,1343332,51056,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1305,1343332,51056,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1306,1344797,674757,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1307,1344797,674757,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1308,1344797,674757,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1313,1392931,1121918,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1315,1344096,674443,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1316,1344233,675063,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1318,1343058,2197640,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1319,1343058,2197640,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1325,1344026,4345,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1326,1344026,4345,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1330,1344761,675691,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1332,1343266,249414,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1343,1344306,37493,Black Box Warning,,,United States,,,,
+1348,1344763,858397,Black Box Warning,,,United States,,,,
+1350,1343261,246,Black Box Warning,,,United States,,,,
+1351,1344972,675107,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1356,1706747,1926775,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1364,1343134,146,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1367,1343359,2197565,Black Box Warning,,,United States,,,,
+1370,1343299,674643,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1376,1344997,675485,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1380,1696456,675360,Black Box Warning,,,United States,,,,
+1383,1344429,675548,Black Box Warning,,,United States,,,,
+1388,1701891,1377665,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1389,1701891,1377665,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1390,1701891,1377665,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1392,1344494,243124,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1393,1343248,674387,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1394,1344768,139225,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1395,1344768,139225,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1396,1344768,139225,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1404,1704048,27624,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1405,1704048,27624,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1406,1343646,674841,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1407,1343646,674841,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1410,1344269,674536,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1411,1344399,674745,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1413,1344399,674745,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1414,1344741,392195,Black Box Warning,,,United States,,,,
+1416,1344721,8062,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1417,1344721,8062,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1423,1343540,1379630,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1430,1390843,675778,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+1431,2473671,1927217,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1432,2473671,1927217,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1434,1696026,1380344,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1438,1344769,674560,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1440,1695895,1380106,Black Box Warning,,,United States,,,,
+1441,1344456,675684,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1447,1583662,1285395,Black Box Warning,,,United States,,,,
+1451,1390856,699376,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1452,3133432,2335773,Black Box Warning,,,United States,,,,
+1456,1343724,193096,Black Box Warning,,,United States,,,,
+1458,1343455,369179,Black Box Warning,,,United States,,,,
+1459,1343209,2197386,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1468,1344364,674896,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1470,1344186,674375,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1479,1344623,498105,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1480,1343177,674294,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1482,1343294,16505,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1484,1630655,1328912,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1485,2973331,2197844,Black Box Warning,,,United States,,,,
+1489,1344784,674846,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1498,1344080,458912,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1499,1344080,458912,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1501,1344132,441571,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1503,1344224,674637,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1507,1343224,550857,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1510,1344127,11968,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1511,1344127,11968,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1512,1344127,11968,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1522,1343287,2832006,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1526,1706020,63100,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1527,1706020,63100,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1529,1702605,1377978,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1530,1702605,1377978,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1531,1702605,1377978,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1532,1702605,1377978,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1546,3132794,2335200,Black Box Warning,,,United States,,,,
+1565,1344021,58232,Black Box Warning,,,United States,,,,
+1568,1344667,21845,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1569,1344667,21845,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1570,1344187,674361,Black Box Warning,,,United States,,,,
+1578,1343824,12825,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1579,1343824,12825,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1580,1343824,12825,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1581,1344806,674701,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1587,1343896,699455,Black Box Warning,,,United States,,,,
+1588,1343430,505776,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1589,1344674,421208,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1592,1343695,675563,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1595,1344632,674283,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1598,1344331,54149,Black Box Warning,,,United States,,,,
+1603,1344332,1678284,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1605,1343398,674962,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1606,1344430,674388,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1607,1344431,675468,Black Box Warning,,,United States,,,,
+1608,1343075,2039153,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1610,1344253,1537155,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1615,1343373,158276,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1616,1343373,158276,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1620,1343174,189203,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1627,1344887,675388,Black Box Warning,,,United States,,,,
+1632,1343659,675071,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1633,1695974,1380150,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1638,1344162,485738,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1639,1344162,485738,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1649,1706467,1380104,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1653,1344978,88100,Black Box Warning,,,United States,,,,
+1662,1344436,21697,Black Box Warning,,,United States,,,,
+1668,1344608,674362,Black Box Warning,,,United States,,,,
+1671,1343555,62701,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1680,1344101,631502,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1681,1700071,255532,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1682,1700071,255532,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1683,1700071,255532,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1686,1344029,17169,Black Box Warning,,,United States,,,,
+1695,1343425,96021,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1699,1696496,1380990,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1702,1343063,549372,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1716,1344737,923,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1717,1344737,923,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1729,1343803,150941,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1730,1343502,226851,Black Box Warning,,,United States,,,,
+1731,1343251,674633,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1744,1976742,1626748,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1747,1344317,546564,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1753,1343445,107119,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+1754,1343445,107119,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1758,1343611,1064511,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1759,1343611,1064511,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1760,1343611,1064511,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1766,1343955,675114,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1778,2473533,1927155,Black Box Warning,,,United States,,,,
+1780,1343145,16510,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1781,1343145,16510,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1782,1343145,16510,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1783,1343773,450864,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1785,1343586,675596,Black Box Warning,,,United States,,,,
+1786,1344189,2197758,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1787,1344189,2197758,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1793,1344155,47340,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1794,1344155,47340,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1795,1344155,47340,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1798,1344995,675728,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1799,1344995,675728,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1812,1343537,394996,Black Box Warning,,,United States,,,,
+1813,1343793,1763651,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1814,1344959,366271,Black Box Warning,,,United States,,,,
+1815,1344703,171587,Black Box Warning,,,United States,,,,
+1816,1344883,116949,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1820,1343899,53686,Black Box Warning,,,United States,,,,
+1821,1344386,453046,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1822,1344386,453046,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1823,1879163,1540509,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1824,1343916,417163,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1829,1344339,739751,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1830,1344339,739751,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+1832,1679383,96107,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1833,1679383,96107,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1834,1344772,500007,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1836,1343154,674286,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1837,1343154,674286,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1838,1704784,1379337,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+1839,1344773,193281,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1843,1343268,5028,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1844,1343268,5028,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1850,1343417,674867,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1852,1344865,28310,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1853,1344865,28310,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1854,1343298,209829,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1856,1344890,2197695,Black Box Warning,,,United States,,,,
+1864,1392859,416772,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1867,1343768,373970,Black Box Warning,,,United States,,,,
+1870,1343917,222633,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1871,1344156,675528,Black Box Warning,,,United States,,,,
+1875,1344042,372438,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1878,1344297,2197435,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1879,1344297,2197435,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+1880,1343269,674724,Black Box Warning,,,United States,,,,
+1882,1698797,1376013,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1883,1698797,1376013,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1886,1345001,267825,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1888,1344545,674564,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+1889,1344545,674564,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+1890,1344545,674564,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1894,1344266,227437,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1897,1343205,456266,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1898,1343799,674626,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1900,1343132,675487,Black Box Warning,,,United States,,,,
+1902,1344808,699416,Black Box Warning,misuse,,United States,,,,EFO:0011049
+1903,1344808,699416,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1906,1344427,421317,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1909,1343252,2197569,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1912,1343415,675581,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1913,1343415,675581,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+1914,1343415,675581,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1918,1343377,674749,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1921,1343842,2208,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1922,1343842,2208,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1940,1343777,674899,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1944,1343402,674730,Black Box Warning,,,United States,,,,
+1956,1343486,67010,Black Box Warning,,,United States,,,,
+1957,1344925,674405,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1958,1344925,674405,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+1959,1344925,674405,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1960,1343419,1991,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1961,1344130,15217,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+1962,1344130,15217,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1964,1344355,139045,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1965,1344134,674579,Black Box Warning,,,United States,,,,
+1966,1343277,33576,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+1971,1344497,674580,Black Box Warning,,,United States,,,,
+1977,1343312,675017,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1982,1344520,1038357,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1986,1344742,564219,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+1987,1583660,460092,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+1989,1705140,1379656,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+1992,1705141,1379657,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+1994,1344654,674830,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2000,1697532,1380933,Black Box Warning,,,United States,,,,
+2002,1344672,65494,Black Box Warning,,,United States,,,,
+2003,1343427,421332,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2005,1435101,1158403,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+2006,1343080,27307,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+2007,1343080,27307,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2008,1343080,27307,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2018,1344914,2197691,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2024,1343955,675114,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2288,1343195,34094,Black Box Warning,,,United States,,,,
+2289,1696165,675456,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2290,1344479,675582,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2291,1344479,675582,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2292,1390871,675775,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2293,1390871,675775,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2294,1390871,675775,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2295,1390871,675775,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2298,1344282,27648,Black Box Warning,,,United States,,,,
+2299,1343086,8130,Black Box Warning,,,United States,,,,
+2300,1344302,386327,Black Box Warning,,,United States,,,,
+2304,1344857,822010,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2305,1344376,630439,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2306,1344376,630439,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2308,1343126,8873,Black Box Warning,,,United States,,,,
+2309,1706042,397524,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2312,1343887,155006,Black Box Warning,,,United States,,,,
+2313,1763614,1449229,Black Box Warning,,,United States,,,,
+2315,2794606,1676656,Black Box Warning,,,United States,,,,
+2316,1343144,1926823,Black Box Warning,,,United States,,,,
+2317,1343140,547576,Black Box Warning,,,United States,,,,
+2320,1343924,308917,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2321,1343924,308917,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+2322,1343924,308917,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2325,1343926,431141,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2326,1344643,674351,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2330,1343184,32869,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+2331,1343184,32869,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2333,1702681,1378029,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2334,1702681,1378029,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2335,1343975,675419,Black Box Warning,,,United States,,,,
+2337,3133908,2336180,Black Box Warning,,,United States,,,,
+2338,1392874,1121861,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2339,1392874,1121861,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2340,1344171,544432,Black Box Warning,,,United States,,,,
+2341,1706081,445858,Black Box Warning,,,United States,,,,
+2342,1343423,798263,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2343,1343423,798263,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2344,1343423,798263,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2346,1344538,419410,Black Box Warning,,,United States,,,,
+2347,1699750,459679,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2350,1343072,1595395,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2351,3133500,2335833,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2352,3133500,2335833,Black Box Warning,,,United States,,,,
+2354,1392878,1121865,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2355,2973242,348726,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2356,1343876,313314,Black Box Warning,,,United States,,,,
+2357,1343888,139281,Black Box Warning,,,United States,,,,
+2359,1343889,674347,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2360,1343889,674347,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2361,1343637,1543312,Black Box Warning,,,United States,,,,
+2365,1699828,2464648,Black Box Warning,,,United States,,,,
+2367,1344356,1449186,Black Box Warning,,,United States,,,,
+2368,1343903,300022,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2369,1343903,300022,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2370,1343482,699456,Black Box Warning,,,United States,,,,
+2371,1699878,1340277,Black Box Warning,,,United States,,,,
+2378,1343778,404691,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2379,1343349,11002,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+2381,1344856,674654,Black Box Warning,,,United States,,,,
+2384,1344072,550303,Black Box Warning,,,United States,,,,
+2387,1343915,50440,Black Box Warning,,,United States,,,,
+2388,1344579,8633,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2389,1344579,8633,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2390,1344579,8633,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2391,1343967,467361,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2393,1698337,581843,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2394,1344388,674539,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2395,1343385,674583,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2396,1343138,1673803,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2397,1435098,111390,Black Box Warning,,,United States,,,,
+2398,1343117,2465,Black Box Warning,,,United States,,,,
+2400,1344704,630396,Black Box Warning,,,United States,,,,
+2401,1343877,1369640,Black Box Warning,,,United States,,,,
+2402,1344626,2261,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2403,1344626,2261,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2404,1344970,72873,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2405,1344970,72873,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2406,1343645,51182,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2407,1343645,51182,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2408,1344521,1038352,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2409,1344521,1038352,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2410,1343409,5772,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2411,1343409,5772,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+2412,1702635,1503092,Black Box Warning,,,United States,,,,
+2415,1344472,675574,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2416,1344474,405364,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2417,1344443,675493,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2419,1343749,564990,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2420,1702485,1377908,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+2422,1343490,674507,Black Box Warning,,,United States,,,,
+2425,1344578,721,Black Box Warning,,,United States,,,,
+2426,1343993,390877,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2428,1344599,1377883,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2429,1344343,1927101,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2430,1344343,1927101,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2431,1344343,1927101,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2432,1344343,1927101,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2434,1344690,462435,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2437,1699803,1376097,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2438,3956801,2832776,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2439,3956801,2832776,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2440,3956801,2832776,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2441,3956801,2832776,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2442,1390844,675779,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2443,1343484,2197393,Black Box Warning,,,United States,,,,
+2444,1702572,1377952,Black Box Warning,,,United States,,,,
+2447,1697541,1380942,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2448,1697541,1380942,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2449,1697541,1380942,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2451,2795537,2096444,Black Box Warning,,,United States,,,,
+2453,1343310,675454,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2456,1344692,674932,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2458,1344693,674938,Black Box Warning,,,United States,,,,
+2465,1344814,49847,Black Box Warning,,,United States,,,,
+2466,1344327,27626,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2467,1344327,27626,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2468,1344720,674381,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2469,1343232,674924,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2470,1344629,421038,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2471,1344629,421038,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2472,1344090,675621,Black Box Warning,,,United States,,,,
+2473,1343882,675571,Black Box Warning,,,United States,,,,
+2475,1344694,674931,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2476,1343535,421334,Black Box Warning,,,United States,,,,
+2477,1343234,675371,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2478,1344522,675416,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2479,1344572,1248731,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2480,1343147,647206,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2481,1703880,1378487,Black Box Warning,,,United States,,,,
+2482,1344734,675816,Black Box Warning,,,United States,,,,
+2484,1699969,388819,Black Box Warning,,,United States,,,,
+2485,1344231,393942,Black Box Warning,,,United States,,,,
+2487,1343808,872071,Black Box Warning,,,United States,,,,
+2488,1344304,2197595,Black Box Warning,,,United States,,,,
+2492,1343511,674595,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2494,1344019,41644,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2495,1344751,83044,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2497,1343559,2046,Black Box Warning,,,United States,,,,
+2498,1343403,674522,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2499,1343804,1449133,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2500,1344590,674297,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2501,1344590,674297,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2502,1344760,674382,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2503,1763603,1449219,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2504,1343880,674544,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2505,1344257,1376010,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2507,1344142,674572,Black Box Warning,,,United States,,,,
+2508,1344060,1592405,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2509,2139013,1763565,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2512,1390837,675784,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2514,1344273,3859,Black Box Warning,,,United States,,,,
+2515,1344316,2335118,Black Box Warning,,,United States,,,,
+2523,1879133,1448219,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2524,1879133,1448219,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2525,1390866,675777,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2526,1390866,675777,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2527,1390866,675777,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2529,1344034,675617,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2530,3133115,2335508,Black Box Warning,,,United States,,,,
+2531,1343711,675368,Black Box Warning,,,United States,,,,
+2532,1343599,674458,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2533,1343480,674406,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2534,1343481,554800,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2535,1343327,674565,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2539,1343860,675119,Black Box Warning,,,United States,,,,
+2540,1344088,4941,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2541,2973316,2197829,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2543,1344870,675075,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2544,1344870,675075,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2546,1344547,33986,Black Box Warning,,,United States,,,,
+2550,1343323,63649,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2551,1702621,1377990,Black Box Warning,,,United States,,,,
+2554,1343091,1376011,Black Box Warning,,,United States,,,,
+2556,1344529,674360,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2557,1679376,1763646,Black Box Warning,,,United States,,,,
+2558,1344167,2197422,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2559,1344560,675070,Black Box Warning,,,United States,,,,
+2560,1343465,548913,Black Box Warning,,,United States,,,,
+2561,1343113,16959,Black Box Warning,,,United States,,,,
+2563,1344411,675106,Black Box Warning,,,United States,,,,
+2567,1343763,674952,Black Box Warning,,,United States,,,,
+2568,1344328,34608,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2569,1344328,34608,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2570,1344487,65415,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+2571,1344487,65415,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2575,1344532,547681,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2576,1344532,547681,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2577,1344179,674715,Black Box Warning,,,United States,,,,
+2578,1705350,49931,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2579,1705350,49931,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2580,1705350,49931,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2581,1344158,1737244,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2582,1344158,1737244,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+2583,1344158,1737244,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2584,1344158,1737244,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2586,1695932,1380123,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2587,1344483,674557,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2589,2791623,27611,Black Box Warning,,,United States,,,,
+2590,1344326,674371,Black Box Warning,,,United States,,,,
+2591,1344326,674371,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2592,1344837,674412,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2593,1344451,712273,Black Box Warning,,,United States,,,,
+2594,1344451,712273,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2595,1344451,712273,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2596,1344451,712273,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2597,1344451,712273,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+2599,1343508,840903,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2602,1344796,674370,Black Box Warning,,,United States,,,,
+2603,2791398,47447,Black Box Warning,,,United States,,,,
+2604,1343358,674632,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+2605,1343358,674632,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2607,1392927,1121914,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2608,1392927,1121914,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+2609,1392927,1121914,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2611,1344398,386457,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2612,1704347,1378913,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2613,1344255,68396,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2615,1344461,675083,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2616,1344461,675083,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2617,1344461,675083,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2618,1344406,21459,Black Box Warning,,,United States,,,,
+2619,1343207,675100,Black Box Warning,,,United States,,,,
+2620,1344455,675488,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2622,1392931,1121918,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2623,1344096,674443,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2624,1344026,4345,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2627,1343789,365248,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2628,1343816,187962,Black Box Warning,,,United States,,,,
+2629,1702508,574221,Black Box Warning,,,United States,,,,
+2630,1392932,1121919,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2631,1390840,675787,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2632,1343134,146,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+2633,1343604,34197,Black Box Warning,,,United States,,,,
+2636,1344997,675485,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2637,1344997,675485,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2638,1344997,675485,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2639,1344997,675485,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2642,1701891,1377665,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2643,1344820,16506,Black Box Warning,,,United States,,,,
+2646,1343646,674841,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2647,1344721,8062,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+2648,1344721,8062,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2649,1344495,468656,Black Box Warning,,,United States,,,,
+2650,1343540,1379630,Black Box Warning,,,United States,,,,
+2654,1343942,675549,Black Box Warning,,,United States,,,,
+2655,1344442,675616,Black Box Warning,,,United States,,,,
+2656,1343376,453578,Black Box Warning,,,United States,,,,
+2658,1343294,16505,Black Box Warning,,,United States,,,,
+2659,1630655,1328912,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2663,1344080,458912,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2665,1344132,441571,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2666,1344132,441571,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2668,1705104,1590761,Black Box Warning,,,United States,,,,
+2670,1699872,1376137,Black Box Warning,,,United States,,,,
+2674,1344143,2096404,Black Box Warning,,,United States,,,,
+2675,1344889,675724,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2677,1344667,21845,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+2678,1344288,37266,Black Box Warning,,,United States,,,,
+2679,1343297,675105,Black Box Warning,,,United States,,,,
+2680,1344535,738635,Black Box Warning,,,United States,,,,
+2681,1343824,12825,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2682,1343824,12825,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2683,1344806,674701,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2684,1344806,674701,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2685,1344806,674701,Black Box Warning,,,United States,,,,
+2686,1343238,675014,Black Box Warning,,,United States,,,,
+2687,1344286,2197587,Black Box Warning,,,United States,,,,
+2691,1344840,674423,Black Box Warning,,,United States,,,,
+2693,1343373,158276,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2695,2973344,2197857,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2696,1679381,1277553,Black Box Warning,,,United States,,,,
+2697,3460951,2464732,Black Box Warning,,,United States,,,,
+2700,1344162,485738,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2701,1344162,485738,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2704,1343813,7714,Black Box Warning,,,United States,,,,
+2705,1344885,675578,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2706,1392858,328601,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2708,1695964,1380140,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2709,1695964,1380140,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2710,1695964,1380140,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2711,1695964,1380140,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2713,1344841,674678,Black Box Warning,,,United States,,,,
+2717,1696503,1380996,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2727,1344737,923,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2729,1343803,150941,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2730,1343502,226851,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2731,1343502,226851,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2732,1343251,674633,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2733,1343251,674633,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2739,1706452,708075,Black Box Warning,,,United States,,,,
+2742,1343832,675511,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2743,1343822,328201,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2744,1344166,1674082,Black Box Warning,,,United States,,,,
+2745,1343611,1064511,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2746,1343611,1064511,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+2747,1343611,1064511,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2748,1344437,101810,Black Box Warning,,,United States,,,,
+2751,1344189,2197758,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2754,3133155,2335544,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+2756,1344155,47340,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2757,1343793,1763651,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2758,1343368,95909,Black Box Warning,,,United States,,,,
+2759,2139044,1763589,Black Box Warning,,,United States,,,,
+2761,1344339,739751,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2762,1344918,364520,Black Box Warning,,,United States,,,,
+2763,1343154,674286,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2764,1704784,1379337,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2765,1704784,1379337,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2766,1704784,1379337,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+2767,1704784,1379337,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+2770,1343767,5970,Black Box Warning,,,United States,,,,
+2771,1343417,674867,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2773,1343363,551003,Black Box Warning,,,United States,,,,
+2778,1344042,372438,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2780,1344297,2197435,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2781,1390841,699373,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2782,1698797,1376013,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2784,1343205,456266,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+2785,1343252,2197569,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2789,1344621,17411,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2790,1343662,27419,Black Box Warning,,,United States,,,,
+2792,1343976,706035,Black Box Warning,,,United States,,,,
+2796,1343419,1991,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2797,1343419,1991,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2798,1344130,15217,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+2801,2790816,27278,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+2802,1344708,141484,Black Box Warning,,,United States,,,,
+2805,1343719,490427,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2806,1344742,564219,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+2807,1344654,674830,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+2808,1343427,421332,Black Box Warning,,,United States,,,,
+2809,1435101,1158403,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2810,1343080,27307,Black Box Warning,musculoskeletal toxicity,,United States,,,,EFO:0011055
+2811,1343179,799627,Black Box Warning,,,United States,,,,
+2812,1344176,2197704,Black Box Warning,,,United States,,,,
+2813,1344914,2197691,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+2814,1344914,2197691,Black Box Warning,,,United States,,,,
+2816,1344857,822010,Black Box Warning,,,United States,,,,
+2817,1344060,1592405,Black Box Warning,,,United States,,,,
+2818,1343573,2197548,Black Box Warning,,,United States,,,,
+2819,1344870,675075,Black Box Warning,,,United States,,,,
+2820,1344253,1537155,Black Box Warning,,,United States,,,,
+2821,3133112,2335505,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+2828,1343059,2197391,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2829,1702734,957194,Black Box Warning,metabolic toxicity,,United States,,,,EFO:0011054
+2831,1879148,1540495,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+2836,2583611,2039353,Black Box Warning,,,United States,,,,
+2843,1937963,341064,Black Box Warning,,,United States,,,,
+2847,3841356,2537490,Black Box Warning,,,United States,,,,
+2853,1879128,1540481,Black Box Warning,misuse,,United States,,,,EFO:0011049
+2854,1879128,1540481,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+2864,3841461,2739482,Black Box Warning,,,United States,,,,
+2865,2795393,66273,Withdrawn,,High incidence of adverse drug reactions (ADRs) at therapeutic levels,Iraq,2008.0,adverse effect,EFO:0009658,
+2866,1344573,230249,Withdrawn,psychiatric toxicity,"Increased risk of abuse or addiction, intoxication and events related to psychomotor impairment",European Union,2007.0,impaired psychomotor skills,EFO:0020909,EFO:0011059
+2867,1343105,2335059,Withdrawn,dermatological toxicity,associated with chemical and thermal burns,United States,1984.0,thermal burn,EFO:0020910,EFO:0011048
+2868,1702845,182928,Withdrawn,carcinogenicity,Animal carcinogenicity (dogs),United States; United Kingdom,1970.0,carcinogenicity,EFO:0011046,EFO:0011046
+2869,1344927,674665,Withdrawn,dermatological toxicity,Life-threatening toxic epidermal necrolysis and borderline major bullous forms,United Arab Emirates; Singapore; France; Germany; European Union; Portugal; Zimbabwe; Japan; Saudi Arabia; United States; South Africa; Pakistan,1996.0,toxic epidermal necrolysis,EFO:0004775,EFO:0011048
+2870,1706262,67839,Withdrawn,carcinogenicity,carcinogenic in mice and rats,United States,1976.0,carcinogenicity,EFO:0011046,EFO:0011046
+2871,1702208,40940,Withdrawn,,"Not safe or effective for intended use as vasodilator, anti-inflammatory",United States,1973.0,adverse effect,EFO:0009658,
+2872,1343943,674449,Withdrawn,hepatotoxicity,Liver toxicity; Serious liver injury leading to liver transplant; Death,United States; European Union,2006.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2873,2791418,657667,Withdrawn,,Serious and long-lasting peripheral neuropathy (damage to the nerves in the hands and feet) and significant weight loss that further weakens patients,European Union,2013.0,Weight loss,HP:0001824,
+2874,1699619,176014,Withdrawn,misuse,Potential for abuse and risk of dependence; Follows the decision taken by France to suspend amineptine on the basis of abuse and dependency potential,France; Thailand; United Arab Emirates; Vietnam,1999.0,substance abuse,MONDO:0002491,EFO:0011049
+2875,1706305,60246,Withdrawn,hematological toxicity,Agranulocytosis,France; United States; United Kingdom; Germany,1970.0,Agranulocytosis,HP:0012234,EFO:0011051
+2876,1700915,1376759,Withdrawn,carcinogenicity,Animal Carcinogenicity,Germany; Austria,1969.0,carcinogenicity,EFO:0011046,EFO:0011046
+2877,1706330,65605,Withdrawn,,Fatal arrhythmia; Drug Interaction,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,drug interaction,EFO:0009878,
+2878,1706330,65605,Withdrawn,cardiotoxicity,Prolongation of the QT-interval and ventricular arrhythmias,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,Ventricular arrhythmia,HP:0004308,EFO:1001482
+2879,1700652,219327,Withdrawn,nephrotoxicity,associated with fatal cholestatic jaundice among other serious adverse reactions,Germany; United States; United Kingdom; Spain,1982.0,obstructive jaundice,EFO:1001068,EFO:0011056
+2880,1706350,898847,Withdrawn,hepatotoxicity,Hepatitis,Germany,1992.0,Hepatitis,HP:0012115,EFO:0011052
+2881,1706353,395946,Withdrawn,hepatotoxicity,Jaundice,France; United Kingdom,1964.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2882,1699663,46656,Withdrawn,dermatological toxicity,shown to be a potent photosensitizer with the potential to cause serious skin disorders,United States,1967.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+2883,1705841,871360,Withdrawn,dermatological toxicity,potent photosensitizer with the potential to cause serious skin disorders,United States,1967.0,skin disease,EFO:0000701,EFO:0011048
+2884,1344779,1671238,Withdrawn,hepatotoxicity,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,United States; Saudi Arabia,1998.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2885,1706349,1215321,Withdrawn,hematological toxicity,Agranulocytosis,Spain,1987.0,Agranulocytosis,HP:0012234,EFO:0011051
+2886,1702802,1078456,Withdrawn,cardiotoxicity,Cardiovascular,Germany; Sweden,1969.0,cardiovascular disease,EFO:0000319,EFO:1001482
+2887,1343717,675587,Withdrawn,neurotoxicity,"Serious inflammatory brain disorders, including encephalitis and meningoencephalitis, in patients with multiple sclerosis.",United States; United Kingdom,2018.0,noninfective encephalitis,EFO:0020926,EFO:0011057
+2888,1343717,675587,Withdrawn,neurotoxicity,Immune-mediated encephalitis and meningoencephalitis,European Union; Canada,2018.0,meningoencephalitis,EFO:0007364,EFO:0011057
+2889,1343717,675587,Withdrawn,neurotoxicity,"Serious inflammatory brain disorders worldwide, including encephalitis and meningoencephalitis. Serious and potentially fatal immune reactions affecting the brain, liver and other organs.",European Union; Canada,2018.0,encephalomyelitis,EFO:0001423,EFO:0011057
+2890,1344779,1671238,Withdrawn,hepatotoxicity,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,United States; Saudi Arabia,1998.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2891,1703509,316539,Withdrawn,cardiotoxicity,"Low efficacy and with regards to a risk of serious side- effects linked to neurological and cardiac misuse (non- compliance with the indication, contraindications, dosage, and monitoring of renal function) and the therapeutic range is narrow; Severe and sometimes fatal cardiovascular and neurological risks related to drug overdose; Risks of severe cardiological and neurological adverse reactions",France; European Union; Madagascar; Brazil,2011.0,cardiotoxicity,EFO:1001482,EFO:1001482
+2892,1703509,316539,Withdrawn,neurotoxicity,"Low efficacy and with regards to a risk of serious side- effects linked to neurological and cardiac misuse (non- compliance with the indication, contraindications, dosage, and monitoring of renal function) and the therapeutic range is narrow; Severe and sometimes fatal cardiovascular and neurological risks related to drug overdose; Risks of severe cardiological and neurological adverse reactions",France; European Union; Madagascar; Brazil,2011.0,neurotoxicity,EFO:0011057,EFO:0011057
+2893,1344727,675481,Withdrawn,neurotoxicity,Progressive multifocal leukoencephalopathy,Mexico; European Union; Ireland; Ukraine; United Kingdom; United States; Canada; Switzerland,2009.0,progressive multifocal leukoencephalopathy,EFO:0007455,EFO:0011057
+2895,1699737,16521,Withdrawn,dermatological toxicity,Cutaneous Reactions; Animal Carcinogenicity,United Kingdom; Worldwide,1984.0,severe cutaneous adverse reaction,EFO:0006346,EFO:0011048
+2896,1703880,1378487,Withdrawn,cardiotoxicity,Valvulopathy,United States,1997.0,heart valve disease,EFO:0009551,EFO:1001482
+2897,1702722,418438,Withdrawn,psychiatric toxicity,"associated with pneumopathy, neuropsychological disorders and rare cases of agranulocytosis",France,1990.0,Abnormality of higher mental function,HP:0011446,EFO:0011059
+2898,1703289,11715,Withdrawn,misuse,Abuse,France,1996.0,substance abuse,MONDO:0002491,EFO:0011049
+2899,1343077,1712,Withdrawn,gastrointestinal toxicity,Increased risk of dysglycemia,United States,2006.0,Hyperglycemia,HP:0003074,EFO:0011050
+2900,1703294,244737,Withdrawn,immune system toxicity,"associated with severe allergic responses, including anaphylactoid reactions",Worldwide,1984.0,anaphylaxis,MONDO:0100053,EFO:0011053
+2902,1704964,1379509,Withdrawn,vascular toxicity,"Severe adverse reactions including hypotension, arrhythmias, pulmonary oedema and renal disorders",Germany,1998.0,hypotension,EFO:0005251,EFO:0011062
+2903,2583297,1078515,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1983.0,Hepatitis,HP:0012115,EFO:0011052
+2904,1705266,78364,Withdrawn,dermatological toxicity,Stevens Johnson Syndrome; Toxic Epidermal Necrolysis,France; Spain; Germany,1983.0,toxic epidermal necrolysis,EFO:0004775,EFO:0011048
+2906,2793397,301194,Withdrawn,carcinogenicity,Carcinogenicity,United States,2020.0,carcinogenicity,EFO:0011046,EFO:0011046
+2907,1705329,424824,Withdrawn,hepatotoxicity,Serious liver-related adverse events,Canada; Australia; European Union,2007.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2908,1705801,1249053,Withdrawn,,Hepatotoxicity; Drug Interaction,United Kingdom,1975.0,drug interaction,EFO:0009878,
+2909,1705801,1249053,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United Kingdom,1975.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2910,1703574,1093573,Withdrawn,immune system toxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Granulocytopenia,HP:0001913,EFO:0011053
+2912,1702985,1228462,Withdrawn,cardiotoxicity,Cardiac valvular disease,Malaysia; India; European Union; United Kingdom; Saudi Arabia; United States; Canada,1997.0,heart valve disease,EFO:0009551,EFO:1001482
+2913,2792057,685193,Withdrawn,cardiotoxicity,Serious abnormal heart rhythms,Canada; New Zealand; Vietnam,2010.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+2915,2583712,255981,Withdrawn,neurotoxicity,Neuropsychiatric Reaction,France; United States,1972.0,Abnormality of higher mental function,HP:0011446,EFO:0011057
+2916,2583712,255981,Withdrawn,neurotoxicity,associated with neurotoxicity,France; United States,1972.0,neurotoxicity,EFO:0011057,EFO:0011057
+2917,1704236,1763641,Withdrawn,,exceptionally frequent adverse effects,Germany,1986.0,adverse effect,EFO:0009658,
+2918,1705385,2197674,Withdrawn,hematological toxicity,associated with potentially fatal agranulocytosis,Malaysia; Morocco; Ireland; Timor-Leste; Greece; Yemen; United Arab Emirates; Nigeria; Singapore; Denmark; United Kingdom; Saudi Arabia; Armenia; Sweden; Norway; France; Syrian Arab Republic; Nepal; Zimbabwe; United States; Ghana; Pakistan; Sri Lanka; Bahrain,1975.0,Agranulocytosis,HP:0012234,EFO:0011051
+2919,1699923,128275,Withdrawn,metabolic toxicity,fatal cases of severe acidosis and shock,France; Italy; Cuba; Chad,1964.0,acidosis,EFO:1000014,EFO:0011054
+2920,2791003,72035,Withdrawn,,Safety concerns in relation to potential for serious drug interactions.; Reports of life-threatening interactions of the drug: extremely low heart rates and a risk of muscle injury; Following reports of serious adverse effects caused by the interaction with other medicines,Peru; Armenia; South Africa,1998.0,drug interaction,EFO:0009878,
+2921,1705898,958409,Withdrawn,,,Worldwide,1998.0,drug interaction,EFO:0009878,
+2923,1703360,705834,Withdrawn,,Hepatotoxicity; Drug Interaction,United States; United Kingdom,1974.0,drug interaction,EFO:0009878,
+2924,1705800,1249055,Withdrawn,hematological toxicity,Hepatic and Hematologic Toxicity,Germany; Austria,1984.0,hematological toxicity,EFO:0011051,EFO:0011051
+2925,1703586,705835,Withdrawn,hepatotoxicity,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,Worldwide,1986.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2926,1703586,705835,Withdrawn,hematological toxicity,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,Worldwide,1986.0,hemolytic anemia,EFO:0005558,EFO:0011051
+2928,1343524,1672744,Withdrawn,hematological toxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,Thrombocytopenia,HP:0001873,EFO:0011051
+2929,1703648,826568,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,Germany; Italy; New Zealand; Belgium; Kuwait; Australia; Austria; Mauritius; Denmark; United Kingdom; Cuba; Spain; Netherlands; Cyprus; Norway; France; Japan; United States; Canada,1970.0,Hepatitis,HP:0012115,EFO:0011052
+2930,1703648,826568,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,Germany; Italy; New Zealand; Belgium; Kuwait; Australia; Austria; Mauritius; Denmark; United Kingdom; Cuba; Spain; Netherlands; Cyprus; Norway; France; Japan; United States; Canada,1970.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2931,1583662,1285395,Withdrawn,immune system toxicity,"serious hypersensitivity reactions, including anaphylaxis, which can be life-threatening or fatal.",United States,2019.0,anaphylaxis,MONDO:0100053,EFO:0011053
+2932,1583662,1285395,Withdrawn,immune system toxicity,"serious hypersensitivity reactions, including anaphylaxis, which can be life-threatening or fatal.",United States,2019.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+2933,1343412,2327,Withdrawn,misuse,Self-Poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+2934,1344695,674344,Withdrawn,cardiotoxicity,Severe cardiovascular event,Singapore; Armenia; Germany; Peru; United Kingdom; United States,1999.0,cardiotoxicity,EFO:1001482,EFO:1001482
+2935,1344552,674646,Withdrawn,neurotoxicity,Increased risk of hemorrhagic stroke,United States,2002.0,hemorrhagic stroke,EFO:0020921,EFO:0011057
+2936,1699514,352917,Withdrawn,immune system toxicity,"Questionable safety with detection of neurotoxicity, hypersensitivity and nitrosamine-generating ability",Armenia,2000.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+2937,1390915,284208,Withdrawn,hepatotoxicity,"Serious, irreversible, and even fatal nephrotoxicity and hepatotoxicity",United States,2001.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2938,1343542,2197701,Withdrawn,neurotoxicity,cardiovascular; increased risk of heart attack and stroke,India; European Union; Hong Kong; United States; New Zealand; Canada,2010.0,stroke,EFO:0000712,EFO:0011057
+2939,1343542,2197701,Withdrawn,cardiotoxicity,cardiovascular; increased risk of heart attack and stroke,India; European Union; Hong Kong; United States; New Zealand; Canada,2010.0,myocardial infarction,EFO:0000612,EFO:1001482
+2940,1702650,1378010,Withdrawn,hepatotoxicity,Liver damage,Canada,2010.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2941,1699451,1248719,Withdrawn,,unpredicatable effects and was associated with tetanic uterine contractions and obstetrical complications,United States,1979.0,trauma complication,EFO:0009888,
+2942,1703656,31171,Withdrawn,cardiotoxicity,reports of polymorphic ventricular tachycardia,Worldwide,1989.0,polymorphic ventricular tachycardia,MONDO:0020575,EFO:1001482
+2943,1705374,18271,Withdrawn,carcinogenicity,Animal carcinogenicity (rodent),United Kingdom,1965.0,carcinogenicity,EFO:0011046,EFO:0011046
+2944,2792057,685193,Withdrawn,cardiotoxicity,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",European Union; New Zealand; Canada; Iraq,2009.0,Prolonged QRS complex,HP:0006677,EFO:1001482
+2945,1702113,757917,Withdrawn,neurotoxicity,Neurologic and Hepatic Toxicities,United Kingdom; Spain,1985.0,neurotoxicity,EFO:0011057,EFO:0011057
+2946,1699360,16498,Withdrawn,hematological toxicity,high potential for harm to the kidneys and the possibility of hemolytic anemia and methemoglobinemia resulting from abuse,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,hemolytic anemia,EFO:0005558,EFO:0011051
+2947,1705552,1379765,Withdrawn,hepatotoxicity,"Low blood sugar; hemolytic anemia; kidney, liver dysfunction; allergic reactions",Worldwide,1992.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2948,1705552,1379765,Withdrawn,hepatotoxicity,"Low blood sugar; hemolytic anemia; kidney, liver dysfunction; allergic reactions",Worldwide,1992.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2949,1705552,1379765,Withdrawn,immune system toxicity,"hypoglycaemia, haemolytic anaemia, renal failure, hepatitis and anaphylactic reactions",Worldwide,1992.0,anaphylaxis,MONDO:0100053,EFO:0011053
+2951,1706143,19569,Withdrawn,cardiotoxicity,Prolonged QT interval; ventricular tachycardia,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,ventricular tachycardia,EFO:0005306,EFO:1001482
+2952,1706143,19569,Withdrawn,cardiotoxicity,Use of terfenadine products with certain other drugs or foods and in certain medical conditions is associated with the potential to result in rare and serious cardiac side effects primarily involving changes in heart rhythm,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+2953,1699290,1152050,Withdrawn,carcinogenicity,Potential risk of carcinogenicity,Oman,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+2954,1702027,1377797,Withdrawn,dermatological toxicity,"low but increased risk of serious skin reactions (including Stevens-Johnson syndrome, toxic epidermal necrolysis and drug-rash-with-eosinophilia-and-systemic-symptoms (DRESS) syndrome)",European Union,2013.0,toxic epidermal necrolysis,EFO:0004775,EFO:0011048
+2955,1345001,267825,Withdrawn,hepatotoxicity,Hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada,1998.0,Fulminant hepatitis,HP:0004787,EFO:0011052
+2956,1343662,27419,Withdrawn,psychiatric toxicity,Psychiatric reaction and amnesia,France; United Kingdom; Argentina; Finland; Netherlands,1991.0,unipolar depression,EFO:0003761,EFO:0011059
+2957,1700763,27105,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1974.0,skin disease,EFO:0000701,EFO:0011048
+2958,1705817,316600,Withdrawn,dermatological toxicity,"Cataracts, Alopecia, lchthyosis",France; United States,1962.0,ichthyosis,MONDO:0019269,EFO:0011048
+2959,1343693,666,Withdrawn,hepatotoxicity,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Peru; United Kingdom; United States,1997.0,Hepatic necrosis,HP:0002605,EFO:0011052
+2960,1701224,1377063,Withdrawn,misuse,Misuse and abuse,France,1979.0,substance abuse,MONDO:0002491,EFO:0011049
+2961,1703624,27616,Withdrawn,hematological toxicity,Aplastic anemia,United Kingdom,1993.0,Aplastic anemia,HP:0001915,EFO:0011051
+2962,1703401,2197427,Withdrawn,hematological toxicity,Aplastic anemia,United Kingdom,1993.0,Aplastic anemia,HP:0001915,EFO:0011051
+2963,1343560,43952,Withdrawn,,,United States,1977.0,adverse effect,EFO:0009658,
+2964,1702081,1377851,Withdrawn,neurotoxicity,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",European Union; Spain,2005.0,Tremor,HP:0001337,EFO:0011057
+2965,1702298,644928,Withdrawn,hematological toxicity,cardia arrhythmias; risk of blood dyscrasias,Germany; Hungary,1980.0,hematologic disease,EFO:0005803,EFO:0011051
+2966,1702154,1532522,Withdrawn,hepatotoxicity,"Guillan-Barre Syndrome, hepatotoxicity",Worldwide,1983.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2967,1699307,2197274,Withdrawn,immune system toxicity,Anaphylactic reactions and non_fatal allergic reactions,Germany; United States; United Kingdom; Spain,1983.0,non-allergic anaphylaxis,EFO:0020918,EFO:0011053
+2969,1344245,940358,Withdrawn,cardiotoxicity,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",Canada,2007.0,angina unstable,EFO:0020925,EFO:1001482
+2970,1344245,940358,Withdrawn,cardiotoxicity,"Cardiovascular ischemic events occurring in Zelnorm-treated patients included myocardial infarction, stroke, and unstable angina pectoris",Canada,2007.0,myocardial infarction,EFO:0000612,EFO:1001482
+2971,1344245,940358,Withdrawn,cardiotoxicity,"Risk for heart attack, stroke, and unstable angina",United States,2007.0,stroke,EFO:0000712,EFO:1001482
+2972,1343402,674730,Withdrawn,hepatotoxicity,Hepatotoxicity,Philippines; United States; European Union,1999.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2973,1343402,674730,Withdrawn,hepatotoxicity,Hepatotoxicity,Philippines; United States; European Union,1999.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2975,1344518,431376,Withdrawn,hepatotoxicity,Serious drug-induced liver injury,Canada,2020.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2976,1344855,27340,Withdrawn,hematological toxicity,"Bone marrow depression (anemia, thrombocytopenia, and granulocytopenia temporally associated with treatment). Bone marrow toxicities may present as either reversible bone marrow depression, which was dose-related and responsive to drug withdrawal, or as aplastic anemia, which was not dose-related, irreversible, and associated with a high mortality",United States,2012.0,myelosuppression,EFO:0007053,EFO:0011051
+2977,1344303,674546,Withdrawn,cardiotoxicity,Cardiovascular,Germany; Venezuela,1967.0,cardiovascular disease,EFO:0000319,EFO:1001482
+2978,1343943,674449,Withdrawn,hepatotoxicity,Liver toxicity; Serious liver injury leading to liver transplant; Death,United States; European Union,2006.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2979,1699323,150722,Withdrawn,dermatological toxicity,Vasculitis; Rash,United Kingdom,1979.0,exanthem,EFO:1000697,EFO:0011048
+2981,1702218,2366,Withdrawn,misuse,Self-Poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+2982,1703184,1378211,Withdrawn,misuse,Self-Poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+2983,1706330,65605,Withdrawn,cardiotoxicity,Fatal arrhythmia; Drug Interaction,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+2984,1700652,219327,Withdrawn,hepatotoxicity,Liver necrosis; Photosensitivity; Animal carcinogenicity,Germany; United States; United Kingdom; Spain,1982.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2987,1344637,557741,Withdrawn,cardiotoxicity,Fatal arrhythmia,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+2988,1700343,1376406,Withdrawn,hepatotoxicity,Hepatotoxicity,United Kingdom,1982.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2989,1706201,11685,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+2990,1706201,11685,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,hepatotoxicity,EFO:0011052,EFO:0011052
+2993,1344779,1671238,Withdrawn,hepatotoxicity,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,United States; Saudi Arabia,1998.0,Hepatic failure,HP:0001399,EFO:0011052
+2994,1703509,316539,Withdrawn,cardiotoxicity,risk of serious neurological and cardiac side effects in patients when buflomedil is used normally,France; European Union; Madagascar; Brazil,2011.0,Tachycardia,HP:0001649,EFO:1001482
+2995,1703509,316539,Withdrawn,vascular toxicity,"Serious nervous (convulsions, myoclonia and status epilepticus) and cardiac (tachycardia, hypotension, ventricular rhythm disorders and cardiac arrest) events especially in accidental overdose or voluntary overdose",France; European Union; Madagascar; Brazil,2011.0,hypotension,EFO:0005251,EFO:0011062
+2996,1703509,316539,Withdrawn,misuse,"Low efficacy and with regards to a risk of serious side- effects linked to neurological and cardiac misuse (non- compliance with the indication, contraindications, dosage, and monitoring of renal function) and the therapeutic range is narrow; Severe and sometimes fatal cardiovascular and neurological risks related to drug overdose; Serious nervous (convulsions, myoclonia and status epilepticus) and cardiac (tachycardia, hypotension, ventricular rhythm disorders and cardiac arrest) events especially in accidental overdose or voluntary overdose",France; European Union; Madagascar; Brazil,2011.0,overdose,EFO:0020911,EFO:0011049
+2997,1703509,316539,Withdrawn,cardiotoxicity,"Serious nervous (convulsions, myoclonia and status epilepticus) and cardiac (tachycardia, hypotension, ventricular rhythm disorders and cardiac arrest) events especially in accidental overdose or voluntary overdose",France; European Union; Madagascar; Brazil,2011.0,ventricular tachycardia,EFO:0005306,EFO:1001482
+2998,1701128,1631832,Withdrawn,dermatological toxicity,Dermatologic Toxicity; Psychiatric Reaction,United States,1964.0,dermatological toxicity,EFO:0011048,EFO:0011048
+2999,1705412,1121342,Withdrawn,hepatotoxicity,reports of serious liver dysfunction particularly on long-term treatment and when the drug was administered with anti-inflammatory agents and corticosteroids,Peru; Spain,1998.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3001,1344727,675481,Withdrawn,,Serious side effects,Mexico; European Union; Ireland; Ukraine; United Kingdom; United States; Canada; Switzerland,2009.0,adverse effect,EFO:0009658,
+3002,1702396,351701,Withdrawn,,Not safe for use in asthma,Timor-Leste,2005.0,,,
+3003,1344296,4193,Withdrawn,teratogenicity,Risk for birth defects,France; United States,1989.0,,,EFO:0009880
+3004,1703786,1249052,Withdrawn,hepatotoxicity,Jaundice; Elevated Hepatic Enzymes,United States; United Kingdom,1970.0,Jaundice,HP:0000952,EFO:0011052
+3005,1702722,418438,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1990.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3006,1702313,1248678,Withdrawn,,Increased mortality at higher doses; increased hospitalizations,United States; United Kingdom,1993.0,hospitalisation,EFO:0020922,
+3007,2792189,418485,Withdrawn,hepatotoxicity,Risk of serious liver injury,European Union,2018.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3008,1699932,16599,Withdrawn,gastrointestinal toxicity,Animal Carcinogenicity (rodent); Gastrointestinal Toxicity,Germany; Worldwide; Spain; United Kingdom,1983.0,gastrointestinal toxicity,EFO:0011050,EFO:0011050
+3009,1699932,16599,Withdrawn,gastrointestinal toxicity,"serious adverse gastrointestinal reactions; tumours in a carcinogenicity study
+undertaken in rats",Germany; Worldwide; Spain; United Kingdom,1983.0,digestive system disease,EFO:0000405,EFO:0011050
+3010,1704964,1379509,Withdrawn,respiratory toxicity,"Severe adverse reactions including hypotension, arrhythmias, pulmonary oedema and renal disorders",Germany,1998.0,pulmonary edema,EFO:1001134,EFO:0011060
+3011,2583297,1078515,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1983.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3012,1706429,367314,Withdrawn,,Higher frequency of non-fatal but serious side effects,European Union,2013.0,adverse effect,EFO:0009658,
+3013,1705329,424824,Withdrawn,hepatotoxicity,Serious liver-related adverse events,Canada; Australia; European Union,2007.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3015,1699726,27104,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1975.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3017,1704223,1677867,Withdrawn,neurotoxicity,Neuropsychiatric Reaction,United States,1970.0,Abnormality of higher mental function,HP:0011446,EFO:0011057
+3018,1704223,1677867,Withdrawn,psychiatric toxicity,Neuropsychiatric Reaction,United States,1970.0,Abnormality of higher mental function,HP:0011446,EFO:0011059
+3019,1703561,678116,Withdrawn,hepatotoxicity,Hepatotoxicity,United Kingdom,1990.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3020,1705385,2197674,Withdrawn,neurotoxicity,Risk of haemorrhagic stroke,Malaysia; Morocco; Ireland; Timor-Leste; Greece; Yemen; United Arab Emirates; Nigeria; Singapore; Denmark; United Kingdom; Saudi Arabia; Armenia; Sweden; Norway; France; Syrian Arab Republic; Nepal; Zimbabwe; United States; Ghana; Pakistan; Sri Lanka; Bahrain,1975.0,hemorrhagic stroke,EFO:0020921,EFO:0011057
+3021,1696840,1381331,Withdrawn,,Lack of eficacy,European Union,2011.0,lack of efficacy,EFO:0020002,
+3022,1703393,1078524,Withdrawn,neurotoxicity,Polyneuropathy,France; European Union; Germany,1987.0,polyneuropathy,EFO:0009562,EFO:0011057
+3023,1700030,85553,Withdrawn,hepatotoxicity,Hepatoxicity and neonatal renal failure,Nigeria; Bhutan; Ireland,2005.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3024,1700030,85553,Withdrawn,hepatotoxicity,Hepatoxicity and neonatal renal failure,Nigeria; Bhutan; Ireland,2005.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3025,1703586,705835,Withdrawn,hepatotoxicity,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,Worldwide,1986.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3026,1343524,1672744,Withdrawn,hepatotoxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3027,1343524,1672744,Withdrawn,immune system toxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,neutropenia,MONDO:0001475,EFO:0011053
+3028,3589870,408583,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,United States,1973.0,Hepatitis,HP:0012115,EFO:0011052
+3029,3589870,408583,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,United States,1973.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3030,1343724,193096,Withdrawn,hepatotoxicity,Hepatic toxicity,United States; United Kingdom; Canada,1997.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3031,1343650,249814,Withdrawn,cardiotoxicity,Risk for heart valve damage,United States; Canada,2007.0,heart valve disease,EFO:0009551,EFO:1001482
+3032,1705547,1249056,Withdrawn,,Hepatotoxicity; Drug Interaction,United Kingdom,1966.0,drug interaction,EFO:0009878,
+3033,2790934,94091,Withdrawn,vascular toxicity,Haemorrhagic stroke. Severe high blood pressure.,Australia; Bhutan; Timor-Leste; South Korea,2004.0,hypertension,EFO:0000537,EFO:0011062
+3034,1701754,1320257,Withdrawn,neurotoxicity,Neuropsychiatric Reaction,France,1976.0,Abnormality of higher mental function,HP:0011446,EFO:0011057
+3035,1705451,314827,Withdrawn,hepatotoxicity,Gastrointestinal Toxicity; Hepatotoxicity,Worldwide,1990.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3036,1697024,1380209,Withdrawn,dermatological toxicity,evidence of oculo-mucocutaneous syndrome,United Kingdom,1977.0,oculomucocutaneous syndrome,EFO:0020917,EFO:0011048
+3037,1343061,99389,Withdrawn,misuse,"Dependence, withdrawal, abuse, and other undesirable effects",European Union; United Kingdom; Canada,2012.0,substance dependence,MONDO:0004938,EFO:0011049
+3040,1702194,93930,Withdrawn,dermatological toxicity,Stevens-Johnson syndrome and fatalities,United States,1966.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3043,1343728,22641,Withdrawn,cardiotoxicity,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,United States,1995.0,Ventricular arrhythmia,HP:0004308,EFO:1001482
+3044,2792057,685193,Withdrawn,cardiotoxicity,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",European Union; New Zealand; Canada; Iraq,2009.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3045,1344436,21697,Withdrawn,cardiotoxicity,Risk for heart attack and stroke,Bhutan; Ireland; United States; Worldwide; Canada,2004.0,stroke,EFO:0000712,EFO:1001482
+3046,2790794,358192,Withdrawn,cardiotoxicity,Increased risk of heart attack and stroke,Indonesia; Egypt; Guatemala; Australia,2010.0,stroke,EFO:0000712,EFO:1001482
+3051,1705552,1379765,Withdrawn,hematological toxicity,"hypoglycaemia, haemolytic anaemia, renal failure, hepatitis and anaphylactic reactions",Worldwide,1992.0,hemolytic anemia,EFO:0005558,EFO:0011051
+3052,1705552,1379765,Withdrawn,hepatotoxicity,"hypoglycaemia, haemolytic anaemia, renal failure, hepatitis and anaphylactic reactions",Worldwide,1992.0,Hepatitis,HP:0012115,EFO:0011052
+3053,1705552,1379765,Withdrawn,nephrotoxicity,"hypoglycaemia, haemolytic anaemia, renal failure, hepatitis and anaphylactic reactions",Worldwide,1992.0,kidney failure,EFO:1002048,EFO:0011056
+3054,1706143,19569,Withdrawn,cardiotoxicity,Prolonged QT interval; ventricular tachycardia,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3055,1706143,19569,Withdrawn,cardiotoxicity,Use of terfenadine products with certain other drugs or foods and in certain medical conditions is associated with the potential to result in rare and serious cardiac side effects primarily involving changes in heart rhythm,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,drug interaction,EFO:0009878,EFO:1001482
+3056,1702309,551160,Withdrawn,cardiotoxicity,Ventricular Tachycardia and Arrhythmia,Germany; United Kingdom; Spain,1991.0,ventricular tachycardia,EFO:0005306,EFO:1001482
+3058,1701471,2819,Withdrawn,hepatotoxicity,Liver Toxicity and Death,France; United States; United Kingdom; Germany,1980.0,dead,PATO:0001422,EFO:0011052
+3059,1699174,2084,Withdrawn,hepatotoxicity,Hepatic necrosis,Worldwide,1996.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3060,1699174,2084,Withdrawn,hepatotoxicity,Hepatic necrosis,Worldwide,1996.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3062,1705817,316600,Withdrawn,dermatological toxicity,"Cataracts, Alopecia, lchthyosis",France; United States,1962.0,alopecia,MONDO:0004907,EFO:0011048
+3063,1343693,666,Withdrawn,hepatotoxicity,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Peru; United Kingdom; United States,1997.0,Hepatic failure,HP:0001399,EFO:0011052
+3064,1343693,666,Withdrawn,hepatotoxicity,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Peru; United Kingdom; United States,1997.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3067,1699368,16088,Withdrawn,psychiatric toxicity,"Psychiatric effects, especially depression",European Union,2008.0,unipolar depression,EFO:0003761,EFO:0011059
+3068,1343486,67010,Withdrawn,dermatological toxicity,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",United States; New Zealand; Bhutan; Canada,2005.0,erythema multiforme,EFO:1000694,EFO:0011048
+3069,1702298,644928,Withdrawn,cardiotoxicity,cardia arrhythmias; risk of blood dyscrasias,Germany; Hungary,1980.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3070,1702154,1532522,Withdrawn,hepatotoxicity,"Guillan-Barre Syndrome, hepatotoxicity",Worldwide,1983.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3071,1343774,93117,Withdrawn,musculoskeletal toxicity,"Flank pain, decreased kidney function",United States; United Kingdom; Spain,1987.0,Flank pain,HP:0030157,EFO:0011055
+3072,1343774,93117,Withdrawn,nephrotoxicity,"Flank pain, decreased kidney function",United States; United Kingdom; Spain,1987.0,Flank pain,HP:0030157,EFO:0011056
+3073,1695992,1380168,Withdrawn,cardiotoxicity,"Life-threatening adverse events , mortality (inc. included shortness of breath, low blood pressure, and cardiopulmonary arrest)",United States,2005.0,cardiac arrest,EFO:0009492,EFO:1001482
+3074,1695992,1380168,Withdrawn,vascular toxicity,"Life-threatening adverse events , mortality (inc. included shortness of breath, low blood pressure, and cardiopulmonary arrest)",United States,2005.0,hypotension,EFO:0005251,EFO:0011062
+3077,1344573,230249,Withdrawn,misuse,"Increased risk of abuse or addiction, intoxication and events related to psychomotor impairment",European Union,2007.0,substance abuse,MONDO:0002491,EFO:0011049
+3078,1344573,230249,Withdrawn,misuse,"Increased risk of abuse or addiction, intoxication and events related to psychomotor impairment",European Union,2007.0,substance dependence,MONDO:0004938,EFO:0011049
+3079,2793998,403465,Withdrawn,musculoskeletal toxicity,"Severe muscle damage. Combination of cerivastatin and another cholesterol lowering drug, gemfibrozil, has caused severe damage to muscle in some patients. The damage can be in the form of rhabdomyolysis where there is breakdown of muscle cells and release of myoglobin which in turn can lead to kidney damage",Canada; Australia,2001.0,rhabdomyolysis,EFO:0003867,EFO:0011055
+3081,1344927,674665,Withdrawn,hepatotoxicity,Hepatotoxicity; Steven-Johnson Syndrome; Toxic Epidermal Necrolysis,United Arab Emirates; Singapore; France; Germany; European Union; Portugal; Zimbabwe; Japan; Saudi Arabia; United States; South Africa; Pakistan,1996.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3082,1344927,674665,Withdrawn,dermatological toxicity,"Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and Erythema multiforme majus",United Arab Emirates; Singapore; France; Germany; European Union; Portugal; Zimbabwe; Japan; Saudi Arabia; United States; South Africa; Pakistan,1996.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3083,1344303,674546,Withdrawn,cardiotoxicity,cases of pulmonary hypertension led to its withdrawal in several countries,Germany; Venezuela,1967.0,pulmonary arterial hypertension,EFO:0001361,EFO:1001482
+3084,1702823,128555,Withdrawn,hematological toxicity,Hemolytic Anemia,France; Spain; Germany; Switzerland,1985.0,hemolytic anemia,EFO:0005558,EFO:0011051
+3085,2583196,88648,Withdrawn,dermatological toxicity,potent photosensitizers and can cause disabling skin disorders,United States,1975.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3086,2583196,88648,Withdrawn,dermatological toxicity,potent photosensitizers and can cause disabling skin disorders,United States,1975.0,skin sensitization,EFO:0020984,EFO:0011048
+3088,1699603,83245,Withdrawn,hepatotoxicity,Hepatitis,France,1993.0,Hepatitis,HP:0012115,EFO:0011052
+3089,1700964,1376807,Withdrawn,dermatological toxicity,Dermatologic and Ophthalmic Toxicity,France,1970.0,dermatological toxicity,EFO:0011048,EFO:0011048
+3091,1344651,675554,Withdrawn,,Increased mortality,United States,2007.0,dead,PATO:0001422,
+3095,1706330,65605,Withdrawn,immune system toxicity,Associated with adverse drug reactions including irregular heart rhythms and severe allergic reactions if taken at higher than recommended doses or in conjunction with some other drugs including antihypertensives and anti-asthmatics,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3096,1702757,453649,Withdrawn,vascular toxicity,Thromboembolism,United States,1976.0,Thromboembolism,HP:0001907,EFO:0011062
+3097,1700598,621308,Withdrawn,hepatotoxicity,Hepatotoxicity,Spain,1993.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3098,1700652,219327,Withdrawn,nephrotoxicity,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Germany; United States; United Kingdom; Spain,1982.0,kidney failure,EFO:1002048,EFO:0011056
+3099,1706350,898847,Withdrawn,hepatotoxicity,Hepatitis,Germany,1992.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3100,1705614,1152067,Withdrawn,carcinogenicity,Potential risk of carcinogenicity,Oman,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3104,1699675,898773,Withdrawn,cardiotoxicity,Cardiovascular,European Union,2007.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3105,1700343,1376406,Withdrawn,hepatotoxicity,Hepatotoxicity,United Kingdom,1982.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3106,1706336,231925,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3108,1343717,675587,Withdrawn,immune system toxicity,Immune-mediated encephalitis and meningoencephalitis,European Union; Canada,2018.0,encephalomyelitis,EFO:0001423,EFO:0011053
+3110,1703509,316539,Withdrawn,cardiotoxicity,"Serious nervous (convulsions, myoclonia and status epilepticus) and cardiac (tachycardia, hypotension, ventricular rhythm disorders and cardiac arrest) events especially in accidental overdose or voluntary overdose",France; European Union; Madagascar; Brazil,2011.0,myocardial infarction,EFO:0000612,EFO:1001482
+3112,1703818,1378425,Withdrawn,cardiotoxicity,"associated with increased death rates in patients who had 
+asymptomatic heart rhythm abnormalities after a recent heart attack",United States; United Kingdom,1991.0,dead,PATO:0001422,EFO:1001482
+3114,1344658,675066,Withdrawn,misuse,"Increased risk of medication errors resulting in serious adverse events, including deaths",United States,2010.0,drug misuse,EFO:0011049,EFO:0011049
+3116,1699914,163172,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1989.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3117,1699911,49226,Withdrawn,respiratory toxicity,Asthma Mortality,New Zealand,1990.0,asthma,MONDO:0004979,EFO:0011060
+3119,1696963,1381454,Withdrawn,immune system toxicity,Serious allergic reactions and limited evidence of benefit,European Union; Armenia,2016.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3120,1343229,98346,Withdrawn,occular toxicity,"Reports of adverse reactions and toxicity such as buccal ulceration, stomatitis, kerato-conjunctivitis. Studies have shown methylrosanilinium chloride to be a carcinogen in mice and it has been labelled as a mutagen, a mitotic poison and a clastogen",Malaysia,1998.0,keratitis,EFO:0009449,EFO:0020928
+3121,1583658,1204084,Withdrawn,carcinogenicity,Increased risk of non-melanoma skin cancer,European Union; Canada,2020.0,non-melanoma skin carcinoma,EFO:0009260,EFO:0011046
+3122,2583297,1078515,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1983.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3123,1344111,255904,Withdrawn,hepatotoxicity,Liver toxicity is more frequent and severe than with other antifungal treatments; Elevated risk of early onset liver damage,Guatemala; Madagascar,2011.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3125,1703381,139173,Withdrawn,hepatotoxicity,Evidence of hepatic injury,France; Morocco,1999.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3126,1702917,82895,Withdrawn,carcinogenicity,May have a carcinogenic potential,United States; Canada,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3127,1704236,1763641,Withdrawn,,Multi-Organ Toxicities,Germany,1986.0,Multiple Organ Failure,EFO:1001373,
+3129,1344982,674898,Withdrawn,occular toxicity,Uveitis,United Kingdom,1990.0,uveitis,EFO:1001231,EFO:0020928
+3130,1703393,1078524,Withdrawn,neurotoxicity,Polyneuropathy,France; European Union; Germany,1987.0,Paralysis,HP:0003470,EFO:0011057
+3131,1696956,1381447,Withdrawn,,no reduction in mortality in patients treated with nebacumab who had Gram-negative bacteraemia.,Worldwide,1993.0,lack of efficacy,EFO:0020002,
+3132,1344096,674443,Withdrawn,hepatotoxicity,Adverse hepatic events,Canada,2003.0,Hepatic failure,HP:0001399,EFO:0011052
+3133,1705800,1249055,Withdrawn,hepatotoxicity,Hepatic and Hematologic Toxicity,Germany; Austria,1984.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3134,1705800,1249055,Withdrawn,hematological toxicity,"associated with hepatotoxic reactions, some of which were fatal",Germany; Austria,1984.0,drug-induced liver injury,EFO:0004228,EFO:0011051
+3136,1703586,705835,Withdrawn,hematological toxicity,"rare cases of haemolytic anaemia - sometimes fatal - thrombocytopenia, hepatotoxicity ",Worldwide,1986.0,Thrombocytopenia,HP:0001873,EFO:0011051
+3137,1703648,826568,Withdrawn,hepatotoxicity,Hepatic toxicity,Germany; Italy; New Zealand; Belgium; Kuwait; Australia; Austria; Mauritius; Denmark; United Kingdom; Cuba; Spain; Netherlands; Cyprus; Norway; France; Japan; United States; Canada,1970.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3142,1699514,352917,Withdrawn,neurotoxicity,"Questionable safety with detection of neurotoxicity, hypersensitivity and nitrosamine-generating ability",Armenia,2000.0,neurotoxicity,EFO:0011057,EFO:0011057
+3143,1705451,314827,Withdrawn,hepatotoxicity,Gastrointestinal Toxicity; Hepatotoxicity,Worldwide,1990.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3145,1696087,1380405,Withdrawn,dermatological toxicity,may cause storage disease with the formation of granulomas,United States,1978.0,Granuloma,HP:0032252,EFO:0011048
+3146,1703574,1093573,Withdrawn,vascular toxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,hypotension,EFO:0005251,EFO:0011062
+3147,1703574,1093573,Withdrawn,hepatotoxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Jaundice,HP:0000952,EFO:0011052
+3148,1343061,99389,Withdrawn,neurotoxicity,"Serious side effects seen with these medicines. These included confusion and loss of consciousness, particularly in elderly people, and the risk of addiction to the medicine when used for prolonged periods, with severe withdrawal symptoms on stopping treatment abruptly. The French medicines agency was also concerned by reports of these medicines being taken for longer than recommended and cases of overdose (sometimes in combination with other medicines) leading to coma or death.",European Union; United Kingdom; Canada,2012.0,Coma,HP:0001259,EFO:0011057
+3150,1704539,1379099,Withdrawn,misuse,Overdose,United States,1984.0,overdose,EFO:0020911,EFO:0011049
+3152,1701472,23417,Withdrawn,hepatotoxicity,Liver toxicity,Canada; Worldwide; Australia; European Union,2010.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3154,1702194,93930,Withdrawn,,Stevens-Johnson syndrome and fatalities,United States,1966.0,dead,PATO:0001422,
+3155,1343273,2095,Withdrawn,hematological toxicity,"renal complications, rash, fever, blood dyscrasias, and liver damage",United States,1970.0,hematologic disease,EFO:0005803,EFO:0011051
+3156,1702191,418491,Withdrawn,hepatotoxicity,Hepatotoxicity,France; Spain; Germany,1985.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3158,1343728,22641,Withdrawn,metabolic toxicity,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,United States,1995.0,high density lipoprotein cholesterol measurement,EFO:0004612,EFO:0011054
+3160,2792057,685193,Withdrawn,misuse,Risk of potentially fatal overdose,European Union; New Zealand; Canada; Iraq,2009.0,accidental overdose,EFO:0020923,EFO:0011049
+3161,2792057,685193,Withdrawn,misuse,Risk of potentially fatal overdose,European Union; New Zealand; Canada; Iraq,2009.0,overdose,EFO:0020911,EFO:0011049
+3163,2792057,685193,Withdrawn,,Adverse drug reactions,European Union; New Zealand; Canada; Iraq,2009.0,adverse effect,EFO:0009658,
+3164,1344436,21697,Withdrawn,cardiotoxicity,"Increased risk of serious cardiovascular events, such as heart attacks and strokes",Bhutan; Ireland; United States; Worldwide; Canada,2004.0,myocardial infarction,EFO:0000612,EFO:1001482
+3166,1344436,21697,Withdrawn,neurotoxicity,Increased risk in cardiovascular events such as heart attack and strokes especially when used for long duration.,Bhutan; Ireland; United States; Worldwide; Canada,2004.0,stroke,EFO:0000712,EFO:0011057
+3169,1705552,1379765,Withdrawn,metabolic toxicity,"hypoglycaemia, haemolytic anaemia, renal failure, hepatitis and anaphylactic reactions",Worldwide,1992.0,Hypoglycemia,HP:0001943,EFO:0011054
+3171,1706143,19569,Withdrawn,,Fatal drug interactions with commonly use drugs,Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,dead,PATO:0001422,
+3173,1701471,2819,Withdrawn,hepatotoxicity,Liver Toxicity and Death,France; United States; United Kingdom; Germany,1980.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3174,1701471,2819,Withdrawn,hepatotoxicity,Liver Toxicity and Death,France; United States; United Kingdom; Germany,1980.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3176,1705817,316600,Withdrawn,occular toxicity,"Cataracts, Alopecia, lchthyosis",France; United States,1962.0,cataract,MONDO:0005129,EFO:0020928
+3177,1343693,666,Withdrawn,hepatotoxicity,"hepatic necrosis and failure, with a mean time to onset of 3 months.",Peru; United Kingdom; United States,1997.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3179,1343486,67010,Withdrawn,cardiotoxicity,"Cardiovascular risk, (heart attack or stroke)",United States; New Zealand; Bhutan; Canada,2005.0,myocardial infarction,EFO:0000612,EFO:1001482
+3181,1702081,1377851,Withdrawn,neurotoxicity,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",European Union; Spain,2005.0,movement disorder,EFO:0004280,EFO:0011057
+3182,1705781,1249059,Withdrawn,hepatotoxicity,Hepatotoxicity,France; Belgium,1965.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3183,1705781,1249059,Withdrawn,hepatotoxicity,Hepatotoxicity,France; Belgium,1965.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3184,1343774,93117,Withdrawn,musculoskeletal toxicity,"Flank pain, decreased kidney function",United States; United Kingdom; Spain,1987.0,decreased kidney function,EFO:0020912,EFO:0011055
+3189,1344518,431376,Withdrawn,hepatotoxicity,Serious drug-induced liver injury,Canada,2020.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3190,1343621,674514,Withdrawn,nephrotoxicity,Rhabdomyolysis _ kidney failure and muscle damage,Worldwide,2001.0,kidney failure,EFO:1002048,EFO:0011056
+3194,1702208,40940,Withdrawn,,"Not safe or effective for intended use as vasodilator, anti-inflammatory",United States,1973.0,lack of efficacy,EFO:0020002,
+3195,1699323,150722,Withdrawn,vascular toxicity,Vasculitis; Rash,United Kingdom,1979.0,exanthem,EFO:1000697,EFO:0011062
+3196,1699603,83245,Withdrawn,hepatotoxicity,Hepatitis,France,1993.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3197,1700964,1376807,Withdrawn,occular toxicity,Dermatologic and Ophthalmic Toxicity,France,1970.0,occular toxicity,EFO:0020928,EFO:0020928
+3198,1700652,219327,Withdrawn,gastrointestinal toxicity,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Germany; United States; United Kingdom; Spain,1982.0,Gastrointestinal hemorrhage,HP:0002239,EFO:0011050
+3199,1700652,219327,Withdrawn,hepatotoxicity,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Germany; United States; United Kingdom; Spain,1982.0,Hepatic failure,HP:0001399,EFO:0011052
+3200,1699663,46656,Withdrawn,dermatological toxicity,Dermatologic Toxicity,United States,1967.0,skin disease,EFO:0000701,EFO:0011048
+3201,1705841,871360,Withdrawn,dermatological toxicity,Dermatologic Toxicity,United States,1967.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3203,1344637,557741,Withdrawn,cardiotoxicity,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,torsades de pointes,EFO:0005307,EFO:1001482
+3204,1344637,557741,Withdrawn,cardiotoxicity,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,ventricular tachycardia,EFO:0005306,EFO:1001482
+3206,1344637,557741,Withdrawn,cardiotoxicity,Rare but serious cardiac adverse effects; Adverse cardiac events published by the FDA.; Serious cardiovascular adverse effects,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3207,1344637,557741,Withdrawn,,Documented reports on adverse events including deaths associated with its use; Rare but serious heart complications including arrhythmias and sudden death,Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,dead,PATO:0001422,
+3208,1699671,2198,Withdrawn,misuse,Self-poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+3210,1343717,675587,Withdrawn,immune system toxicity,Immune-mediated encephalitis and meningoencephalitis,European Union; Canada,2018.0,meningoencephalitis,EFO:0007364,EFO:0011053
+3212,1706162,1078605,Withdrawn,nephrotoxicity,Renal,Germany,1986.0,nephrotoxicity,EFO:0011056,EFO:0011056
+3213,1703509,316539,Withdrawn,neurotoxicity,risk of serious neurological and cardiac side effects in patients when buflomedil is used normally,France; European Union; Madagascar; Brazil,2011.0,Seizure,HP:0001250,EFO:0011057
+3214,1706366,209964,Withdrawn,dermatological toxicity,"associated with severe adverse reactions, such as severe tissue slough and transverse myelitis",United States,1964.0,Skin detachment,HP:0032156,EFO:0011048
+3215,1705412,1121342,Withdrawn,,reports of serious liver dysfunction particularly on long-term treatment and when the drug was administered with anti-inflammatory agents and corticosteroids,Peru; Spain,1998.0,drug interaction,EFO:0009878,
+3218,1699914,163172,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1989.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3219,1699737,16521,Withdrawn,carcinogenicity,Cutaneous Reactions; Animal Carcinogenicity,United Kingdom; Worldwide,1984.0,carcinogenicity,EFO:0011046,EFO:0011046
+3220,1703786,1249052,Withdrawn,hepatotoxicity,Jaundice; Elevated Hepatic Enzymes,United States; United Kingdom,1970.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3221,1702250,876580,Withdrawn,,Cutaneous Reaction; Multi-Organ Toxicities,Germany; Greece; United Kingdom; Egypt,1984.0,Multiple Organ Failure,EFO:1001373,
+3222,1696963,1381454,Withdrawn,immune system toxicity,Risk of serious allergic reactions,European Union; Armenia,2016.0,bronchial disease,EFO:1002018,EFO:0011053
+3223,1703294,244737,Withdrawn,immune system toxicity,"associated with severe allergic responses, including anaphylactoid reactions",Worldwide,1984.0,non-allergic anaphylaxis,EFO:0020918,EFO:0011053
+3224,1703065,1378097,Withdrawn,carcinogenicity,Increased occurrence of cancer,United States,1993.0,carcinogenicity,EFO:0011046,EFO:0011046
+3225,1344695,674344,Withdrawn,cardiotoxicity,Cardiac repolarization; QTc interval prolongation,Singapore; Armenia; Germany; Peru; United Kingdom; United States,1999.0,electrocardiogram repolarisation abnormality,EFO:0020913,EFO:1001482
+3226,1344695,674344,Withdrawn,cardiotoxicity,Cardiac repolarization; QTc interval prolongation,Singapore; Armenia; Germany; Peru; United Kingdom; United States,1999.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3228,1583658,1204084,Withdrawn,carcinogenicity,"Increased risk of skin cancer, particularly squamous cell carcinoma",European Union; Canada,2020.0,squamous cell carcinoma,EFO:0000707,EFO:0011046
+3229,1704964,1379509,Withdrawn,nephrotoxicity,"Severe adverse reactions including hypotension, arrhythmias, pulmonary oedema and renal disorders",Germany,1998.0,kidney disease,EFO:0003086,EFO:0011056
+3232,2793970,384948,Withdrawn,immune system toxicity,Adverse effects that cause encephalitis and mortality,Vietnam,2000.0,encephalomyelitis,EFO:0001423,EFO:0011053
+3235,1699726,27104,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1975.0,skin disease,EFO:0000701,EFO:0011048
+3238,1705800,1249055,Withdrawn,hepatotoxicity,Hepatic and Hematologic Toxicity,Germany; Austria,1984.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3239,1343071,70239,Withdrawn,carcinogenicity,mammary tumors in rats and ovarian tumors in mice,United States,1991.0,carcinogenicity,EFO:0011046,EFO:0011046
+3241,1703586,705835,Withdrawn,immune system toxicity,Serious hypersensitive reactions; Hemolytic Anemia; Hepatotoxicity,Worldwide,1986.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3243,1343524,1672744,Withdrawn,hepatotoxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3244,1343524,1672744,Withdrawn,hematological toxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,neutropenia,MONDO:0001475,EFO:0011051
+3246,1343067,991941,Withdrawn,cardiotoxicity,"Significantly less efficacious than salbutamol and cardiac side effects, mainly palpitations and tachycardia because of its non-selectivity",United Kingdom,2010.0,Palpitations,HP:0001962,EFO:1001482
+3247,1699729,228897,Withdrawn,hepatotoxicity,Hepatotoxicity; Jaundice,United Kingdom,1968.0,Jaundice,HP:0000952,EFO:0011052
+3248,1699360,16498,Withdrawn,hepatotoxicity,nephropathy; liver and kidney toxicity; carcinogenicity; haemolytic anaemia and methaemoglobinaemia ,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3249,1699360,16498,Withdrawn,hematological toxicity,nephropathy; liver and kidney toxicity; carcinogenicity; haemolytic anaemia and methaemoglobinaemia ,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,methemoglobinemia,MONDO:0001117,EFO:0011051
+3250,1705547,1249056,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United Kingdom,1966.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3251,1344221,12417,Withdrawn,hematological toxicity,aplastic anaemia and agranulocytosis,Malaysia; United Arab Emirates; Ethiopia; Jordan; Germany; Chile; Bangladesh; Ghana; Sri Lanka; Bahrain,1984.0,Agranulocytosis,HP:0012234,EFO:0011051
+3252,2790934,94091,Withdrawn,neurotoxicity,Associated with strokes.,Australia; Bhutan; Timor-Leste; South Korea,2004.0,stroke,EFO:0000712,EFO:0011057
+3253,1705451,314827,Withdrawn,gastrointestinal toxicity,Gastrointestinal Toxicity; Hepatotoxicity,Worldwide,1990.0,gastrointestinal toxicity,EFO:0011050,EFO:0011050
+3254,1703574,1093573,Withdrawn,nephrotoxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Urinary retention,HP:0000016,EFO:0011056
+3255,1343061,99389,Withdrawn,neurotoxicity,"Serious side effects seen with these medicines. These included confusion and loss of consciousness, particularly in elderly people, and the risk of addiction to the medicine when used for prolonged periods, with severe withdrawal symptoms on stopping treatment abruptly. The French medicines agency was also concerned by reports of these medicines being taken for longer than recommended and cases of overdose (sometimes in combination with other medicines) leading to coma or death.",European Union; United Kingdom; Canada,2012.0,substance dependence,MONDO:0004938,EFO:0011057
+3256,1705336,1162878,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1975.0,skin disease,EFO:0000701,EFO:0011048
+3257,1703611,704719,Withdrawn,carcinogenicity,Animal carcinogenicity (rodents),Germany; United States; United Kingdom,1979.0,carcinogenicity,EFO:0011046,EFO:0011046
+3258,1704630,1379185,Withdrawn,occular toxicity,associated with ophthalmic changes and corneal opacities in dogs,United States,1965.0,Corneal opacity,HP:0007957,EFO:0020928
+3259,1390915,284208,Withdrawn,hepatotoxicity,"Serious, irreversible, and even fatal nephrotoxicity and hepatotoxicity",United States,2001.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3261,1343542,2197701,Withdrawn,cardiotoxicity,cardiovascular; increased risk of heart attack and stroke,India; European Union; Hong Kong; United States; New Zealand; Canada,2010.0,stroke,EFO:0000712,EFO:1001482
+3263,1700780,110103,Withdrawn,,Drug Interactionwith 5-FU and Deaths,Japan,1993.0,drug interaction,EFO:0009878,
+3264,1699315,233553,Withdrawn,hematological toxicity,"Dermatologic, Hematologic and Hepatic Reactions",Germany,1988.0,hematologic disease,EFO:0005803,EFO:0011051
+3265,1343273,2095,Withdrawn,nephrotoxicity,"renal complications, rash, fever, blood dyscrasias, and liver damage",United States,1970.0,Nephropathy,HP:0000112,EFO:0011056
+3267,2792057,685193,Withdrawn,cardiotoxicity,"Prolong the PR interval, widen the QRS complex, prolong the QT interval and therefore increase the risk of serious abnormal heart rhythms.",European Union; New Zealand; Canada; Iraq,2009.0,electrocardiogram PR prolongation,EFO:0020929,EFO:1001482
+3268,1702113,757917,Withdrawn,hepatotoxicity,Neurologic and Hepatic Toxicities,United Kingdom; Spain,1985.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3269,1702113,757917,Withdrawn,hepatotoxicity,Neurologic and Hepatic Toxicities,United Kingdom; Spain,1985.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3270,1699360,16498,Withdrawn,nephrotoxicity,high potential for harm to the kidneys and the possibility of hemolytic anemia and methemoglobinemia resulting from abuse,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,nephrotoxicity,EFO:0011056,EFO:0011056
+3271,2790794,358192,Withdrawn,cardiotoxicity,Increased risk of heart attack and stroke,Indonesia; Egypt; Guatemala; Australia,2010.0,myocardial infarction,EFO:0000612,EFO:1001482
+3272,1705552,1379765,Withdrawn,hematological toxicity,"associated with hypoglycemia in elderly patients, as well as a constellation of multisystem organ involvement characterized by hemolytic anemia, frequently associated with renal failure, markedly abnormal liver tests, and coagulopathy",Worldwide,1992.0,blood coagulation disease,EFO:0009314,EFO:0011051
+3275,1706143,19569,Withdrawn,,"Fatal drug interactions with commonly use drugs; Rare but serious heart problems when taken with certain drugs, including antibiotics and antifungal drugs",Morocco; Singapore; France; Mauritius; Bhutan; Saudi Arabia; United States; Oman,1997.0,drug interaction,EFO:0009878,
+3276,1702309,551160,Withdrawn,cardiotoxicity,Ventricular Tachycardia and Arrhythmia,Germany; United Kingdom; Spain,1991.0,Ventricular arrhythmia,HP:0004308,EFO:1001482
+3280,1345001,267825,Withdrawn,hepatotoxicity,Hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada,1998.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3281,1700763,27105,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1974.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3282,2583514,16727,Withdrawn,misuse,potentially toxic to the cardiovascular system and was associated with deaths from misuse or abuse,United States,1977.0,substance abuse,MONDO:0002491,EFO:0011049
+3285,2583713,1510482,Withdrawn,neurotoxicity,"associated with acute toxicity manifested by dizziness, headache, disorientation, and unconsciousness",United States,1974.0,dizziness,EFO:0009847,EFO:0011057
+3287,1702335,478003,Withdrawn,hepatotoxicity,severe liver injury during longer-term (more than 11 days) treatment,European Union,2006.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3289,1699327,452538,Withdrawn,carcinogenicity,carcinogenic nature,Germany; Denmark; Brazil; Egypt; Italy; Cuba; United States,1963.0,carcinogenicity,EFO:0011046,EFO:0011046
+3290,1343486,67010,Withdrawn,neurotoxicity,Risk for heart attack and stroke,United States; New Zealand; Bhutan; Canada,2005.0,stroke,EFO:0000712,EFO:0011057
+3291,1343486,67010,Withdrawn,cardiotoxicity,Risk for heart attack and stroke,United States; New Zealand; Bhutan; Canada,2005.0,stroke,EFO:0000712,EFO:1001482
+3292,1344573,230249,Withdrawn,misuse,"Increased risk of abuse or addiction, intoxication and events related to psychomotor impairment",European Union,2007.0,poisoning,EFO:0008546,EFO:0011049
+3293,1344573,230249,Withdrawn,neurotoxicity,"Increased risk of abuse or addiction, intoxication and events related to psychomotor impairment",European Union,2007.0,impaired psychomotor skills,EFO:0020909,EFO:0011057
+3295,1343621,674514,Withdrawn,musculoskeletal toxicity,increased risk of rhabdomyolysis,Worldwide,2001.0,rhabdomyolysis,EFO:0003867,EFO:0011055
+3298,1343105,2335059,Withdrawn,dermatological toxicity,associated with chemical and thermal burns,United States,1984.0,caustic injury,EFO:0009503,EFO:0011048
+3301,1700652,219327,Withdrawn,hepatotoxicity,Liver necrosis; Photosensitivity; Animal carcinogenicity,Germany; United States; United Kingdom; Spain,1982.0,Hepatic necrosis,HP:0002605,EFO:0011052
+3303,1706201,11685,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,Jaundice,HP:0000952,EFO:0011052
+3304,1344779,1671238,Withdrawn,misuse,Severe hepatitis and liver failure (some requiring transplantation); Hepatic Failure; Off-Label Abuse,United States; Saudi Arabia,1998.0,drug misuse,EFO:0011049,EFO:0011049
+3305,1706364,153408,Withdrawn,immune system toxicity,High risk of sometimes serious contact allergy,European Union; Madagascar,2010.0,contact dermatitis,EFO:0005319,EFO:0011053
+3307,1706366,209964,Withdrawn,neurotoxicity,"associated with severe adverse reactions, such as severe tissue slough and transverse myelitis",United States,1964.0,transverse myelitis,MONDO:0021553,EFO:0011057
+3308,1701128,1631832,Withdrawn,psychiatric toxicity,Dermatologic Toxicity; Psychiatric Reaction,United States,1964.0,psychiatric toxicity,EFO:0011059,EFO:0011059
+3310,1703786,1249052,Withdrawn,hepatotoxicity,Jaundice; Elevated Hepatic Enzymes,United States; United Kingdom,1970.0,Elevated hepatic transaminase,HP:0002910,EFO:0011052
+3311,1702250,876580,Withdrawn,dermatological toxicity,Cutaneous Reaction; Multi-Organ Toxicities,Germany; Greece; United Kingdom; Egypt,1984.0,skin reaction,EFO:0020927,EFO:0011048
+3312,1702250,876580,Withdrawn,carcinogenicity,"reported adverse reactions, particularly involving the skin, and demonstration of a carcinogenic potential in rats",Germany; Greece; United Kingdom; Egypt,1984.0,carcinogenicity,EFO:0011046,EFO:0011046
+3316,1343077,1712,Withdrawn,gastrointestinal toxicity,Increased risk of dysglycemia,United States,2006.0,Hypoglycemia,HP:0001943,EFO:0011050
+3317,1343229,98346,Withdrawn,gastrointestinal toxicity,"Reports of adverse reactions and toxicity such as buccal ulceration, stomatitis, kerato-conjunctivitis. Studies have shown methylrosanilinium chloride to be a carcinogen in mice and it has been labelled as a mutagen, a mitotic poison and a clastogen",Malaysia,1998.0,stomatitis,EFO:0009688,EFO:0011050
+3318,1583658,1204084,Withdrawn,carcinogenicity,"Increased risk of skin cancer, particularly squamous cell carcinoma",European Union; Canada,2020.0,skin neoplasm,EFO:0004198,EFO:0011046
+3319,2793970,384948,Withdrawn,neurotoxicity,Adverse effects that cause encephalitis and mortality,Vietnam,2000.0,encephalomyelitis,EFO:0001423,EFO:0011057
+3321,1703574,1093573,Withdrawn,hepatotoxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3323,2792057,685193,Withdrawn,,"Deaths. More dangerous than other simple analgesics in overdose, particularly when combined with alcohol",Canada; New Zealand; Vietnam,2010.0,dead,PATO:0001422,
+3325,1704223,1677867,Withdrawn,,associated with ototoxicity,United States,1970.0,ototoxicity,EFO:0006951,
+3326,1705385,2197674,Withdrawn,immune system toxicity,Agranulocytosis; Anaphylactic Reaction,Malaysia; Morocco; Ireland; Timor-Leste; Greece; Yemen; United Arab Emirates; Nigeria; Singapore; Denmark; United Kingdom; Saudi Arabia; Armenia; Sweden; Norway; France; Syrian Arab Republic; Nepal; Zimbabwe; United States; Ghana; Pakistan; Sri Lanka; Bahrain,1975.0,anaphylaxis,MONDO:0100053,EFO:0011053
+3327,1705385,2197674,Withdrawn,,Adverse reaction,Malaysia; Morocco; Ireland; Timor-Leste; Greece; Yemen; United Arab Emirates; Nigeria; Singapore; Denmark; United Kingdom; Saudi Arabia; Armenia; Sweden; Norway; France; Syrian Arab Republic; Nepal; Zimbabwe; United States; Ghana; Pakistan; Sri Lanka; Bahrain,1975.0,adverse effect,EFO:0009658,
+3328,1390915,284208,Withdrawn,nephrotoxicity,"Serious, irreversible, and even fatal nephrotoxicity and hepatotoxicity",United States,2001.0,Nephropathy,HP:0000112,EFO:0011056
+3329,1703475,788435,Withdrawn,neurotoxicity,Convulsions,France,1996.0,Seizure,HP:0001250,EFO:0011057
+3331,1703360,705834,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United States; United Kingdom,1974.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3333,1343067,991941,Withdrawn,cardiotoxicity,"Significantly less efficacious than salbutamol and cardiac side effects, mainly palpitations and tachycardia because of its non-selectivity",United Kingdom,2010.0,Tachycardia,HP:0001649,EFO:1001482
+3334,1343646,674841,Withdrawn,misuse,abuse-deterrent properties,United States,2013.0,substance abuse,MONDO:0002491,EFO:0011049
+3335,1703648,826568,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,Germany; Italy; New Zealand; Belgium; Kuwait; Australia; Austria; Mauritius; Denmark; United Kingdom; Cuba; Spain; Netherlands; Cyprus; Norway; France; Japan; United States; Canada,1970.0,Jaundice,HP:0000952,EFO:0011052
+3337,1699933,16580,Withdrawn,hematological toxicity,Agranulocytosis,France,1985.0,Agranulocytosis,HP:0012234,EFO:0011051
+3338,1706122,952723,Withdrawn,metabolic toxicity,Severe Metabolic Acidosis,France; United States; Germany,1977.0,Metabolic acidosis,HP:0001942,EFO:0011054
+3339,2790934,94091,Withdrawn,cardiotoxicity,Associated with strokes.,Australia; Bhutan; Timor-Leste; South Korea,2004.0,stroke,EFO:0000712,EFO:1001482
+3340,2790934,94091,Withdrawn,neurotoxicity,Risk of hemorrhagic stroke,Australia; Bhutan; Timor-Leste; South Korea,2004.0,hemorrhagic stroke,EFO:0020921,EFO:0011057
+3341,1344553,675476,Withdrawn,neurotoxicity,Increased risk of hemorrhagic stroke,United States,2002.0,hemorrhagic stroke,EFO:0020921,EFO:0011057
+3344,1703574,1093573,Withdrawn,immune system toxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Granulocytosis,HP:0032310,EFO:0011053
+3345,1703574,1093573,Withdrawn,gastrointestinal toxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Paralytic ileus,HP:0002590,EFO:0011050
+3347,1701759,1676537,Withdrawn,carcinogenicity,Animal carcinogenicity (rodents),Germany; United States; United Kingdom,1979.0,carcinogenicity,EFO:0011046,EFO:0011046
+3348,1704630,1379185,Withdrawn,occular toxicity,associated with ophthalmic changes and corneal opacities in dogs,United States,1965.0,Visual impairment,HP:0000505,EFO:0020928
+3352,1699451,1248719,Withdrawn,,unpredicatable effects and was associated with tetanic uterine contractions and obstetrical complications,United States,1979.0,uterine hyperstimulation,EFO:0020915,
+3353,1343273,2095,Withdrawn,hematological toxicity,"renal complications, rash, fever, blood dyscrasias, and liver damage",United States,1970.0,drug-induced liver injury,EFO:0004228,EFO:0011051
+3354,1699201,153476,Withdrawn,respiratory toxicity,,Germany,1989.0,,,EFO:0011060
+3358,1343555,62701,Withdrawn,cardiotoxicity,Increased risk of ischaemic heart disease,European Union,2010.0,heart failure,EFO:0003144,EFO:1001482
+3362,1343417,674867,Withdrawn,cardiotoxicity,Cardiac arrythmias,United Kingdom; Worldwide,2005.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3363,1705793,1152049,Withdrawn,hepatotoxicity,Hepatoxicity,France; Saudi Arabia,1999.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3364,1343662,27419,Withdrawn,neurotoxicity,Psychiatric reaction and amnesia,France; United Kingdom; Argentina; Finland; Netherlands,1991.0,amnesia,EFO:1001454,EFO:0011057
+3367,1343486,67010,Withdrawn,dermatological toxicity,Serious skin reactions and cardiovascular problems,United States; New Zealand; Bhutan; Canada,2005.0,skin reaction,EFO:0020927,EFO:0011048
+3368,1343486,67010,Withdrawn,cardiotoxicity,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",United States; New Zealand; Bhutan; Canada,2005.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3369,1702081,1377851,Withdrawn,psychiatric toxicity,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",European Union; Spain,2005.0,anxiety,EFO:0005230,EFO:0011059
+3371,1702335,478003,Withdrawn,hepatotoxicity,severe liver injury during longer-term (more than 11 days) treatment,European Union,2006.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3372,1702154,1532522,Withdrawn,neurotoxicity,associated with incidences of hypersensitivity of varying severity and serious neurological side effects including the Guillain-Barre syndrome,Worldwide,1983.0,Guillain-Barre syndrome,EFO:0007292,EFO:0011057
+3381,1699323,150722,Withdrawn,dermatological toxicity,Vasculitis; Rash,United Kingdom,1979.0,vasculitis,EFO:0006803,EFO:0011048
+3382,1699603,83245,Withdrawn,hepatotoxicity,Hepatitis,France,1993.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3383,1699619,176014,Withdrawn,misuse,Potential for abuse and risk of dependence; Follows the decision taken by France to suspend amineptine on the basis of abuse and dependency potential,France; Thailand; United Arab Emirates; Vietnam,1999.0,substance dependence,MONDO:0004938,EFO:0011049
+3384,1699580,418415,Withdrawn,respiratory toxicity,Cardiac valvulopathy; Pulmonary arterial hypertension,European Union,2009.0,pulmonary arterial hypertension,EFO:0001361,EFO:0011060
+3385,1706350,898847,Withdrawn,hepatotoxicity,Hepatitis,Germany,1992.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3386,1706348,374182,Withdrawn,,Unfavourable benefit-risk evaluation ,Portugal,2003.0,,,
+3387,1344637,557741,Withdrawn,cardiotoxicity,"Serious cardiac arrhythmias (e.g. ventricular tachycardia, torsades de pointes, and ventricular fibrillation) and sudden cardiac deaths",Armenia; Brunei; Mauritius; Bhutan; United Kingdom; Philippines; United States; Oman; Canada,2000.0,ventricular fibrillation,EFO:0004287,EFO:1001482
+3388,1344413,8193,Withdrawn,neurotoxicity,Neurotoxicity,France; Germany; United Kingdom; Japan; United States,1973.0,neurotoxicity,EFO:0011057,EFO:0011057
+3389,1702802,1078456,Withdrawn,respiratory toxicity,Concern that its use was associated with cases of pulmonary hypertension led to its withdrawal in several countries,Germany; Sweden,1969.0,pulmonary arterial hypertension,EFO:0001361,EFO:0011060
+3391,1343717,675587,Withdrawn,immune system toxicity,"Serious inflammatory brain disorders worldwide, including encephalitis and meningoencephalitis. Serious and potentially fatal immune reactions affecting the brain, liver and other organs.",European Union; Canada,2018.0,immune-mediated adverse reaction,EFO:0020930,EFO:0011053
+3392,1703509,316539,Withdrawn,neurotoxicity,risk of serious neurological and cardiac side effects in patients when buflomedil is used normally,France; European Union; Madagascar; Brazil,2011.0,status epilepticus,EFO:0008526,EFO:0011057
+3394,1706375,56090,Withdrawn,metabolic toxicity,Metabolic toxicity,Germany; Belgium; Ireland,1978.0,lactic acidosis,EFO:1000036,EFO:0011054
+3395,1701128,1631832,Withdrawn,neurotoxicity,severe tissue slough and transverse myelitis,United States,1964.0,transverse myelitis,MONDO:0021553,EFO:0011057
+3396,1701128,1631832,Withdrawn,dermatological toxicity,severe tissue slough and transverse myelitis,United States,1964.0,Skin detachment,HP:0032156,EFO:0011048
+3397,1705412,1121342,Withdrawn,hepatotoxicity,Hepatotoxicity,Peru; Spain,1998.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3399,1699914,163172,Withdrawn,hepatotoxicity,Acute hepatitis associated with the ingestion of exifone,France,1989.0,Acute hepatitis,HP:0200119,EFO:0011052
+3401,2792801,581798,Withdrawn,cardiotoxicity,Heart rhythm problems. This included cases of QT prolongation and torsades de pointes (abnormalities of the heart’s electrical activity that may lead to heart rhythm disturbances).,European Union,2019.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3402,2792801,581798,Withdrawn,cardiotoxicity,Heart rhythm problems. This included cases of QT prolongation and torsades de pointes (abnormalities of the heart’s electrical activity that may lead to heart rhythm disturbances).,European Union,2019.0,torsades de pointes,EFO:0005307,EFO:1001482
+3404,1702722,418438,Withdrawn,hematological toxicity,"associated with pneumopathy, neuropsychological disorders and rare cases of agranulocytosis",France,1990.0,Agranulocytosis,HP:0012234,EFO:0011051
+3405,1702313,1248678,Withdrawn,,"adverse effects on survival, and that beneficial effects on the symptoms of heart failure did not last beyond the first 3 months of therapy; After the first 3 months of therapy, patients on the drug had a higher rate of hospitalization than patients taking a placebo",United States; United Kingdom,1993.0,lack of efficacy,EFO:0020002,
+3406,2792189,418485,Withdrawn,hepatotoxicity,Risk of serious liver injury,European Union,2018.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3408,1343229,98346,Withdrawn,carcinogenicity,"Reports of adverse reactions and toxicity such as buccal ulceration, stomatitis, kerato-conjunctivitis. Studies have shown methylrosanilinium chloride to be a carcinogen in mice and it has been labelled as a mutagen, a mitotic poison and a clastogen",Malaysia,1998.0,carcinogenicity,EFO:0011046,EFO:0011046
+3409,1703294,244737,Withdrawn,immune system toxicity,"associated with severe allergic responses, including anaphylactoid reactions",Worldwide,1984.0,drug allergy,EFO:0009482,EFO:0011053
+3411,1699932,16599,Withdrawn,gastrointestinal toxicity,Animal Carcinogenicity (rodent); Gastrointestinal Toxicity,Germany; Worldwide; Spain; United Kingdom,1983.0,carcinogenicity,EFO:0011046,EFO:0011050
+3412,1704964,1379509,Withdrawn,cardiotoxicity,"Severe adverse reactions including hypotension, arrhythmias, pulmonary oedema and renal disorders",Germany,1998.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3413,1344111,255904,Withdrawn,hepatotoxicity,Liver toxicity is more frequent and severe than with other antifungal treatments; Elevated risk of early onset liver damage,Guatemala; Madagascar,2011.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3414,2793970,384948,Withdrawn,,Adverse effects that cause encephalitis and mortality,Vietnam,2000.0,dead,PATO:0001422,
+3417,1705801,1249053,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United Kingdom,1975.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3418,1703561,678116,Withdrawn,hepatotoxicity,Hepatotoxicity,United Kingdom,1990.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3420,1703570,33583,Withdrawn,neurotoxicity,Convulsions,France,1996.0,Seizure,HP:0001250,EFO:0011057
+3421,1703393,1078524,Withdrawn,neurotoxicity,Polyneuropathy,France; European Union; Germany,1987.0,Paresthesia,HP:0003401,EFO:0011057
+3422,1344096,674443,Withdrawn,hepatotoxicity,Adverse hepatic events,Canada,2003.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3423,1700030,85553,Withdrawn,,Adverse health effects,Nigeria; Bhutan; Ireland,2005.0,adverse effect,EFO:0009658,
+3424,1700030,85553,Withdrawn,nephrotoxicity,Hepatoxicity and neonatal renal failure,Nigeria; Bhutan; Ireland,2005.0,kidney failure,EFO:1002048,EFO:0011056
+3425,1705800,1249055,Withdrawn,hematological toxicity,"associated with hepatotoxic reactions, some of which were fatal",Germany; Austria,1984.0,hepatotoxicity,EFO:0011052,EFO:0011051
+3428,1343524,1672744,Withdrawn,hematological toxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,anemia,MONDO:0002280,EFO:0011051
+3430,1345000,2197547,Withdrawn,hematological toxicity,Blood Dyscrasis; Steven Johnson Syndrome,France; United States; United Kingdom; Germany,1984.0,hematologic disease,EFO:0005803,EFO:0011051
+3432,3589870,408583,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,United States,1973.0,Jaundice,HP:0000952,EFO:0011052
+3433,1343724,193096,Withdrawn,hepatotoxicity,Hepatic toxicity,United States; United Kingdom; Canada,1997.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3437,1699729,228897,Withdrawn,hepatotoxicity,Hepatotoxicity; Jaundice,United Kingdom,1968.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3440,1705547,1249056,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United Kingdom,1966.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3442,1705802,1248996,Withdrawn,hepatotoxicity,associated with hepatic lesions,United States,1969.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3443,1705336,1162878,Withdrawn,dermatological toxicity,potent photosensitizer capable of causing disabling skin disorders,United States,1975.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3444,1703573,842060,Withdrawn,misuse,Off-label abuse,France; United States; United Kingdom; Germany,1982.0,substance abuse,MONDO:0002491,EFO:0011049
+3445,1703437,22572,Withdrawn,misuse,Overdose,United States,1984.0,overdose,EFO:0020911,EFO:0011049
+3451,1701472,23417,Withdrawn,hepatotoxicity,Risk of acute liver failure,Canada; Worldwide; Australia; European Union,2010.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3453,1699315,233553,Withdrawn,hepatotoxicity,"Dermatologic, Hematologic and Hepatic Reactions",Germany,1988.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3454,1699315,233553,Withdrawn,dermatological toxicity,"Dermatologic, Hematologic and Hepatic Reactions",Germany,1988.0,skin disease,EFO:0000701,EFO:0011048
+3455,1704978,1379523,Withdrawn,,associated with Stevens-Johnson syndrome and fatalities,United States,1966.0,dead,PATO:0001422,
+3461,1699360,16498,Withdrawn,carcinogenicity,nephropathy; liver and kidney toxicity; carcinogenicity; haemolytic anaemia and methaemoglobinaemia ,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,carcinogenicity,EFO:0011046,EFO:0011046
+3464,2794668,20027,Withdrawn,cardiotoxicity,Increased cardiovascular risk outweighs its benefit; Cardiovascular risk; Elevated risk of cardiovascular events,Armenia; Guatemala; Egypt; New Zealand; Madagascar,2010.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3465,2790794,358192,Withdrawn,neurotoxicity,Increased risk of heart attack and stroke,Indonesia; Egypt; Guatemala; Australia,2010.0,stroke,EFO:0000712,EFO:0011057
+3471,1702027,1377797,Withdrawn,dermatological toxicity,"low but increased risk of serious skin reactions (including Stevens-Johnson syndrome, toxic epidermal necrolysis and drug-rash-with-eosinophilia-and-systemic-symptoms (DRESS) syndrome)",European Union,2013.0,drug hypersensitivity syndrome,EFO:1002004,EFO:0011048
+3472,1701956,1377728,Withdrawn,hematological toxicity,Agranulocytosis,United States,1960.0,Agranulocytosis,HP:0012234,EFO:0011051
+3473,1343767,5970,Withdrawn,cardiotoxicity,Cardiac arrythmias,United Kingdom; Worldwide,2005.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3475,1345001,267825,Withdrawn,hepatotoxicity,Hepatotoxicity,European Union; Portugal; Ireland; Australia; Canada,1998.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3477,1701724,1377503,Withdrawn,hematological toxicity,lmmunoallergic Thrombocytopenia,France; Turkey; Portugal; Italy; Spain,1998.0,autoimmune thrombocytopenic purpura,EFO:0007160,EFO:0011051
+3478,1701724,1377503,Withdrawn,immune system toxicity,lmmunoallergic Thrombocytopenia,France; Turkey; Portugal; Italy; Spain,1998.0,autoimmune thrombocytopenic purpura,EFO:0007160,EFO:0011053
+3479,1696540,1381031,Withdrawn,,Higher mortality rate in neonates given pumactant,United Kingdom,2000.0,dead,PATO:0001422,
+3481,1699368,16088,Withdrawn,psychiatric toxicity,"Psychiatric effects, especially depression",European Union,2008.0,psychiatric toxicity,EFO:0011059,EFO:0011059
+3482,1344436,21697,Withdrawn,cardiotoxicity,Increased risk of cardiovascular side effects,Bhutan; Ireland; United States; Worldwide; Canada,2004.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3483,1343486,67010,Withdrawn,dermatological toxicity,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",United States; New Zealand; Bhutan; Canada,2005.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3485,1702081,1377851,Withdrawn,psychiatric toxicity,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",European Union; Spain,2005.0,unipolar depression,EFO:0003761,EFO:0011059
+3486,2583713,1510482,Withdrawn,neurotoxicity,"associated with acute toxicity manifested by dizziness, headache, disorientation, and unconsciousness",United States,1974.0,Headache,HP:0002315,EFO:0011057
+3488,1702154,1532522,Withdrawn,neurotoxicity,associated with incidences of hypersensitivity of varying severity and serious neurological side effects including the Guillain-Barre syndrome,Worldwide,1983.0,nervous system disease,EFO:0000618,EFO:0011057
+3489,1343774,93117,Withdrawn,nephrotoxicity,"Flank pain, decreased kidney function",United States; United Kingdom; Spain,1987.0,decreased kidney function,EFO:0020912,EFO:0011056
+3490,1705890,122247,Withdrawn,cardiotoxicity,Cardiovascular ischaemic events,Australia,2007.0,Myocardial Ischemia,EFO:1001375,EFO:1001482
+3491,1344245,940358,Withdrawn,cardiotoxicity,"Risk for heart attack, stroke, and unstable angina",United States,2007.0,angina pectoris,EFO:0003913,EFO:1001482
+3492,1344245,940358,Withdrawn,neurotoxicity,"Risk for heart attack, stroke, and unstable angina",United States,2007.0,stroke,EFO:0000712,EFO:0011057
+3494,1702242,84633,Withdrawn,hematological toxicity,Eosinophilic Myalgia Syndrome,Germany; United Kingdom,1989.0,Eosinophilia-Myalgia Syndrome,EFO:1001316,EFO:0011051
+3500,1699323,150722,Withdrawn,vascular toxicity,Vasculitis; Rash,United Kingdom,1979.0,vasculitis,EFO:0006803,EFO:0011062
+3501,2791418,657667,Withdrawn,neurotoxicity,Serious and long-lasting peripheral neuropathy (damage to the nerves in the hands and feet) and significant weight loss that further weakens patients,European Union,2013.0,peripheral neuropathy,EFO:0003100,EFO:0011057
+3502,1699619,176014,Withdrawn,dermatological toxicity,Abuse; Dependence; Severe Acne,France; Thailand; United Arab Emirates; Vietnam,1999.0,acne,EFO:0003894,EFO:0011048
+3504,1702441,254983,Withdrawn,,Unspecific Experimental Toxicity,France,1984.0,,,
+3509,1700598,621308,Withdrawn,hepatotoxicity,Hepatotoxicity,Spain,1993.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3510,1700652,219327,Withdrawn,carcinogenicity,Liver necrosis; Photosensitivity; Animal carcinogenicity,Germany; United States; United Kingdom; Spain,1982.0,carcinogenicity,EFO:0011046,EFO:0011046
+3511,1700652,219327,Withdrawn,dermatological toxicity,Liver necrosis; Photosensitivity; Animal carcinogenicity,Germany; United States; United Kingdom; Spain,1982.0,phototoxic dermatitis,EFO:1000753,EFO:0011048
+3514,1706201,11685,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,Hepatitis,HP:0012115,EFO:0011052
+3517,1706316,66028,Withdrawn,carcinogenicity,Potential risk of carcinogenicity,Oman,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3522,1699737,16521,Withdrawn,dermatological toxicity,"associated with serious adverse effects, predominantly skin rashes",United Kingdom; Worldwide,1984.0,exanthem,EFO:1000697,EFO:0011048
+3523,1703786,1249052,Withdrawn,hepatotoxicity,Jaundice; Elevated Hepatic Enzymes,United States; United Kingdom,1970.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3525,1702722,418438,Withdrawn,hepatotoxicity,"associated with pneumopathy, neuropsychological disorders and rare cases of agranulocytosis",France,1990.0,lung disease,EFO:0003818,EFO:0011052
+3528,1696963,1381454,Withdrawn,immune system toxicity,Increased risk of allergic reactions with fatal outcome,European Union; Armenia,2016.0,drug allergy,EFO:0009482,EFO:0011053
+3530,1703294,244737,Withdrawn,immune system toxicity,"associated with severe allergic responses, including anaphylactoid reactions; reports of anaphylactic shock",Worldwide,1984.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3532,1699932,16599,Withdrawn,carcinogenicity,"serious adverse gastrointestinal reactions; tumours in a carcinogenicity study
+undertaken in rats",Germany; Worldwide; Spain; United Kingdom,1983.0,carcinogenicity,EFO:0011046,EFO:0011046
+3533,1703381,139173,Withdrawn,hepatotoxicity,Evidence of hepatic injury,France; Morocco,1999.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3534,2583712,255981,Withdrawn,psychiatric toxicity,Neuropsychiatric Reaction,France; United States,1972.0,Abnormality of higher mental function,HP:0011446,EFO:0011059
+3539,1344096,674443,Withdrawn,hepatotoxicity,Adverse hepatic events,Canada,2003.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3541,1343524,1672744,Withdrawn,hepatotoxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,Hepatic failure,HP:0001399,EFO:0011052
+3542,1343524,1672744,Withdrawn,hepatotoxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,Jaundice,HP:0000952,EFO:0011052
+3543,1343524,1672744,Withdrawn,dermatological toxicity,"Relatively common skin reactions; Jaundice; Hepatic failure; Blood dyscrasias (neutropenia, anemia, and thrombocytopenia)",United States,2009.0,skin disease,EFO:0000701,EFO:0011048
+3545,3589870,408583,Withdrawn,hepatotoxicity,associated with hepatitis and jaundice,United States,1973.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3546,1699729,228897,Withdrawn,hepatotoxicity,Hepatotoxicity; Jaundice,United Kingdom,1968.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3547,1699360,16498,Withdrawn,nephrotoxicity,nephropathy; liver and kidney toxicity; carcinogenicity; haemolytic anaemia and methaemoglobinaemia ,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,Nephropathy,HP:0000112,EFO:0011056
+3548,1705902,104250,Withdrawn,carcinogenicity,May cause cancer,Oman; Canada; Saudi Arabia,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3549,1344221,12417,Withdrawn,hematological toxicity,Off-Label Abuse; Hematologic Toxicity,Malaysia; United Arab Emirates; Ethiopia; Jordan; Germany; Chile; Bangladesh; Ghana; Sri Lanka; Bahrain,1984.0,hematological toxicity,EFO:0011051,EFO:0011051
+3550,1344221,12417,Withdrawn,misuse,Off-Label Abuse; Hematologic Toxicity,Malaysia; United Arab Emirates; Ethiopia; Jordan; Germany; Chile; Bangladesh; Ghana; Sri Lanka; Bahrain,1984.0,substance abuse,MONDO:0002491,EFO:0011049
+3551,1701754,1320257,Withdrawn,psychiatric toxicity,Neuropsychiatric Reaction,France,1976.0,Abnormality of higher mental function,HP:0011446,EFO:0011059
+3553,1703656,31171,Withdrawn,,Polymorphic Ventricular Tachycardia and Death,Worldwide,1989.0,dead,PATO:0001422,
+3554,1703574,1093573,Withdrawn,hepatotoxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3555,1703574,1093573,Withdrawn,neurotoxicity,"associated with granulocytopenia, granulocytosis, paralytic ileus, urinary retention, seizures, hypotension, and jaundice",United States,1970.0,Seizure,HP:0001250,EFO:0011057
+3561,1699315,233553,Withdrawn,hepatotoxicity,"Dermatologic, Hematologic and Hepatic Reactions",Germany,1988.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3562,1704978,1379523,Withdrawn,dermatological toxicity,associated with Stevens-Johnson syndrome and fatalities,United States,1966.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3563,1343273,2095,Withdrawn,hematological toxicity,"renal complications, rash, fever, blood dyscrasias, and liver damage",United States,1970.0,hepatotoxicity,EFO:0011052,EFO:0011051
+3564,1702191,418491,Withdrawn,hepatotoxicity,Hepatotoxicity,France; Spain; Germany,1985.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3568,1343728,22641,Withdrawn,cardiotoxicity,Reduction in serum HDL-C levels and partly because of possible QT interval prolongation or ventricular arrhythmias,United States,1995.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3569,1701840,1377615,Withdrawn,immune system toxicity,Allergy,United Kingdom,1983.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3570,2792057,685193,Withdrawn,misuse,Risk of potentially fatal overdose,European Union; New Zealand; Canada; Iraq,2009.0,intentional overdose,EFO:0020924,EFO:0011049
+3572,1343896,699455,Withdrawn,cardiotoxicity,"Serious toxicity to the heart; increase the risk for serious
+abnormal heart rhythms ",United States,2014.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3574,1699360,16498,Withdrawn,nephrotoxicity,Nephropathy,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,kidney disease,EFO:0003086,EFO:0011056
+3577,1344123,674854,Withdrawn,misuse,Self-poisoning,France; Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+3578,2790794,358192,Withdrawn,cardiotoxicity,Higher rate of cardiovascular events in obese and overweight patients using sibutramine than in patients managing their weight through exercise and diet alone,Indonesia; Egypt; Guatemala; Australia,2010.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3585,1702027,1377797,Withdrawn,dermatological toxicity,"low but increased risk of serious skin reactions (including Stevens-Johnson syndrome, toxic epidermal necrolysis and drug-rash-with-eosinophilia-and-systemic-symptoms (DRESS) syndrome)",European Union,2013.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3587,1705793,1152049,Withdrawn,hepatotoxicity,Hepatoxicity,France; Saudi Arabia,1999.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3588,2583614,1249058,Withdrawn,hepatotoxicity,Hepatotoxicity,Australia,1971.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3592,1344732,674500,Withdrawn,respiratory toxicity,occurrence of bronchospasm,United States,2001.0,bronchial disease,EFO:1002018,EFO:0011060
+3597,1702081,1377851,Withdrawn,psychiatric toxicity,"Depression, anxiety, sleep disorders, tremor (shaking) and tardive dyskinesia",European Union; Spain,2005.0,Sleep Disorder,EFO:0008568,EFO:0011059
+3599,1702154,1532522,Withdrawn,immune system toxicity,associated with incidences of hypersensitivity of varying severity and serious neurological side effects including the Guillain-Barre syndrome,Worldwide,1983.0,hypersensitivity reaction disease,EFO:1002003,EFO:0011053
+3603,1695992,1380168,Withdrawn,respiratory toxicity,"Life-threatening adverse events , mortality (inc. included shortness of breath, low blood pressure, and cardiopulmonary arrest)",United States,2005.0,Dyspnea,HP:0002094,EFO:0011060
+3604,1695992,1380168,Withdrawn,respiratory toxicity,"Life-threatening adverse events , mortality (inc. included shortness of breath, low blood pressure, and cardiopulmonary arrest)",United States,2005.0,hypoxia,EFO:0009444,EFO:0011060
+3611,1702780,705687,Withdrawn,,FDA’s determination that carbetapentane citrate has not been shown to be effective at the over-the-counter (OTC) doses stated in the exempting regulation.,United States,2007.0,lack of efficacy,EFO:0020002,
+3614,2793998,403465,Withdrawn,nephrotoxicity,"Severe muscle damage. Combination of cerivastatin and another cholesterol lowering drug, gemfibrozil, has caused severe damage to muscle in some patients. The damage can be in the form of rhabdomyolysis where there is breakdown of muscle cells and release of myoglobin which in turn can lead to kidney damage",Canada; Australia,2001.0,kidney failure,EFO:1002048,EFO:0011056
+3615,1344927,674665,Withdrawn,dermatological toxicity,"Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and Erythema multiforme majus",United Arab Emirates; Singapore; France; Germany; European Union; Portugal; Zimbabwe; Japan; Saudi Arabia; United States; South Africa; Pakistan,1996.0,erythema multiforme,EFO:1000694,EFO:0011048
+3617,1706330,65605,Withdrawn,cardiotoxicity,"Prolongation of the QT-interval and ventricular arrhythmias; Increased risk of QT prolongation with concomitant administration of oral or parenteral formulations of azole antifungals, macrolide antibiotics except azithromycin, selective serotonin reuptake inhibitors and HIV protease inhibitors",Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,Prolonged QT interval,HP:0001657,EFO:1001482
+3618,1706330,65605,Withdrawn,cardiotoxicity,Cardiotoxic effects,Malaysia; Singapore; Armenia; United Arab Emirates; Brunei; Mauritius; Bhutan; Tanzania; Spain; Chile; Argentina; Philippines; United States; South Africa,1998.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3619,1699580,418415,Withdrawn,cardiotoxicity,Cardiac valvulopathy; Pulmonary arterial hypertension,European Union,2009.0,heart valve disease,EFO:0009551,EFO:1001482
+3620,1700652,219327,Withdrawn,hepatotoxicity,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Germany; United States; United Kingdom; Spain,1982.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3622,1700652,219327,Withdrawn,gastrointestinal toxicity,Liver and kidney failure; Gastrointestinal bleeding; Ulcers,Germany; United States; United Kingdom; Spain,1982.0,ulcer,MPATH:579,EFO:0011050
+3626,1706353,395946,Withdrawn,hepatotoxicity,Jaundice,France; United Kingdom,1964.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3627,1706353,395946,Withdrawn,hepatotoxicity,Jaundice,France; United Kingdom,1964.0,Jaundice,HP:0000952,EFO:0011052
+3631,1704258,1378826,Withdrawn,misuse,Self-poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+3632,1706336,231925,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1987.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3638,1703509,316539,Withdrawn,neurotoxicity,"Serious nervous (convulsions, myoclonia and status epilepticus) and cardiac (tachycardia, hypotension, ventricular rhythm disorders and cardiac arrest) events especially in accidental overdose or voluntary overdose",France; European Union; Madagascar; Brazil,2011.0,Jeavons syndrome,MONDO:0015346,EFO:0011057
+3640,1706036,2464673,Withdrawn,carcinogenicity,Increased risk of malignancy,Oman,2013.0,carcinogenicity,EFO:0011046,EFO:0011046
+3641,1702164,887229,Withdrawn,carcinogenicity,Animal carcinogenicity,Germany,1986.0,carcinogenicity,EFO:0011046,EFO:0011046
+3647,1702722,418438,Withdrawn,hepatotoxicity,Hepatotoxicity,France,1990.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3648,1702722,418438,Withdrawn,neurotoxicity,"associated with pneumopathy, neuropsychological disorders and rare cases of agranulocytosis",France,1990.0,Abnormality of higher mental function,HP:0011446,EFO:0011057
+3650,1343229,98346,Withdrawn,gastrointestinal toxicity,"Reports of adverse reactions and toxicity such as buccal ulceration, stomatitis, kerato-conjunctivitis. Studies have shown methylrosanilinium chloride to be a carcinogen in mice and it has been labelled as a mutagen, a mitotic poison and a clastogen",Malaysia,1998.0,Oral ulcer,HP:0000155,EFO:0011050
+3653,1699932,16599,Withdrawn,carcinogenicity,Animal Carcinogenicity (rodent); Gastrointestinal Toxicity,Germany; Worldwide; Spain; United Kingdom,1983.0,gastrointestinal toxicity,EFO:0011050,EFO:0011046
+3654,1705266,78364,Withdrawn,dermatological toxicity,Stevens Johnson Syndrome; Toxic Epidermal Necrolysis,France; Spain; Germany,1983.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3655,1343642,16654,Withdrawn,,Toxic effects on environment and human health,Chile,2012.0,,,
+3658,1699923,128275,Withdrawn,vascular toxicity,fatal cases of severe acidosis and shock,France; Italy; Cuba; Chad,1964.0,Shock,HP:0031273,EFO:0011062
+3659,1703360,705834,Withdrawn,hepatotoxicity,Hepatotoxicity; Drug Interaction,United States; United Kingdom,1974.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3662,1345000,2197547,Withdrawn,dermatological toxicity,Blood Dyscrasis; Steven Johnson Syndrome,France; United States; United Kingdom; Germany,1984.0,Stevens-Johnson syndrome,EFO:0004276,EFO:0011048
+3664,1344622,95978,Withdrawn,misuse,Self-Poisonings,Norway,1980.0,poisoning,EFO:0008546,EFO:0011049
+3665,2791403,12494,Withdrawn,cardiotoxicity,Valvulopathy,Canada,2007.0,heart valve disease,EFO:0009551,EFO:1001482
+3666,1344695,674344,Withdrawn,cardiotoxicity,"QTc interval prolongation on the electrocardiogram, which could put patients at risk of Torsade de Pointes",Singapore; Armenia; Germany; Peru; United Kingdom; United States,1999.0,torsades de pointes,EFO:0005307,EFO:1001482
+3669,1699360,16498,Withdrawn,hepatotoxicity,nephropathy; liver and kidney toxicity; carcinogenicity; haemolytic anaemia and methaemoglobinaemia ,Malaysia; Romania; Germany; Ireland; Panama; Italy; Finland; New Zealand; Ethiopia; Greece; Yemen; Chile; Hong Kong; Philippines; Israel; United Arab Emirates; Nigeria; Mauritius; Denmark; United States; Brazil; United Kingdom; Bangladesh; Oman; Netherlands; Cyprus; Thailand; Sweden; Norway; Suriname; India; Rwanda; Nepal; Austria; Bahrain,1965.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3672,1702130,746768,Withdrawn,carcinogenicity,Potential risk of carcinogenicity,Oman,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3673,1344221,12417,Withdrawn,hematological toxicity,aplastic anaemia and agranulocytosis,Malaysia; United Arab Emirates; Ethiopia; Jordan; Germany; Chile; Bangladesh; Ghana; Sri Lanka; Bahrain,1984.0,Aplastic anemia,HP:0001915,EFO:0011051
+3675,1705802,1248996,Withdrawn,hepatotoxicity,associated with hepatic lesions,United States,1969.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3676,1705802,1248996,Withdrawn,hepatotoxicity,associated with hepatic lesions,United States,1969.0,hepatic lesion,EFO:0020920,EFO:0011052
+3679,1343061,99389,Withdrawn,misuse,"Risk of overdose, abuse and misuse (serious side effects including overdose, loss of consciousness, abuse, addiction and severe symptoms on stopping treatment abruptly)",European Union; United Kingdom; Canada,2012.0,Coma,HP:0001259,EFO:0011049
+3686,1702650,1378010,Withdrawn,hepatotoxicity,Liver toxicity,European Union,2010.0,hepatotoxicity,EFO:0011052,EFO:0011052
+3688,1700780,110103,Withdrawn,,Drug Interactionwith 5-FU and Deaths,Japan,1993.0,dead,PATO:0001422,
+3689,1343273,2095,Withdrawn,dermatological toxicity,"renal complications, rash, fever, blood dyscrasias, and liver damage",United States,1970.0,exanthem,EFO:1000697,EFO:0011048
+3694,1344286,2197587,Withdrawn,cardiotoxicity,"when propoxyphene was taken at therapeutic doses, there were significant changes to the electrical activity of the heart which can increase the risk for serious abnormal heart rhythms ",United States,2014.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3696,1343655,421902,Withdrawn,carcinogenicity,Potential risk of carcinogenicity,Oman,1997.0,carcinogenicity,EFO:0011046,EFO:0011046
+3700,1343555,62701,Withdrawn,cardiotoxicity,Increased risk of ischaemic heart disease,European Union,2010.0,edema,EFO:0009373,EFO:1001482
+3701,1699273,10813,Withdrawn,cardiotoxicity,Arrhythmias and Sudden Cardiac Death (Arrhythmias and Sudden),Germany; European Union; Ireland; United Kingdom; Italy; Netherlands,1998.0,cardiac arrhythmia,EFO:0004269,EFO:1001482
+3702,1699273,10813,Withdrawn,cardiotoxicity,Arrhythmias and Sudden Cardiac Death (Arrhythmias and Sudden),Germany; European Union; Ireland; United Kingdom; Italy; Netherlands,1998.0,sudden cardiac arrest,EFO:0004278,EFO:1001482
+3705,1705552,1379765,Withdrawn,hepatotoxicity,"associated with hypoglycemia in elderly patients, as well as a constellation of multisystem organ involvement characterized by hemolytic anemia, frequently associated with renal failure, markedly abnormal liver tests, and coagulopathy",Worldwide,1992.0,Elevated hepatic transaminase,HP:0002910,EFO:0011052
+3707,1699174,2084,Withdrawn,hepatotoxicity,Hepatic necrosis,Worldwide,1996.0,Hepatic necrosis,HP:0002605,EFO:0011052
+3708,2583614,1249058,Withdrawn,hepatotoxicity,Hepatotoxicity,Australia,1971.0,drug-induced liver injury,EFO:0004228,EFO:0011052
+3710,2583514,16727,Withdrawn,cardiotoxicity,potentially toxic to the cardiovascular system and was associated with deaths from misuse or abuse,United States,1977.0,cardiotoxicity,EFO:1001482,EFO:1001482
+3715,1343486,67010,Withdrawn,dermatological toxicity,"associated with increased risk of serious cardiovascular events and an increased risk of serious skin reactions (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme) compared to other nonsteroidal anti-inflammatory drugs",United States; New Zealand; Bhutan; Canada,2005.0,toxic epidermal necrolysis,EFO:0004775,EFO:0011048
+3716,2583713,1510482,Withdrawn,neurotoxicity,"associated with acute toxicity manifested by dizziness, headache, disorientation, and unconsciousness",United States,1974.0,disorientation,EFO:0020914,EFO:0011057
+3717,2583713,1510482,Withdrawn,neurotoxicity,"associated with acute toxicity manifested by dizziness, headache, disorientation, and unconsciousness",United States,1974.0,Loss of consciousness,HP:0007185,EFO:0011057
+3721,1343835,16450,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+3722,1343835,16450,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3723,1344903,1125,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+3724,1344903,1125,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+3725,1344282,27648,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3726,3460979,2464751,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+3727,3460979,2464751,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3728,3460890,2456099,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3729,3460890,2456099,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3730,1435097,150882,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3731,1344637,557741,Black Box Warning,,,United States,,,,
+3732,1435098,111390,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3733,1343117,2465,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3734,1343877,1369640,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3735,1344578,721,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3736,1707044,1763551,Black Box Warning,dermatological toxicity,,United States,,,,EFO:0011048
+3737,1707044,1763551,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+3738,1344718,674273,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3739,1344718,674273,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3740,3132781,2335187,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3741,1343702,675110,Black Box Warning,,,United States,,,,
+3742,1344019,41644,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3743,1344275,675534,Black Box Warning,,,United States,,,,
+3744,1343113,16959,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3745,2472915,1768774,Black Box Warning,,,United States,,,,
+3746,1706884,1540521,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3747,1706884,1540521,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3748,2791398,47447,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3749,3133640,2335955,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3750,2473098,1589794,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+3751,2473098,1589794,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3752,1343796,674414,Black Box Warning,,,United States,,,,
+3753,1344820,16506,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3754,3133910,2336182,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3755,1344363,2197380,Black Box Warning,,,United States,,,,
+3756,1344183,178545,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3757,2790915,34234,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+3758,1390835,675776,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+3759,1697503,1380904,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3760,3132636,2205527,Black Box Warning,,,United States,,,,
+3761,1435100,1158402,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3762,1435100,1158402,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3763,1435100,1158402,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3764,2473430,1927111,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3765,2473430,1927111,Black Box Warning,hematological toxicity,,United States,,,,EFO:0011051
+3766,1977637,1626792,Black Box Warning,,,United States,,,,
+3767,1344437,101810,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3768,1706074,1407411,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3769,3133477,2335812,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+3770,3133480,2335815,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3771,3133480,2335815,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3772,1343662,27419,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3775,1702319,70140,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3776,3132666,2206847,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3777,1704182,1378753,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+3778,1705139,2832030,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3779,1705139,2832030,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3780,1343058,2197640,Black Box Warning,,,United States,,,,
+3781,1344364,674896,Black Box Warning,,,United States,,,,
+3782,1344186,674375,Black Box Warning,,,United States,,,,
+3783,1343287,2832006,Black Box Warning,,,United States,,,,
+3784,3841356,2537490,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3785,3133440,2335780,Black Box Warning,,,United States,,,,
+3786,3956707,2832699,Black Box Warning,,,United States,,,,
+3787,3460696,2245541,Black Box Warning,,,United States,,,,
+3788,2472707,1987927,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3789,2472707,1987927,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3790,1344035,675482,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3791,1344035,675482,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3792,1938043,1592358,Black Box Warning,,,United States,,,,
+3793,1699612,333157,Black Box Warning,,,United States,,,,
+3794,1343608,2287105,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+3795,1344804,8838,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3796,2973347,2197860,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3797,2794844,598402,Black Box Warning,,,United States,,,,
+3799,2472832,1926837,Black Box Warning,,,United States,,,,
+3800,1343125,23199,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3801,1343125,23199,Black Box Warning,misuse,,United States,,,,EFO:0011049
+3802,3133238,2335605,Black Box Warning,,,United States,,,,
+3803,1705892,678138,Black Box Warning,,,United States,,,,
+3804,3133867,2336139,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3805,3956795,2832775,Black Box Warning,,,United States,,,,
+3806,2583087,72036,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3807,2583087,72036,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+3808,1702328,378207,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3809,1702328,378207,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3810,1344227,675129,Black Box Warning,gastrointestinal toxicity,,United States,,,,EFO:0011050
+3811,1344227,675129,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3812,2973155,1731642,Black Box Warning,,,United States,,,,
+3813,3133092,2335488,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3815,1344047,49842,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3816,1343256,674906,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3817,1343256,674906,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+3818,1343256,674906,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3819,1343256,674906,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3820,2583507,2039329,Black Box Warning,immune system toxicity,,United States,,,,EFO:0011053
+3821,3133208,2335581,Black Box Warning,,,United States,,,,
+3822,1702509,1377918,Black Box Warning,,,United States,,,,
+3823,1698994,250525,Black Box Warning,,,United States,,,,
+3824,1702606,1377979,Black Box Warning,,,United States,,,,
+3825,1343659,675071,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+3826,3956275,2832300,Black Box Warning,,,United States,,,,
+3827,2472964,298316,Black Box Warning,,,United States,,,,
+3829,3461175,2464936,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+3830,3461175,2464936,Black Box Warning,respiratory toxicity,,United States,,,,EFO:0011060
+3831,3461175,2464936,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3832,1696653,1381144,Black Box Warning,,,United States,,,,
+3833,3133473,2335810,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046
+3834,2138979,1763536,Black Box Warning,infectious disease,,United States,,,,EFO:0005741
+3835,1344064,577488,Black Box Warning,nephrotoxicity,,United States,,,,EFO:0011056
+3836,1344064,577488,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3837,1344064,577488,Black Box Warning,neurotoxicity,,United States,,,,EFO:0011057
+3838,1392966,1121953,Black Box Warning,hepatotoxicity,,United States,,,,EFO:0011052
+3839,1392966,1121953,Black Box Warning,cardiotoxicity,,United States,,,,EFO:1001482
+3840,1392966,1121953,Black Box Warning,teratogenicity,,United States,,,,EFO:0009880
+3841,3956785,2832770,Black Box Warning,,,United States,,,,
+3842,2583090,2039219,Black Box Warning,psychiatric toxicity,,United States,,,,EFO:0011059
+3843,3956785,2832770,Black Box Warning,vascular toxicity,,United States,,,,EFO:0011062
+3844,3956785,2832770,Black Box Warning,carcinogenicity,,United States,,,,EFO:0011046

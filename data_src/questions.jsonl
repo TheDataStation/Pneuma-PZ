@@ -1,0 +1,1000 @@
+{"id": "45e36ef0-3348-47da-83c7-e3fb54bf11d0", "question": "What are the fifth-level classifications for molecules that have an ATC identifier greater than 92483 and a registration number greater than 1967564?"}
+{"id": "b36b8f91-ca58-45d3-9e83-09588dc4e690", "question": "Which ATC identifier and fifth-level classifications are linked to molecules that possess a registration number lower than 744428?"}
+{"id": "d76e06df-9d39-43c9-b36a-db46d0da53fa", "question": "What fifth-level classification is associated with molecules that have a registration number below 1609148 and an ATC identifier of 92427?"}
+{"id": "46090f57-5888-4431-80a7-3e3b64939e9d", "question": "Which mol_atc_id and level5 classifications correspond to molecules with a molregno of 318321?"}
+{"id": "4e73cc45-783e-4503-bf41-519234e4bd26", "question": "What is the average molregno for molecules that have a level5 classification of P02BA02 and a mol_atc_id within the range of 92358 to 93326?"}
+{"id": "e1588522-8b50-438c-8193-ba9842c01531", "question": "What is the lowest protein_class_id and class_level?"}
+{"id": "0130dbb8-8e2c-4026-8167-bed6998ed631", "question": "What is the protein class description for protein_class_id values ranging from 990 to 1151 that have a parent_id of 1272.0?"}
+{"id": "ce391790-2799-455b-9007-0fe4bb553c1b", "question": "How much is the average parent_id for the short name \"Adenosine receptor\" with a protein_class_id under 563?"}
+{"id": "a1165da2-198c-4db9-98b5-0a143eee76fd", "question": "Which entry has the highest protclasssyn_id among those with a syn_type of UMLS?"}
+{"id": "d5be81b3-ae8d-4a1a-aea5-00a65d863e38", "question": "What are the highest protclasssyn_id and the average protein_class_id for the synonym 'PTH Related Peptide Receptor'?"}
+{"id": "b4097f2a-be32-4cd0-9045-a5a729666c0b", "question": "Which five protein class synonyms are listed with a syn_type of CONCEPT_WIKI for protclasssyn_id 42664, sorted by protein_class_id from highest to lowest?"}
+{"id": "e17b8f2b-bd32-4b03-b69b-52f4eba7c4d0", "question": "Which unique identifier and synonym for the protein class are available for entries categorized under the CONCEPT_WIKI classification?"}
+{"id": "e2bbb696-970e-4e53-be06-0c80e64e0a96", "question": "Which protein class synonym and syn_type are linked to protclasssyn_id 33777?"}
+{"id": "533b7885-d2f6-4ad9-b74a-f58d2a73bd4d", "question": "What protclasssyn_id and protein_class_id correspond to the synonym 'alpha, Estradiol Receptor' under the UMLS syn_type?"}
+{"id": "8a23b45a-05e3-469e-9417-b054027bfa63", "question": "Which warning_id is associated with the warnref_id `6123`?"}
+{"id": "dc674985-cfcc-4a03-b005-50c7ad81ac7e", "question": "Which database version and description correspond to components with a tax ID under 433534 from TREMBL?"}
+{"id": "60121f58-ed89-4554-9291-48d3002d5776", "question": "Which is the lowest component ID for PROTEIN type components?"}
+{"id": "a57e9490-831b-4dd7-b984-43163ed1d42e", "question": "Which is the smallest component ID for components classified as PROTEIN?"}
+{"id": "8d047309-1244-47dd-9a6b-249bad758f85", "question": "What is the highest tax ID for components sourced from TREMBL?"}
+{"id": "a146c7c6-6dc0-4443-b717-d8b17c15762c", "question": "What are the average tax ID and the highest component ID for PROTEIN type components?"}
+{"id": "f5b265ea-8f17-42f7-a7a8-859c12dfe7b2", "question": "Which descriptions and organisms are associated with components classified as PROTEIN?"}
+{"id": "6da62bb2-8700-4d7e-a4dc-da1076934c23", "question": "Which sequence MD5 sum and sequence correspond to components with a component ID exceeding 2967?"}
+{"id": "696f42ee-cd55-4dd6-b297-e19bc0226074", "question": "What species and type of component are linked to components with a component ID between 2037 and 15050 and an MD5 sum of \"a7304385fbc7627192b1408cd0b46dda\"?"}
+{"id": "39c71018-9196-422a-adf3-426c377d8170", "question": "What is the stem and unique identifier that relate to the category -ciclovir?"}
+{"id": "27409c56-7d61-4661-b096-b1f9d5fd121f", "question": "Which stem is associated with the usan_stem_id 4038?"}
+{"id": "0898fa5e-ed73-4f17-8161-cffbbddbd44a", "question": "What is the smallest usan_stem_id for the suffix stem class?"}
+{"id": "5f774266-c557-4d42-9279-27c9d483f955", "question": "What is the total of usan_stem_id for the stem -trilat and the specified annotation regarding endopeptidase inhibitors?"}
+{"id": "dc8f7f9f-fe37-4822-8768-f7320f1ed208", "question": "What description is linked to the suffix classification of stems?"}
+{"id": "d7c2260d-5cae-4342-b504-082d1ef647fb", "question": "Which biotherapeutics have a molregno exceeding 116979 and what are their helm notation and descriptions?"}
+{"id": "ebb58f7d-28d1-44bf-aef8-064b210e13f5", "question": "Which biotherapeutics are included in the identifier range from 329794 to 392535, and what are their descriptions?"}
+{"id": "94eca24a-723c-4711-929e-55552e48370c", "question": "Which biotherapeutic has the helm notation PEPTIDE1{[ac].[Nal].F.F.S.Y.[X1385].F.L.[dP].A.[am]}$$$$ and what are its molregno and description?"}
+{"id": "6d246fdb-c430-4526-81ac-7495e375a0c2", "question": "Which descriptions and action types belong to the parent type 'OTHER'?"}
+{"id": "430b5996-158b-43ce-9877-d5421404d127", "question": "Which descriptions and parent types are linked to the action type 'OTHER'?"}
+{"id": "e0246d4b-5b68-4f15-95a9-693495e84f2e", "question": "Which action types and their descriptions are found under the parent type 'OTHER'?"}
+{"id": "09e17fac-c484-4b21-83e1-8a013915fd14", "question": "What is the parent category and explanation linked to the action type 'INVERSE AGONIST'?"}
+{"id": "34b8040c-41e7-40c6-ae47-0a13b6b98f65", "question": "Which descriptions correspond to the action type 'STABILISER' under the parent type 'OTHER'?"}
+{"id": "581b71c1-624f-4017-87e7-2c4ab242e804", "question": "Which chemical compound identifier and standard relation are present?"}
+{"id": "74f6b368-dec2-4db9-b793-7608bb4c8a5e", "question": "Which activity ID and standard relation correspond to uo units UO_0000065?"}
+{"id": "f62e809a-b9ce-41f7-a775-997072b1a03a", "question": "Which identifier from the Uberon ontology corresponds to the tissue with the Caloha reference \"TS-1082\" and a tissue identifier greater than \"1513416\"?"}
+{"id": "82c9a5a1-c590-44dc-afac-2e8d2c7d230a", "question": "What is the total sum of tissue identifiers for the tissue designated by the Caloha reference \"TS-1082\"?"}
+{"id": "9bee7e2f-aed7-4379-addd-a54082bf45f5", "question": "How does the average identifier for tissues compare for the tissue known as \"Hip bone\"?"}
+{"id": "1766da2d-129a-4a9e-b46c-a321a5c386fd", "question": "Which identifier from the Uberon ontology is linked to tissue identifiers that fall within the range of \"608123\" to \"4521960\"?"}
+{"id": "c746eead-32c5-417f-9191-d63834f2c59c", "question": "What are the source tissues with a cell source tax ID exceeding `9739.15`?"}
+{"id": "9f6ae471-66da-4088-bee1-d8804270e772", "question": "Which cell description corresponds to the chembl ID `CHEMBL3307607`?"}
+{"id": "234cd34e-02ac-43b3-94d1-d6f0c56527ea", "question": "Which cell source tax ID and cellosaurus ID are associated with LINCS ID `LCL-1468`?"}
+{"id": "678e7d84-4917-4259-9c67-f97fdd1a8ecc", "question": "Which chembl ID and cell description relate to CLO ID `CLO_0007636`?"}
+{"id": "7d2f3ae7-c196-4bad-9f7a-7d9c3c526b8c", "question": "What is the highest cell ID for the description `MDA-MB-361` with LINCS ID `LCL-1468`?"}
+{"id": "5fe22e10-6b76-4691-ad2c-66656eb72b9c", "question": "Which cell name is associated with cellosaurus ID `CVCL_2250` and the source tissue `Rb positive sarcoma cells`?"}
+{"id": "32b4465c-6f2b-4f1e-bbe8-4dbb56927824", "question": "Which values represent the lowest record id and highest tid for inhibitors?"}
+{"id": "ae2aa73f-9ea6-4e83-8ea6-f6273b0fb7b2", "question": "Which \"molregno\" and \"cpd_str_alert_id\" correspond to the alert with \"alert_id\" 136?"}
+{"id": "d6618310-ad2d-4f48-8371-658a7dd20f53", "question": "Which \"alert_id\" and \"cpd_str_alert_id\" are associated with the \"molregno\" of 106?"}
+{"id": "1d9f24b0-809d-47a0-a21f-b838111d0d0d", "question": "How do the average \"molregno\" and minimum \"alert_id\" relate for alerts with \"cpd_str_alert_id\" under 76959784?"}
+{"id": "b7ff690a-3bc2-4386-8279-265aacfad491", "question": "Which five \"cpd_str_alert_id\" have the highest \"alert_id\" values above 1088?"}
+{"id": "68a41941-626a-4e90-8861-e43eaff251fc", "question": "How do the average \"cpd_str_alert_id\" and maximum \"alert_id\" compare in the dataset?"}
+{"id": "234338a3-90b1-4f13-a018-99447624a62e", "question": "Which \"alert_id\" and \"cpd_str_alert_id\" are linked to the \"molregno\" of 4307?"}
+{"id": "4506ff03-35b2-4326-91be-b355cb595ad1", "question": "Which \"mol_hrac_id\" corresponds to \"molregno\" values in the range of 1164271 to 1352288?"}
+{"id": "f04d6b49-f0be-447e-b93f-60b93e17f1f0", "question": "What is the lowest \"molregno\" for \"mol_hrac_id\" 31 with \"hrac_class_id\" exceeding 81?"}
+{"id": "8c2fd2ec-c100-409d-815f-a7cc418b2d7b", "question": "Which three \"molregno\" and \"hrac_class_id\" values are linked to \"mol_hrac_id\" 81, sorted by \"hrac_class_id\" from highest to lowest?"}
+{"id": "13bff741-2052-42e9-89cc-653c2ad17d92", "question": "Which \"molregno\" and \"hrac_class_id\" values are associated with \"mol_hrac_id\" 186?"}
+{"id": "c6174958-c3c9-4986-95a8-c29625286b34", "question": "What are the lowest values for \"mol_hrac_id\" and \"molregno\"?"}
+{"id": "ae201430-66a4-47b4-8ee8-76b695f5073e", "question": "What is the sum of \"mol_hrac_id\" for \"molregno\" 1590036 with \"hrac_class_id\" exceeding 2?"}
+{"id": "57e3bf13-8dbd-4c27-945b-128d3bcc63f0", "question": "How do we calculate the average \"metref_id\" for references with \"ref_id\" exceeding `6224381115985` and classified as `FDA`?"}
+{"id": "1163a787-c7f8-47d5-8a9d-00aec98b5651", "question": "Which \"metref_id\" is associated with \"met_id\" `792` and the reference URL `http://europepmc.org/abstract/MED/12721102`?"}
+{"id": "0f236a3d-f4dd-41c8-b57d-ca249edffa6a", "question": "How do we calculate the total of \"ref_id\" for the \"metref_id\" that is `11121`?"}
+{"id": "553874c9-81c3-4f50-9839-2526727c4db1", "question": "Which \"ref_type\" and \"ref_url\" are associated with \"met_id\" values ranging from `1741` to `2678`?"}
+{"id": "dc040ad9-2355-45b7-ab1e-ddc0d6f42419", "question": "Which \"metref_id\" corresponds to the reference URL `http://europepmc.org/abstract/MED/12721102`?"}
+{"id": "b3e4d998-da12-462a-b3bb-19f0dc8ce680", "question": "Which prediction methods are associated with activity IDs below 2058956?"}
+{"id": "e8b341be-e733-4629-9a65-46e90664181b", "question": "What are the highest activity ID and the lowest site ID for the 'Single domain' prediction method?"}
+{"id": "503016a7-c651-47ea-8bf0-8fb05656ec5a", "question": "What are the average predicted binding IDs and the highest site ID where the certainty is elevated?"}
+{"id": "b3a12fb5-098e-4b5c-a988-0adb8c50c23f", "question": "What is the average predicted binding ID for activities with IDs ranging from 340874 to 859864?"}
+{"id": "f79550d8-fa0d-451e-b333-7b75b5b9a320", "question": "Which site ID corresponds to the activity ID 1477412?"}
+{"id": "42484bb0-38c9-4df7-bc19-e5fa9c978ec4", "question": "Which activity IDs and predicted binding IDs exhibit a high level of certainty and have site IDs lower than 210?"}
+{"id": "50f1b206-4718-4115-89ca-691a4f270221", "question": "What confidence values are found for activity IDs ranging from 1828132 to 2132291 and predicted binding IDs from 7705064 to 7707579?"}
+{"id": "93758f8a-1996-4208-98da-e0535b6cbee1", "question": "What is the total of \"molregno\" for biotherapeutic components with a \"biocomp_id\" in the range of 2226 to 2458 and a \"component_id\" below 21788?"}
+{"id": "fe62c3cb-f351-42b4-9d24-99dd1e66bd17", "question": "Which \"component_id\" and \"biocomp_id\" are associated with biotherapeutic components that have a \"molregno\" of 1380222?"}
+{"id": "10c24bb1-8eb3-400a-9f85-abaeeaec6982", "question": "Which \"component_id\" is associated with biotherapeutic components that have a \"biocomp_id\" of 1837?"}
+{"id": "5c6deadc-7efd-479c-9ce5-a55a047b41a6", "question": "Which \"molregno\" corresponds to biotherapeutic components with a \"component_id\" below 22603?"}
+{"id": "62d653ba-453b-4c48-894d-c45e33f6eec0", "question": "Which assay description corresponds to the type 'Functional'?"}
+{"id": "c0b8a086-7ac5-44ab-b9c3-53e50eff717d", "question": "What are the assay descriptions along with their types?"}
+{"id": "44a02127-2a45-4dd9-ad80-5805cfc31988", "question": "What are the different assay descriptions and their types?"}
+{"id": "4f135260-374a-4a23-9099-1ce0e768e7fc", "question": "What assay descriptions exist and what are their types?"}
+{"id": "76059af9-52be-4791-9dcf-0c1c4ac792b0", "question": "Which assay description corresponds to the type 'Physicochemical'?"}
+{"id": "fd37bdc6-19b0-4b23-9140-491ba5e09854", "question": "Which species group flag corresponds to the tax ID 358.0 for Beta-glucosidase?"}
+{"id": "64538d04-177d-4730-968f-c8b3bac5e79b", "question": "What is the highest target ID for tax IDs below 248604.92 and species group flags under 0?"}
+{"id": "80a7fa5f-8392-4cd3-805d-6b6e4d280549", "question": "Which chembl IDs and tax IDs are associated with Homo sapiens?"}
+{"id": "67cfacdb-2b99-45d8-8783-6bd7718c4d22", "question": "What are the organisms and their species group flags related to the chembl ID CHEMBL1949487?"}
+{"id": "c32fab63-a2ae-402e-b133-2e480fd9b893", "question": "Which definitions and corresponding patent use codes are available?"}
+{"id": "97e03bd9-3934-42a0-8f75-83207b8fa66c", "question": "Which definition corresponds to the patent use code U-2860?"}
+{"id": "f79b137a-f886-460d-81b3-024a7a470d7d", "question": "Which definitions and their associated patent use codes are listed?"}
+{"id": "591014df-bfdd-45c7-b0c1-7389345b933d", "question": "Which descriptions and types are found for targets categorized as non-molecular?"}
+{"id": "568bc9cb-6f72-467f-8ff1-eef7dbbf6006", "question": "What descriptions and comments regarding data validity can be found?"}
+{"id": "3b72cdaf-1307-4e96-bdba-c26746b5ea6f", "question": "What explanation is linked to the remark \"Potential transcription error\"?"}
+{"id": "f392d144-b5cb-4def-a2a1-9a9fa54e5892", "question": "What comments and descriptions regarding data validity exist?"}
+{"id": "7019f224-6bd9-4a5c-8790-0b55a1ba53e6", "question": "What are the available comments and descriptions related to data validity?"}
+{"id": "78c6b8af-617f-47fb-8806-7baec6a48688", "question": "What descriptions and comments about data validity are present?"}
+{"id": "dd8d2303-e0ad-4498-893d-37134e0404d4", "question": "What comments and descriptions related to data validity can be found?"}
+{"id": "c3180ace-1929-4981-9fd2-92e874b79755", "question": "Which confidence score corresponds to the description \"Homologous protein complex subunits assigned\"?"}
+{"id": "01f675ed-99fb-4b44-a65e-e3f7fdb7e2fc", "question": "What is the highest protclasssyn_id and protein_class_id?"}
+{"id": "d7ce7750-87aa-465c-ac33-d1125d3aba0d", "question": "What is the smallest identifier for synonyms and protein class associated with 'Cyclin Dependent Kinase 1' in the CONCEPT_WIKI category?"}
+{"id": "328a1128-7c63-4786-9e3f-23968be32405", "question": "Which protclasssyn_ids and protein class synonyms correspond to protein class IDs above 1396?"}
+{"id": "f72ad99b-aa80-48c0-baa8-1095ba5ef02f", "question": "What is the highest protein class ID for 'Conjugase' with a protclasssyn_id below 42322?"}
+{"id": "12054bfd-d396-4e23-ba63-3973ce42651b", "question": "What type of synonym and protein class synonym correspond to the protein class identifier 226?"}
+{"id": "702f8d2e-8651-42f7-ae3d-8331475c6c6b", "question": "Which are the top five protclasssyn_ids for 'Receptors, Ionotropic Glutamate' in the CONCEPT_WIKI category, sorted in descending order?"}
+{"id": "86466353-b09f-4a1b-a82a-72c8d99fed61", "question": "Which cell source tissue and tax ID are associated with the efo_id EFO_0006589?"}
+{"id": "5610eb28-6b3b-43f6-91a5-2286c15dcfd2", "question": "Which efo_id and clo_id are related to the cell description B16F10Nex2 with a tax ID under 9973.90?"}
+{"id": "a37c1cb1-cd63-4522-b217-06cd39fe7e35", "question": "Which cell names belong to the organism Mus musculus?"}
+{"id": "1125380e-e0be-462d-b647-046c9f2bc29a", "question": "How much is the average molregno and total of mol_atc_id for the classification A04AD51?"}
+{"id": "29c1c7bc-81df-481f-9775-4743586699da", "question": "How much is the total molregno for the classification J01MA22?"}
+{"id": "3175b2e1-ae87-4a65-b741-1dd4c8ce2e0a", "question": "What are the molregno and level5 classification for the mol_atc_id of 91760?"}
+{"id": "ae12e59f-7e54-44bc-b72b-5a70e7d8c26c", "question": "What is the highest molregno and lowest mol_atc_id for the classification G03GA08?"}
+{"id": "d73e6f50-3dbb-431f-889b-242e8da49635", "question": "What is the \"le\" value for the \"activity_id\" of 71021 with a \"sei\" of 9.7?"}
+{"id": "50585a10-658f-422c-ae0e-40cd3e534d68", "question": "What are the highest \"sei\" and the lowest \"activity_id\" for \"bei\" values above 6.58 with \"le\" equal to 0.32?"}
+{"id": "9cd794cd-34db-4952-8ade-4887da3b1460", "question": "What \"sei\" value corresponds to \"lle\" being less than 1.84 for \"activity_id\" 71021?"}
+{"id": "d7948e63-81d2-4cfa-a80d-b989835959a1", "question": "Which \"lle\" and \"le\" values correspond to \"activity_id\" values below 45693?"}
+{"id": "d989e146-2abd-415a-a16a-6eaee6a8783a", "question": "How much is the total of \"sei\" for \"le\" values exceeding 0.16?"}
+{"id": "94374999-96c3-4cd0-8a84-cf67d0f747fb", "question": "Which pathway ID is the lowest for the enzyme CYP3A4/3A5?"}
+{"id": "becb6438-7014-4a86-8c3f-2f73a2b6b8fe", "question": "What is the lowest substrate record ID for the enzyme MsrB in the context of pathway key fig 7?"}
+{"id": "db938f80-7844-4815-8941-4dab7582fe7a", "question": "Which pathway keys correspond to drug record ID 2469804 and the comment Conditions:liver microsomes,hepatocytes, when ordered by drug record ID in ascending order, limited to 5?"}
+{"id": "1f504b99-603d-4e25-8285-07a459aac340", "question": "Which metabolite comments and conversions are associated with pathway IDs that are below 4?"}
+{"id": "d3f6cc22-ccf5-4038-a852-b62edf40a0dd", "question": "What are the highest frac_class_id and the average frac_code associated with KRESOXIM-METHYL?"}
+{"id": "7b5a4a44-188a-4940-88c9-cb4d586d26fb", "question": "What is the average unique identifier for THIABENDAZOLE in the fourth classification level B11A?"}
+{"id": "8b70a611-89aa-41de-807e-dc1ada90e86f", "question": "Which \"smarts\" and \"alert_id\" correspond to alert sets with an \"alert_set_id\" below 4?"}
+{"id": "47c2c434-1411-4fc4-ae46-d0eacd9e8a10", "question": "What are the alert set IDs and names that are categorized within a range of importance from 4 to 5?"}
+{"id": "12ace13c-67da-4099-952b-cba0237e3e15", "question": "How does the average level of importance of the alert set named BMS compare?"}
+{"id": "d75e4682-a765-4663-98a4-c957d1b4d0d9", "question": "What is the highest alert set ID associated with the alert set named Dundee?"}
+{"id": "5349228c-7acc-4d71-b95c-8a9d0bafe951", "question": "How much is the total priority and what is the average alert set ID for the alert set called BMS?"}
+{"id": "5d82a5ab-88c7-4868-929e-d89fbdcc0d22", "question": "Which alert sets have a level of importance of 6, and what are their names and alert set IDs?"}
+{"id": "e7139554-f021-48b1-86c7-a8e4f24d72b0", "question": "Which three largest unique identifiers are there, and what are their associated helm notations?"}
+{"id": "0c7a6d77-fbc1-46a3-9b9f-399ff9cb4fad", "question": "What helm notation and description are associated with the molregno of 378360?"}
+{"id": "0073a1c1-727b-410d-8ffb-4a26b68c6758", "question": "What is the smallest unique identifier value?"}
+{"id": "818831a3-ed77-4cae-b546-3e9300d9a36f", "question": "What description corresponds to the helm notation PEPTIDE1{R.[dP].[dK].P.[dQ].Q.[dF].[dF].G.L.M.[am]}$$$$ for molregno values exceeding 135555?"}
+{"id": "62f3bfeb-87ad-4a5b-86fc-acbc23610da3", "question": "What helm notations and their corresponding molregno values are available?"}
+{"id": "2c288958-f3a5-463e-a6c2-98c7c135ddde", "question": "What activity IDs correspond to \"le\" values under 0.49 and \"sei\" values ranging from 18.86 to 42.51?"}
+{"id": "b3954031-6e00-49a9-9a67-cf8faf027e03", "question": "Which \"bei\" values exist when \"sei\" exceeds 1.14?"}
+{"id": "46ed146b-6e9d-4b1b-abc7-8ee18282d5b9", "question": "How much do the \"bei\" values total when \"le\" is above 0.48 and \"lle\" is exactly 0.95?"}
+{"id": "d6466c8b-f36c-433c-95e3-966bf506f7ad", "question": "What is the lowest \"activity_id\" for records where \"lle\" is 4.93?"}
+{"id": "b2486094-f32a-4d73-8342-923f1c65a750", "question": "Which \"lle\" values exist when \"sei\" is over 220.79?"}
+{"id": "c258d76f-a72b-4c8a-a532-6c1e1a004650", "question": "Which domain name corresponds to the source domain ID 'PF03446'?"}
+{"id": "0cb17f6c-2eda-4951-bab7-92d5ab1e8099", "question": "How much do the domain IDs add up to for 'NAD_binding_2' with source domain ID 'PF03446'?"}
+{"id": "1abb8939-4b22-42d8-8d09-8dfc0be6b516", "question": "Which domain type and source domain ID are associated with 'A_deaminase'?"}
+{"id": "188fd6e0-7203-4029-a9bd-b0efb67356bb", "question": "Which domain ID and type are linked to the source domain ID 'PF01513'?"}
+{"id": "25e577cd-b6ed-4a4f-83bd-2a5353a27dc4", "question": "Which domain IDs and names are available?"}
+{"id": "3d00077c-a984-4181-b806-b17a96466350", "question": "Which standard units and types correspond to standard activity IDs below 100?"}
+{"id": "85895fdc-2d95-4d3b-b77d-eb938670488b", "question": "Which standard units and types are associated with standard activity IDs above 14 that have the definition \"Log(Apparent permeability)\"?"}
+{"id": "c42240ac-8d56-40f0-aee3-9fba84cb0d85", "question": "What is the average maximum normal range for standard activity IDs above 140 that are measured in U.L-1?"}
+{"id": "f1647920-b97b-40e6-8b47-b3530219e40b", "question": "Which standard activity IDs and definitions fall within the normal range maximum values of 6034272.87 to 708418977.15?"}
+{"id": "970e8dde-afe0-43eb-a880-2454074e3c2a", "question": "What standard units correspond to the description \"A measurement of the pancreatic lipase in a biological specimen\"?"}
+{"id": "94c4fa98-d610-4024-b2b5-a708f0d4b618", "question": "Which data validity comments and action types correspond to values in the range of 279.68 to 1786.24?"}
+{"id": "6e87bb5d-f186-4569-a024-0c2d70debd86", "question": "What is the record ID that is associated with the molecular registration number 1503334?"}
+{"id": "72edcd76-8200-4b2b-9baa-fe8c9e1e002f", "question": "Which standard type and relation are found for a value of 44.4 and a pChEMBL value of 7.35?"}
+{"id": "15757343-4526-4c3f-8462-00a56aacb0ac", "question": "What are the average value of \"comp_go_id\" and the lowest value of \"component_id\" for \"go_id\" GO:0016020?"}
+{"id": "4e0a42a7-0cb9-4508-9d2d-006575b293de", "question": "How much is the average of \"comp_go_id\" for \"go_id\" GO:0003674?"}
+{"id": "79e25334-a677-4c35-9db0-32f0849582e7", "question": "How much is the average of \"component_id\" and the total of \"comp_go_id\" for \"go_id\" GO:0003723?"}
+{"id": "311c9011-9d81-4e38-827e-c23b882f2ce1", "question": "What is the \"go_id\" for the \"comp_go_id\" of 2548254?"}
+{"id": "2675350d-eb54-4aaa-85e9-fcff3146d7c7", "question": "What are the \"comp_go_id\" values for \"component_id\" greater than 162 with \"go_id\" GO:0016740?"}
+{"id": "9b10f2db-9ad9-47b0-9bc9-aed2dd6ccdf5", "question": "Which actsm_id has the highest value and what is the lowest support mapping identifier for activity identifiers ranging from 17126994 to 17127673?"}
+{"id": "7e264668-71f4-4bc5-b353-bf0cfd73619b", "question": "Which smid has the highest value for actsm_id values ranging from 2192 to 2472?"}
+{"id": "32034c45-18e8-48a2-8e60-0132b7de0b86", "question": "What activity identifiers and activity connection identifiers are associated with support mapping identifiers that are less than 9611?"}
+{"id": "e47f74b6-aa57-40aa-bb92-18b9e4c9dfa8", "question": "Which support mapping identifiers and activity connection identifiers are linked to activity identifiers that are greater than 17127274?"}
+{"id": "d0d5786b-9b82-4ff6-b196-64c7d529ba59", "question": "Which smid and actsm_id values correspond to activity_id values that are above 17128627?"}
+{"id": "b6cecdda-a63f-46f3-9897-ec2ab2dc2c02", "question": "What is the smallest taxonomic ID related to the identifier P11086?"}
+{"id": "df008c6b-6260-48e5-92d6-958e4fd7dc35", "question": "Which variant ID is linked to the identifier P35439 in the species Rattus norvegicus?"}
+{"id": "78f636aa-d3f2-426b-9032-a1dd96b9a796", "question": "What details are linked to the curator entry \"Intermediate\"?"}
+{"id": "fdd7396d-64bf-42d0-8964-ae7cb1a45b53", "question": "What details are associated with the curator entry \"Autocuration\"?"}
+{"id": "6a559a81-e338-4114-8437-1df84ad7e998", "question": "Which unique identifiers for predicted binding domains have an activity identifier that is lower than 1285230?"}
+{"id": "e89a52f9-eb76-4df3-a770-b97565b9eeae", "question": "What levels of certainty are linked to activity identifiers that are greater than 2202861?"}
+{"id": "4048eb79-da19-47a9-96d1-395ac8403452", "question": "What is the average predbind_id for high confidence entries that use the 'Single domain' prediction method?"}
+{"id": "14aecfff-6f02-434f-84f7-85a2cba95dc5", "question": "Which predbind_id and confidence values correspond to the 'Single domain' prediction method?"}
+{"id": "987d20a8-70d0-4627-b7ee-d67eff8b6f47", "question": "Which unique identifiers for predicted binding domains and their corresponding activity identifiers exhibit a high level of certainty?"}
+{"id": "a7f686ba-e5fa-42a5-b06c-90711cb4f713", "question": "Which unique identifiers for predicted binding domains and the methods used for prediction are linked to a specific location of 706 and a high level of certainty?"}
+{"id": "56a5a681-4d6a-4e2b-97b2-d1605356137d", "question": "Which assay class map IDs are associated with assay class ID 62 and have an assay ID lower than 59248?"}
+{"id": "f73daa48-6fe4-4947-bb76-0afcde5ed789", "question": "Which assay IDs correspond to assay class ID 159?"}
+{"id": "76d4a6e9-b47f-4afd-8de3-07d8697e40c6", "question": "Which assay IDs correspond to assay class IDs that are under 408 and have an assay class map ID of 2456818?"}
+{"id": "8e0e3ae9-2da3-4515-94e3-ec98c4a4f65b", "question": "What is the mean assay class ID for assay class map IDs that are below 2471119 and assay IDs that are under 88348?"}
+{"id": "38a01590-fa0e-4083-83ef-9ee1538e567b", "question": "Which \"ass_cls_map_id\" and \"assay_id\" correspond to assay class ID 140?"}
+{"id": "f15101b2-0cb9-4f3a-b9ea-d12ce21dd2de", "question": "What are the highest assay class ID and the average of assay class map IDs for assay IDs below 78239?"}
+{"id": "b0df2929-f6e9-4df7-9df5-1ac19dcf4ea1", "question": "Which \"ass_cls_map_id\" and \"assay_id\" correspond to assay class IDs exceeding 26?"}
+{"id": "bd17bdd8-8118-481f-8773-0612a75877b7", "question": "Which assay class ID and \"ass_cls_map_id\" are associated with assay IDs above 24613?"}
+{"id": "549c4c47-5d68-4700-ac2a-f59430ce21cb", "question": "Which \"ass_cls_map_id\" and assay class ID correspond to assay IDs ranging from 20910 to 94793?"}
+{"id": "3df9492a-8d75-4d00-89c2-55ed83001c1f", "question": "Which \"ass_cls_map_id\" corresponds to assay class IDs above 445?"}
+{"id": "3f9ab20d-1a61-4352-98e8-a7e79bf27454", "question": "Which are the first three \"ass_cls_map_id\" and \"assay_id\" when sorted by assay class ID in ascending order?"}
+{"id": "20e84a6b-fd15-46f5-af48-423edd6cd4c7", "question": "Which ref_url and ref_type are linked to indref_id 597641 and ref_id NCT03970655?"}
+{"id": "67c67d93-bb08-48e1-b61d-5847384407b1", "question": "How can we determine the average drug indication identifier for DailyMed references related to the reference identifier fabf285f-3fa3-4444-b15e-14a4edac59c3?"}
+{"id": "94c408c9-be3b-4873-9d6e-ed3f7982369c", "question": "Which ref_types and ref_urls correspond to drugind_ids that exceed 111535?"}
+{"id": "9faaa033-f7d0-436c-8caf-5d146e1606f9", "question": "Which drugind_ids are associated with DailyMed references?"}
+{"id": "dc2565e8-08b3-4ab9-bbc5-b40572f210ed", "question": "What reference identifiers are associated with the web address https://clinicaltrials.gov/search?term=NCT02564068 within the range of reference entry identifiers from 595216 to 598089?"}
+{"id": "24cc819d-f42d-445d-ba93-516ba41aa75f", "question": "Which relationship type corresponds to the description \"Homologous protein target assigned\"?"}
+{"id": "6c4e419c-9b09-44f3-a40b-3ddc62cb06c7", "question": "What relationship types and descriptions are available?"}
+{"id": "cba6518d-4e05-4812-bdde-ae8e21013b55", "question": "Which relationship type is associated with the description \"Molecular target other than protein assigned\"?"}
+{"id": "118b0c2c-b901-4401-b7e1-a73a17f1d14f", "question": "Which relationship type is linked to the description \"Non-molecular target assigned\"?"}
+{"id": "2d81900d-41d9-48a5-8c83-de69dcad89e4", "question": "What relationship types and their corresponding descriptions exist?"}
+{"id": "79c88640-5aae-4679-84b3-46dac9e52885", "question": "Which relationship descriptions are associated with which relationship types?"}
+{"id": "ad107845-d7b1-4f75-85a0-c02072c336d3", "question": "Which bao_id is linked to the label \"Kd\"?"}
+{"id": "7dfd72c6-de25-4f97-8f0c-76e1727e70f8", "question": "Which bao_id and label exist in the table?"}
+{"id": "55c0cd1b-a0bf-4f5e-916d-347dccd69f8f", "question": "What identifiers and their corresponding names are included in the table?"}
+{"id": "aef5e8df-93cf-48ae-8d61-effe7a12b823", "question": "What titles and their associated identifiers can be found in the table?"}
+{"id": "4bd60e24-8a9a-4826-9e11-5d6ee2a1d178", "question": "What names and their respective codes are listed in the table?"}
+{"id": "5fbdfd47-0e8c-4074-8821-1710e07ab90b", "question": "Which alert_set_ids and set_names have priorities below 5?"}
+{"id": "663b3c70-81be-422a-aaca-5e97736ce516", "question": "Which priority is associated with the alert set called 'PAINS'?"}
+{"id": "3d75637b-bfe1-4144-a3aa-832585ea8908", "question": "Which alert set ID is associated with 'MLSMR' that has a significance level between 4 and 7?"}
+{"id": "9592bcbf-28de-46f7-8319-948caf53a4e1", "question": "What is the sum of priorities for the alert set 'Glaxo' with an ID above 1?"}
+{"id": "3290bed8-1627-4a9c-85dc-615c51b61f0a", "question": "What are the average values for alert set ID and priority for 'MLSMR'?"}
+{"id": "f6361514-efcf-42cd-8524-faeaa590b3a5", "question": "Which priority and set name correspond to the alert set with an ID of 3?"}
+{"id": "48a0fa9e-e3dc-4f58-94b6-aacc3519ed28", "question": "Which entries contain curated_by and description in the curation lookup?"}
+{"id": "d00ce730-74c3-4e2b-8d53-5c504aebeeef", "question": "Which entries contain curated_by and description in the curation lookup?"}
+{"id": "b68f0e00-3c0c-485d-b1cc-9b5fb4baf9e4", "question": "Which records include the curator method and the details in the curation reference?"}
+{"id": "92d62c00-7678-4d3b-9452-bc90a28a857b", "question": "Which entries feature the curation method and the accompanying details in the curation reference?"}
+{"id": "77be79c3-ece1-42d2-a243-af85c1d51561", "question": "Which assay descriptions and types are available?"}
+{"id": "f72d9834-12f7-4b10-94e8-d7d1065188b3", "question": "Which assay descriptions and types are available?"}
+{"id": "12da36d0-eabc-48c3-b8d6-8ac0f675709e", "question": "Which assay description corresponds to the assay type 'P'?"}
+{"id": "7884b40c-2828-4057-b0a6-897882d139d9", "question": "Which sources and assay class IDs correspond to the \"In vivo efficacy\" classification?"}
+{"id": "aaf1e081-3a33-4152-9234-d3e1d06115a4", "question": "Which assay class ID pertains to \"Gastric Function\"?"}
+{"id": "1d9a3dbf-7854-4f99-ac30-e127c4b5e692", "question": "Which assay class IDs and sources are found in the \"ALIMENTARY TRACT AND METABOLISM\" category with the \"In vivo efficacy\" classification?"}
+{"id": "262b58dd-5601-4f3e-aa3f-80b1c8caa160", "question": "Which class type and l1 correspond to assays related to \"Perfused Hindquarter Preparation with Sympathetic Nerve Stimulation in Rats\"?"}
+{"id": "c7d716a6-3b2c-4cbb-ac75-558f9fe19f35", "question": "Which assay description corresponds to the unassigned assay type?"}
+{"id": "18dc4060-32b3-4bc8-b3e4-3ba3590208cf", "question": "Which assay type corresponds to the description \"ADME\"?"}
+{"id": "44830df5-8c6e-4d90-808a-da1c55c7889e", "question": "What are the descriptions and types of all assays?"}
+{"id": "d6628f6e-9646-4e04-8d11-d696a9fa5b26", "question": "Which assay type is associated with the description \"Physicochemical\"?"}
+{"id": "c76b23ac-3968-4a3e-9e03-7df51ced7d2f", "question": "Which assay type is linked to the description \"ADME\"?"}
+{"id": "7304f453-5292-454d-bed3-a17382277ac6", "question": "What are the types and descriptions of all assays?"}
+{"id": "b200d952-e236-4159-8360-f40b8200e598", "question": "Which assay type is related to the description \"Toxicity\"?"}
+{"id": "3f948afa-0948-4b77-b290-a4ddda57129f", "question": "Which patent use codes and definitions are available?"}
+{"id": "718b4e18-6fa1-4739-a30c-1657c0bbaa2a", "question": "Which patent use codes and definitions can be found?"}
+{"id": "d3810719-3de3-43b5-8f5e-c94a661aa347", "question": "Which definitions and patent use codes are present?"}
+{"id": "12f36a0b-1360-4e69-9c0b-8eeb688e5883", "question": "Which \"comp_go_id\" and \"go_id\" correspond to the component ID 147?"}
+{"id": "6ab87563-9894-4f97-b57e-1b62bf1243da", "question": "Which \"component_id\" corresponds to the \"go_id\" GO:0005575 with a \"comp_go_id\" exceeding 2555802?"}
+{"id": "0d430cab-8d12-48c5-9aec-975f7228feab", "question": "Which three \"comp_go_id\" values are the highest for \"component_id\" under 41 and \"go_id\" GO:0007165?"}
+{"id": "9427300f-9bd6-4625-ba98-9ed10c0f3825", "question": "What is the highest \"component_id\" for \"comp_go_id\" that is more than 2550097?"}
+{"id": "73f853be-376d-41bb-bf3a-e630766d1416", "question": "Which \"go_id\" and \"component_id\" correspond to \"comp_go_id\" in the range of 2548202 to 2554667?"}
+{"id": "1e53d599-1157-4571-84a4-46d41b48f186", "question": "How much is the average molregno for MAGAININ 2?"}
+{"id": "484057fc-43cb-4f07-9168-e29b8aee47dc", "question": "Which unique identifier is associated with MAGAININ 2?"}
+{"id": "a82e22db-5cb6-49d7-bb90-981533e9012f", "question": "Which description matches the molregno 312192 and the helm notation 'PEPTIDE1{A.V.[Sar].F.Y}$$$$'?"}
+{"id": "c661da55-91e3-4652-bfc6-8340a3728f8f", "question": "What is the highest molregno for MAGAININ 2 with the helm notation 'PEPTIDE1{G.I.G.K.F.L.H.S.A.K.K.F.G.K.A.F.V.G.E.I.M.N.S}$$$$'?"}
+{"id": "f5974a56-b0dc-4a6d-8f82-b70a86e2755a", "question": "What is the highest molregno associated with MAGAININ 2 and the helm notation 'PEPTIDE1{G.I.G.K.F.L.H.S.A.K.K.F.G.K.A.F.V.G.E.I.M.N.S}$$$$'?"}
+{"id": "5de50136-3fe5-4f11-9ac3-567e0c632897", "question": "What is the total sum of the unique identifiers for MAGAININ 2?"}
+{"id": "be2b1c64-3781-4310-b4bc-f9a05617bca0", "question": "What is the total sum of the unique identifiers for the helm notation 'PEPTIDE1{Y.G.G.F.M.E.[am]}$$$$'?"}
+{"id": "b7f3921a-a8e4-4b1f-b5fc-9f3b4b72b403", "question": "Which GO ID and aspect are associated with the parent GO ID `GO:0005515`?"}
+{"id": "6f05199c-74c9-4874-9108-4cdbd432ccd7", "question": "What is the lowest classification level for the category `C` and the parent GO ID `GO:0005575`?"}
+{"id": "145e4c69-2665-4f81-9ff3-6a6f8f99b152", "question": "How much is the sum of class levels for the parent GO ID `GO:0005575`?"}
+{"id": "6607878e-bddb-4ca3-a090-6d153a55432f", "question": "Which classifications correspond to level 4 and level 1 for decitabine?"}
+{"id": "1948ae94-aa8c-4da1-a54b-2a3c00494709", "question": "Which level 2 description and level 4 classification correspond to level 3 classification S01A and level 2 classification S01?"}
+{"id": "07b81f30-cee5-457b-99c5-20530151a8f7", "question": "Which level 3 classification and level 4 description are related to M03BA and the description 'MUSCULO-SKELETAL SYSTEM'?"}
+{"id": "a3c6d5ad-6dbe-4a0f-917b-b7fe1808279f", "question": "Which level 5 and level 4 classifications are associated with the description 'ANTERIOR PITUITARY LOBE HORMONES AND ANALOGUES' and 'SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS'?"}
+{"id": "128e2cd1-9059-4f46-ab08-0b0f43ed7447", "question": "Which level 2 classifications are associated with the level 3 classification P03A?"}
+{"id": "87b8e4b3-670e-4bd1-baae-6652adf4860a", "question": "Which level 4 description and level 5 classification are related to the classification P03A?"}
+{"id": "f209f8ff-dbce-4222-a427-e80b288509ce", "question": "Which level 2 classification corresponds to fenetylline and the level 4 description 'Centrally acting sympathomimetics'?"}
+{"id": "d2122363-2be4-47f4-9cec-813434f6e22b", "question": "Who are the curators and what are their descriptions?"}
+{"id": "4dee4e41-f390-485f-8807-09cfbc55752c", "question": "What descriptions correspond to each curator?"}
+{"id": "484449ff-315a-4832-a124-0b2362753705", "question": "Which descriptions belong to the curator \"Autocuration\"?"}
+{"id": "5c35e75e-5471-4c5b-b21c-51f97c46c42d", "question": "Which curator is associated with the phrase \"Curated against extractor target assignment\"?"}
+{"id": "c69b7089-f216-483b-b165-7050602d2d7b", "question": "Who are the curators and what descriptions do they have?"}
+{"id": "928f8d29-8107-4a94-abe6-7b17aa1f8730", "question": "Who curated the items and what are their descriptions?"}
+{"id": "563e40ff-bdd3-4651-a683-0dab093dae64", "question": "Which curator is connected to the phrase \"Curated against ChEMBL target assignment from assay description\"?"}
+{"id": "452306e0-520f-4a8d-b62e-8742cefc9c20", "question": "What comments correspond to the date 2024-03-28?"}
+{"id": "5bc65781-155c-4988-9423-ac5ab301a7dd", "question": "What comments are associated with ChEMBL_34 on the date 2024-03-28?"}
+{"id": "09583df0-0862-4658-932c-5762edd6fa7c", "question": "What descriptions and names are available for the date 2024-03-28?"}
+{"id": "7d8a2c18-88d5-4b7f-acd0-b942ef017ef1", "question": "What comments and names exist for the date 2024-03-28?"}
+{"id": "b8a7ecc4-61a9-4511-b650-ec4259bbbe95", "question": "Which assay identifier and type of tissue are associated with the unique identifier '80628' and cell identifier '850.0'?"}
+{"id": "c22b1064-ad34-4c53-bec8-ec43cb7fc394", "question": "What aidx is associated with the cell ID '478.0'?"}
+{"id": "be693d27-c1d3-4952-b471-6c5a49208f37", "question": "Which assay strain corresponds to the tissue ID '1474.0'?"}
+{"id": "ba75ccf4-eb2a-45c9-8483-068ae5e55559", "question": "What are the activity IDs where \"bei\" is less than 30.52 and \"sei\" is less than 224.35?"}
+{"id": "34632900-6731-410c-9c8d-30cdf5d9bbb9", "question": "How much is the total of \"lle\" for \"sei\" values less than 11.51?"}
+{"id": "bfd79141-d9eb-41c9-9373-12d93a31a7ce", "question": "How much is the total of \"bei\" for activity IDs less than 51616 and \"sei\" values between 89.50 and 93.33?"}
+{"id": "ae9980ab-b6cc-4c96-8aa9-b6977a589d98", "question": "Which \"bei\" values correspond to \"lle\" being 0.25 and \"le\" being 0.19?"}
+{"id": "cc6d32d9-286e-465f-aa40-bafca9c479c0", "question": "What is the total of the identifiers for the binding site labeled \"Amiloride-sensitive cation channel 3, ASC domain\"?"}
+{"id": "aae1e495-6005-4657-ad02-a3059a3f5585", "question": "Which site_name corresponds to tid 17124 and has a site_id greater than 24731?"}
+{"id": "bc4506b3-1b54-4883-806a-e6384132797f", "question": "What is the average value of tid for site_ids that are below 35175?"}
+{"id": "b110d74b-0f1f-40c8-92b7-e90cf1530ae5", "question": "What are the identifiers and unique numbers that correspond to the binding site named \"Tryptophan 2,3-dioxygenase, Trp_dioxygenase domain\"?"}
+{"id": "fbe6c749-ce55-4219-8000-1252f43a887f", "question": "Which site_id and site_name are associated with tid 10696?"}
+{"id": "6949378b-2808-4bf8-a813-1549ad38355f", "question": "What is the lowest confidence score associated with the statement 'Multiple direct protein targets may be assigned' and the target mapping 'Multiple proteins'?"}
+{"id": "0597b178-3f34-43ba-a450-0eec7e228e0f", "question": "Which three descriptions are associated with the target mapping 'Subcellular fraction' and have confidence scores between 0 and 3, sorted by confidence score from highest to lowest?"}
+{"id": "6506f693-6461-4885-85f1-619232624351", "question": "What is the highest confidence score linked to the statement 'Target assigned is molecular non-protein target'?"}
+{"id": "f569789e-a29c-4834-b0f5-a66c81a7da54", "question": "Which target mapping and description correspond to a confidence score of 2?"}
+{"id": "e1258a52-c197-4f4b-b72f-1c740857d111", "question": "Which descriptions have confidence scores between 1 and 6 and are associated with the target mapping 'Multiple proteins'?"}
+{"id": "dd8cc17c-b60a-4e4d-94f3-05c4af9c01b1", "question": "What is the lowest confidence score associated with the target mapping 'Subcellular fraction'?"}
+{"id": "646494b3-e89b-4f7b-a76b-ac53a1cee0a7", "question": "Which component IDs and protein classification IDs are present for a component classification identifier that is less than 2418?"}
+{"id": "fecf1b80-9070-4fbc-af31-02239ebd09fe", "question": "What are the protein class IDs and comp class IDs for component IDs ranging from 306 to 7920?"}
+{"id": "226efe76-8b0d-44b1-9348-164443ed08b5", "question": "What is the smallest component identifier for protein classification IDs greater than 552 and component classification IDs that fall between 2410 and 10805?"}
+{"id": "f97201c4-a51e-41e7-8475-84af230143c5", "question": "What component IDs correspond to a comp_class_id of 10298 with protein_class_id between 624 and 765?"}
+{"id": "2b6079b2-3d8c-4337-9255-9876204f451a", "question": "What component classification IDs and protein classification IDs are associated with component identifiers that are less than 8638?"}
+{"id": "09491ca1-929f-44f8-b105-328fad5d547f", "question": "Which protein classification IDs and component identifiers are linked to a component classification identifier that is below 10198?"}
+{"id": "8d8da04e-936b-4acb-a775-3223745fa8b1", "question": "Which description is associated with the identifier BAO_0002793?"}
+{"id": "15626177-a7ed-4add-90a9-864aaa09478e", "question": "Which bao_id corresponds to the label \"enzyme kinetic constant\"?"}
+{"id": "0eec4baf-9c15-472c-945b-c8234284577a", "question": "Which label is associated with the bao_id BAO_0000366?"}
+{"id": "208b92ba-dabb-47c6-ac6a-14fcfcb5d26a", "question": "Which labels and bao_ids can be found?"}
+{"id": "d95e6a48-7072-48d6-97a2-9b84b4f539fb", "question": "What is the highest identifier number for the research stem \"CKD\"?"}
+{"id": "db73e852-0e69-4e61-9b72-4e83ccd3d63f", "question": "How does the average res_stem_id for the research stem \"VRX\" compare?"}
+{"id": "8783e949-6923-4321-a98b-024607cae2e0", "question": "Which res_stem_id is the highest for the research stem \"ISF\"?"}
+{"id": "9299c59d-6482-4a81-97f1-f5490a3705f7", "question": "What research stem is linked to the res_stem_id of 141?"}
+{"id": "84971351-4e07-4e81-84e3-7a109022ca31", "question": "Which identifier corresponds to the research stem \"AZ\"?"}
+{"id": "1aa2c2a6-652e-4c79-a1f1-1cbdb74b27d0", "question": "What version of the database is linked to the identifier Q9JM51?"}
+{"id": "bcc1c6ea-0dd0-42fc-a10f-3110383085b7", "question": "What are the minimum component ID and the average tax ID for components that have the database version 2024_01?"}
+{"id": "6059431c-2a41-4e8e-bb5b-e1ac1adaf5b2", "question": "Which bao_id and label can be found in the table?"}
+{"id": "671f3fa1-1470-46b3-b388-97252eba6755", "question": "Which label and bao_id exist in the table?"}
+{"id": "08e65b7f-7603-4e7c-8a5a-80288f9bca85", "question": "What is the unique identifier linked to the term 'AC26 absolute'?"}
+{"id": "a5609acf-6b70-4a7c-a8d7-bd6b45885bcb", "question": "What term is associated with the unique identifier 'BAO_0003005'?"}
+{"id": "bb39363b-2b43-4cd6-85e1-6ecd66038190", "question": "How much is the total tax ID for Homo sapiens?"}
+{"id": "a7048c0c-60d0-4cd9-a96f-0dc433f2b11d", "question": "What are the average variant forms and the lowest tax identification number for versions below 3.46?"}
+{"id": "2f2026f3-b36a-404b-9cf1-d4879dc12a96", "question": "What is the average version for accession P25440 with tax IDs ranging from 88887.98 to 344340.57?"}
+{"id": "c71675b9-b25f-4e70-99e2-5e3efb0348d0", "question": "Which living entity and tax identification number are linked to the unique identifier P23979 for versions below 1.21?"}
+{"id": "6b8b0451-318d-4f05-93e4-9c485f44997b", "question": "Which organism and isoform are associated with accession P30419?"}
+{"id": "15ab36fa-2ce1-4729-81f3-d4fd1312cf36", "question": "Which descriptions and data validity comments can be found?"}
+{"id": "43cd317e-ae83-42c8-8838-6b8bda3f2d41", "question": "What data validity comment corresponds to the description indicating missing data?"}
+{"id": "650f8901-50b4-43c4-a853-d904cea00c91", "question": "Which data validity comments and descriptions are available?"}
+{"id": "5b653d37-ce5e-49f3-8f00-79af80ec8dc2", "question": "Which description corresponds to the data validity comment regarding author confirmation of an error?"}
+{"id": "db7849d6-b9e9-4481-bd9a-8b1740f5a63b", "question": "Which description is associated with the data validity comment about being outside the typical range?"}
+{"id": "f42d6ce3-ea9c-45e5-bf75-c1cea77a7d19", "question": "Which descriptions and data validity comments exist?"}
+{"id": "b446d75b-5c4b-458c-8cbc-6ce89a6f2ed7", "question": "Which data validity comments and descriptions can be found?"}
+{"id": "7dc881ce-44a9-4990-9195-a14fd5452ca3", "question": "What are the average tax ID and the lowest species group flag for the chembl ID CHEMBL613130?"}
+{"id": "f9267103-d67f-457a-83f9-b9c79325205b", "question": "Which species group flag corresponds to the tax ID of 9606.0?"}
+{"id": "069c16f4-fc9b-4e07-a0e6-a6f351586bfb", "question": "Which pref name and chembl ID are associated with the organism 'Rift Valley fever virus'?"}
+{"id": "a12d3aad-3c28-4ee1-b833-b420c75923ab", "question": "Which pref names belong to the target type ORGANISM?"}
+{"id": "24400e90-c0cc-4f36-a9a2-6f3ba7227804", "question": "Which class level is the highest for the parent GO ID `GO:0019835`?"}
+{"id": "2eeb65d2-2daa-4fda-a355-a9c534b7aa25", "question": "Which class level is the lowest for the preferred name `ligase activity` and the GO ID `GO:0016874`?"}
+{"id": "4725659d-48ba-4c9c-8b7f-11cf281bec69", "question": "What is the lowest class level for the preferred name `cytokine activity` within the category `F`?"}
+{"id": "5f52d896-75db-4665-8097-71c3cd05b99c", "question": "Which formulation identifier and entry number are the highest within the chemical registration number range of 1552192 to 1804350?"}
+{"id": "f9011e00-9f5c-4e37-ba01-1196f352bcc4", "question": "What is the highest entry number and what is the average product formulation identifier for the item identified as PRODUCT_021471_001 with a chemical registration number below 1215203?"}
+{"id": "f7a324e9-4b0c-45dd-95e9-abbd816b767c", "question": "Which molregno and formulation_id correspond to the strength of EQ 0.9% PHOSPHATE?"}
+{"id": "c16f5c59-1a07-4dc9-b7af-fa24f027d508", "question": "Which product formulation identifier and product identifier are linked to entry numbers exceeding 1343988 and chemical registration numbers greater than 1227901?"}
+{"id": "05a7c7ca-64e1-4a3b-890a-3d6fac312521", "question": "Which values and standard classifications are linked to the standard units of 'mg.kg-1' with a connection of '='?"}
+{"id": "ea9d8ec9-dfb0-4595-9651-c5dec48a34e7", "question": "Which assay parameter IDs and standard units correspond to assay IDs above 304436 with a text value of 'Intravenous'?"}
+{"id": "10ebf512-5086-4d3c-ac17-2a9ead374bcd", "question": "What are the total sums of assay parameter IDs and their corresponding values?"}
+{"id": "91e9c0c7-8966-44dd-8780-752916c40fba", "question": "What is the average measurement associated with the category 'DOSE'?"}
+{"id": "8c67b5e3-cbc3-4162-8885-6e86fb96ed34", "question": "What are the details and parent category related to the degrader action type?"}
+{"id": "a4644ceb-31ad-44c0-9c86-7facbbbe7e25", "question": "Which parent category and details are associated with the hydrolytic enzyme action type?"}
+{"id": "d6c4bd88-f96d-4019-9692-faae309b8229", "question": "Which \"res_stem_id\" is associated with molecules that have a \"molregno\" less than 656490 and are identified as TCMDC-134142?"}
+{"id": "b727c226-f271-4d07-b333-3c450bcc0c9e", "question": "Which \"res_stem_id\" and \"syn_type\" are found for molecules that have \"molsyn_id\" under 8351?"}
+{"id": "9a0452c9-d196-43e0-8f35-e18587c6395f", "question": "What is the average \"molregno\" for molecules that are identified as U-73777E?"}
+{"id": "3149c23a-827a-43d3-b310-2dde614f54e6", "question": "Which \"syn_type\" and highest \"molsyn_id\" exist for molecules with \"molregno\" above 606493, grouped by \"syn_type\" with a maximum \"molsyn_id\" exceeding 13574?"}
+{"id": "132371d0-4603-4611-8bf7-5be52865f7a3", "question": "How much is the total of \"res_stem_id\" and what is the lowest \"molregno\" for molecules that have \"molsyn_id\" as 20156 and synonyms as E322?"}
+{"id": "0b8893f1-aba1-401a-b6af-77044585b961", "question": "Which \"res_stem_id\" and \"syn_type\" correspond to molecules that have \"molsyn_id\" exceeding 3910?"}
+{"id": "28452445-1191-48be-b5cd-83356eeef9ef", "question": "How do the average pubmed_id values compare for documents with volumes ranging from 20 to 30 and doc_ids from 1714 to 4353?"}
+{"id": "7830b25a-4891-40dd-bb94-986b08d802e7", "question": "What are the smallest final page number and the largest edition number?"}
+{"id": "71488316-4090-420e-87be-f97f5e4d89f4", "question": "Which comments regarding data validity and their explanations can be found?"}
+{"id": "b186003c-51fe-45bc-b803-c8e1a07b080a", "question": "Which data validity comment corresponds to the description \"Error in publication - Author confirmed (personal communication)\"?"}
+{"id": "a803fdc7-4459-4f24-9e2d-86a28936897c", "question": "Which data validity comments and their explanations are available?"}
+{"id": "6e83afb1-4c77-4632-9b24-6df2a82fabdb", "question": "Which comments regarding data validity and their descriptions exist?"}
+{"id": "934bf131-7f41-4920-be70-443cd2e4e51f", "question": "Which molecular entity identifier and mechanism of action ID are linked to record IDs greater than 1667918 and a molecular mechanism value of 1?"}
+{"id": "47c8254c-aedb-4a7a-86ef-717970fa9195", "question": "What are the average values of molecular mechanism and the highest record ID for inhibitors?"}
+{"id": "4729dbb3-db6a-4f54-8fae-007bb6c6cfe5", "question": "What does the binding site comment say?"}
+{"id": "cb9c1a17-8381-47b5-81d3-5bc99b68b0f5", "question": "What selectivity remarks and therapeutic indication IDs are related to site ID 2627.0 and molecular entity identifiers that are less than 716474?"}
+{"id": "c38c0347-5c50-4820-9ebb-1324a2e520c0", "question": "What indref_id and ref_url exist for the ref_type labeled as DailyMed?"}
+{"id": "d0ad5841-be55-472f-8417-fa551b060e17", "question": "Which taxonomic identifier and organism identifier are linked to organisms categorized as \"Gram-Negative\"?"}
+{"id": "318eebb9-e2bf-4825-b726-c7fbc4ecfe7c", "question": "Which l3 and tax_id values correspond to organisms with oc_id values below 3512?"}
+{"id": "cabc06d8-7736-4356-a5ba-0db616c9d26a", "question": "What is the highest organism identifier for species classified under \"Viridiplantae\"?"}
+{"id": "b2e2848d-5b4e-4211-8ac6-3612b1355f9c", "question": "What are the values for the third level and second level of classification for organisms identified as \"Fungi\" with a taxonomic identifier less than 2448306?"}
+{"id": "4c791f76-4033-4a0e-aecb-ab09e49cf594", "question": "Which l3 and l1 values correspond to organisms with tax_id values ranging from 62948 to 1157742?"}
+{"id": "9c93e0b5-5c97-4226-9e0f-598241075dd1", "question": "Which entity type and chembl ID are associated with the assay that has a last active value of 34.0 and an entity ID of 508537?"}
+{"id": "bb8dac57-f2d4-471a-a343-dbeaa3b9cf37", "question": "What status do entities have if their entity ID falls between 88587 and 264963 and their last active value is 34.0?"}
+{"id": "a352c4ea-2dff-4616-a399-fd7b07a32e77", "question": "What are the average last active value and the highest entity ID for the chembl ID CHEMBL1003837?"}
+{"id": "89185ed1-cc12-4946-b355-5887338e3642", "question": "What are the average entity ID and the lowest last active value for active status entities?"}
+{"id": "0bdf851c-8009-483e-8726-46d1a4706bec", "question": "What are the lowest last active value and the average entity ID for entities that are active?"}
+{"id": "c5b81b17-3d15-4130-885f-0351fc42b918", "question": "What is the lowest entity ID for entities classified as assays?"}
+{"id": "5cd0ee0a-1732-4363-8230-163bdc34bc7c", "question": "Which patent_ids and their corresponding total years are found for documents with first_page under 2270, grouped by patent_id, with years summing between 1992.26 and 1997.39?"}
+{"id": "0f1fdb6c-331c-4f25-929d-5b0348d11e01", "question": "What are the values that show the lowest molecule identifier and the sum of the standard measurement for document number 10048?"}
+{"id": "29821cc5-b9ea-421f-a0e3-0015c20da1eb", "question": "Which values show the minimum activity_id and the total of standard_value for data validity comments that are \"Outside typical range\"?"}
+{"id": "48664aa5-3aee-46a2-85c8-a8735bbd32be", "question": "What are the average document identifier and the lowest activity identifier values?"}
+{"id": "36282955-dcbe-4daf-acb1-e10008779d42", "question": "Which values correspond to value and standard_units?"}
+{"id": "369cfe9f-ad90-4280-b6ab-e88d37b10005", "question": "What is the lowest value recorded?"}
+{"id": "d56129b2-102a-41eb-9cbe-227e46595fee", "question": "What is the lowest activity property identifier for standard units that are measured in hours?"}
+{"id": "35031f34-0b79-4f22-9f0e-63c2a044df37", "question": "Which reference URLs correspond to FDA warning IDs that are below `2222`?"}
+{"id": "9d2726d5-bd46-43f0-84aa-b4f06c6749d8", "question": "Which reference IDs have their average warning IDs calculated when grouped by reference ID?"}
+{"id": "12bd0506-a465-4882-864a-6e6cbcc8c93c", "question": "Which value represents the maximum warning ID for the reference ID `48244614-53ec-47e6-ad48-50814bdcceb7` and the specified reference URL?"}
+{"id": "158d7098-ba99-4ff0-8e8b-05b72f0ee73d", "question": "Which values represent the average warnref ID and the minimum warning ID for the reference URL `https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4e5c06f1-f279-4f2f-b10d-0f70005a27e6`?"}
+{"id": "11e97e1b-49c0-4ec0-9050-cff1f4ed59ec", "question": "Which values are the smallest for \"molregno\" and \"record_id\"?"}
+{"id": "ca3cac01-ff7a-429a-8170-239654603bf4", "question": "Which are the highest \"record_id\" and \"formulation_id\" for the product identified as `PRODUCT_021870_002`?"}
+{"id": "b5396861-f54f-4247-9e9a-2dfd8b3a0beb", "question": "How do the average \"formulation_id\" and total \"record_id\" values compare for the component \"FLUDEOXYGLUCOSE F-18\"?"}
+{"id": "98f0c780-d2c7-417a-8d58-cd4090e6edd2", "question": "What total do we get for \"formulation_id\" when \"molregno\" falls within the range of `377007` to `2287218`?"}
+{"id": "96e7ccc6-8156-4758-a696-a17a3de78fab", "question": "Which \"molregno\" and \"formulation_id\" are associated with records that have an ID exceeding `2057101`?"}
+{"id": "cbe0c83f-2bca-44e4-93ce-92bb946c3bb4", "question": "Which \"molregno\" and \"ingredient\" can be found for \"formulation_id\" under `67122` and \"record_id\" within the range of `1343602` to `1344303`?"}
+{"id": "4b5ed89e-5719-4ab0-a0fd-3be044cbb075", "question": "What total do we obtain for \"record_id\" when \"formulation_id\" is below `47778`?"}
+{"id": "18636d7c-7810-44e1-add5-eebb32e29e98", "question": "Which is the highest \"molregno\" for records with IDs ranging from `1391389` to `1453182`?"}
+{"id": "15198cda-5162-4e98-863b-823960e61a6a", "question": "Which are the lowest values of \"cx_most_apka\" and \"hba_lipinski\" for compounds with \"cx_most_bpka\" in the range of 7.31 to 9.23 and \"cx_logp\" below 1.92?"}
+{"id": "0567b8e4-2813-4247-8d17-68334a9e5804", "question": "What are the average \"cx_logd\" and the minimum \"heavy_atoms\" for compounds with \"hba\" exceeding 5.09 and \"hba_lipinski\" below 10.98?"}
+{"id": "4f28f8ca-990e-4cd3-a293-2baa369ac456", "question": "What is the \"heavy_atoms\" count for the compound with \"cx_most_apka\" equal to 3.51 and a full molecular formula of C27H29N3O6?"}
+{"id": "eeb739e7-ac39-4832-80ca-4d5ef51bc29c", "question": "Which values of \"hba\" and \"full_mwt\" correspond to compounds with a \"psa\" of 103.26 and fewer than 28.77 heavy atoms?"}
+{"id": "7abe723d-5033-417b-aff2-d2b868f573f8", "question": "Which \"frac_class_id\" and \"molregno\" correspond to the \"mol_frac_id\" of 115?"}
+{"id": "63060c1b-ddc5-4aff-9359-1c8e8f31c0cb", "question": "What are the highest \"molregno\" and the average \"mol_frac_id\" when \"frac_class_id\" exceeds 667?"}
+{"id": "800a13e5-be0a-4b87-977c-e8766e727c18", "question": "Which \"molregno\" values correspond to \"mol_frac_id\" that is below 43?"}
+{"id": "31083df9-feb3-4f25-acf1-38eec7f89b57", "question": "What \"mol_frac_id\" and \"frac_class_id\" are associated with \"molregno\" values that fall between 677380 and 942498?"}
+{"id": "f9898959-d718-4ef6-bb15-30a050508355", "question": "Which \"frac_class_id\" values correspond to \"mol_frac_id\" that is above 116?"}
+{"id": "e893c284-5ac5-4c26-a012-a6f56e658158", "question": "Which \"mol_frac_id\" and \"molregno\" correspond to \"frac_class_id\" values that lie between 548 and 659?"}
+{"id": "9c658d82-309c-4362-9009-aef48fe693f5", "question": "Which \"molregno\" and \"standard_flag\" correspond to the \"bao_endpoint\" BAO_0003036?"}
+{"id": "e35d0099-bb09-4002-9d1e-32846e68eacf", "question": "Which \"bao_endpoint\" and \"activity_id\" are present in the records?"}
+{"id": "41ce6dc0-3228-43d4-bd9b-60d39d0379a9", "question": "Which \"text_value\" corresponds to \"standard_value\" below 313558.36?"}
+{"id": "cebfa247-5057-45b2-a4c0-0a540cb024f2", "question": "Which \"type\" values can be found in the records?"}
+{"id": "8e661b96-448b-4d3e-a8a4-0869d7a66cda", "question": "How much is the total \"pchembl_value\" and what is the lowest \"value\" in the records?"}
+{"id": "5220cf48-c39e-4965-ae59-34cdf724bceb", "question": "Which metref_id corresponds to the reference URL `http://www.isbnsearch.org/isbn/9780071624428` with a ref_id exceeding `2432396309551`?"}
+{"id": "964345ff-5f0f-419c-b2c7-32a58e0519a1", "question": "How much is the sum of met_id for ref_id values exceeding `6731722487671`?"}
+{"id": "98f22d6f-b693-47db-9d11-653d49c3e2aa", "question": "What is the minimum met_id and the average ref_id for entries with a ref_type of `PMID`?"}
+{"id": "d645160e-07c7-40da-ab4b-17eadb543813", "question": "Which ref_id corresponds to the ref_type `ISBN` with metref_id values ranging from `12357` to `13048`?"}
+{"id": "49e54e3d-d064-4a4b-b0d2-42b5f663f46f", "question": "Which record ID and molregno correspond to the warning ID 1864?"}
+{"id": "9960cb80-39ef-41e2-8574-d44e61548a35", "question": "Which warning class and description are associated with the term hepatotoxicity?"}
+{"id": "9da27614-b9a4-4dfb-bdba-1ea63b637fa2", "question": "Which type of warning is associated with chemical substance identifiers between 713859 and 1129237 that have the warning class identifier of EFO:0011048?"}
+{"id": "b2423d7a-96df-4969-b17b-37feaa509802", "question": "Which warning class corresponds to the year 1974.0?"}
+{"id": "6f49428d-3142-4816-855c-a2d68b09ee15", "question": "Which efo_id_for_warning_class is associated with the description \"potent photosensitizer capable of causing disabling skin disorders\"?"}
+{"id": "03d2e894-c7df-4c00-bb91-527f87a9e9a4", "question": "What is the earliest year of warnings recorded and what is the average number of warning IDs for the identifier EFO:0000701?"}
+{"id": "c5e18c09-dc09-4da9-a921-e059c817f6ae", "question": "Which comments and when was the Bioassay Ontology 2.0 created?"}
+{"id": "5616c4c2-c02a-4d59-a57c-0ff8cb6d25c5", "question": "Which comments and when was ChEMBL_Structure_Pipeline 1.2.0 created?"}
+{"id": "19c9afd0-0e8f-4970-a1d6-033f5af2b791", "question": "Which names and comments are linked to the creation date of 2024-03-28?"}
+{"id": "537bcc37-43cd-40b2-b4da-2d35eb849257", "question": "Which additional information and titles are associated with the creation date of 2024-03-28?"}
+{"id": "41283e05-e422-4ab3-b727-2fd9d060105f", "question": "Which comments and names correspond to the creation date of 2024-03-28?"}
+{"id": "8939c067-0afe-49e1-be59-33d47bde0b53", "question": "Which \"res_stem_id\" and \"previous_company\" correspond to companies in Germany?"}
+{"id": "6db9cbcf-106a-4464-9e06-c1794067bfc3", "question": "Which companies are situated in Japan?"}
+{"id": "bbfab510-5119-450c-bff1-b63792f1fcd1", "question": "Which \"country\" is associated with companies that were previously linked to Byk Gulden Lomberg Chemische Fabrik?"}
+{"id": "c611754d-2677-4b0e-9cae-4592eabeffbc", "question": "Which tax_id is the smallest for the accession P21452?"}
+{"id": "ab841270-fc58-4cee-8090-caddfc1cbbea", "question": "Which organisms and accessions correspond to variant_ids in the range of 187 to 520?"}
+{"id": "b7d98e54-d24d-4893-906e-ab4de5b553ad", "question": "What organisms are associated with version 2.0?"}
+{"id": "a937d467-8ffd-401e-935c-4f070aae06a6", "question": "What are the highest isoform and the average version for the accession P10253?"}
+{"id": "9e5ab6dd-f025-4c2c-a885-18c9504ddf38", "question": "Which sequences and mutations are found in the organism Homo sapiens?"}
+{"id": "d86cda19-4cad-4f1a-b89f-94ada58da609", "question": "Which short name is associated with the source ID 39 that describes Curated Drug Pharmacokinetic Data?"}
+{"id": "d90703d5-83dd-4365-9e1e-c024ce976b80", "question": "Which descriptions and IDs belong to the first five sources labeled INN when sorted by ID in ascending order?"}
+{"id": "6a08c4cc-7aa0-451c-83e0-d21a2690bb64", "question": "Which delist flag and patent number correspond to products submitted on 2010-09-30 with a drug product flag ranging from 0 to 0?"}
+{"id": "92c95c7f-32b4-4016-8cb7-b530fa036b7d", "question": "How much is the total of drug product flags for products with a product patent ID below 5922?"}
+{"id": "299b4b67-5d7b-4199-a859-33537d3bdafb", "question": "Which patent expiration date and patent number are associated with the product identified as PRODUCT_205552_001?"}
+{"id": "6e04efc5-c1c7-4526-9e81-54dbffc8f353", "question": "What is the delist flag for patents that have a patent number below 10447209?"}
+{"id": "bcdd4bd2-5aca-43e7-ace9-07a30221f326", "question": "Which comment corresponds to the ATC code J05AB18 and is measured in grams?"}
+{"id": "ca702707-5087-4669-b15a-3e61006c7232", "question": "What are the values and comments for defined daily doses with IDs ranging from 1364 to 3350 and an administration route of 'O'?"}
+{"id": "9ec1824e-baef-4486-b168-0c34503dccaa", "question": "Which ATC codes and IDs correspond to defined daily doses with an administration route of 'O'?"}
+{"id": "3727bd21-1838-4ca6-8508-399375ecb2cd", "question": "What are the maximum organism identifier and the total taxonomic identifier for the Eukaryotes category?"}
+{"id": "023d0582-0593-4982-8d45-b1c7418614dc", "question": "What is the minimum organism identifier and taxonomic identifier for organisms categorized as Bacteria?"}
+{"id": "82c54b42-e45f-488f-b949-136f71927db6", "question": "What are the total values of the organism identifier and taxonomic identifier for Eukaryotes classified under Viridiplantae?"}
+{"id": "e790954e-48de-4ff3-8900-6ae88ae20500", "question": "How much is the total of chembl_release_id on the date of 2011-11-18?"}
+{"id": "71171110-8cab-40f4-b332-cc2cae77835d", "question": "Which chembl_release and its corresponding chembl_release_id were created on 2021-07-01?"}
+{"id": "7931e992-c74a-424a-a3b6-4acf3d120e9a", "question": "What is the mean value of chembl_release_id for CHEMBL_14 created on 2012-06-27?"}
+{"id": "837a589b-601a-4248-8de6-52bd6731beed", "question": "Which chembl_release_id and creation_date correspond to CHEMBL_14?"}
+{"id": "3d79d4a6-c1e8-4e80-a9c0-1d60bfe558cb", "question": "Which version of the ChEMBL database and its date of creation are associated with the identifier of 17?"}
+{"id": "0beae593-b2ec-4e57-9142-3dcc005fd7f6", "question": "What is the smallest unique identifier for a ChEMBL release on the date of July 1, 2021?"}
+{"id": "6dd93d98-bc0b-4302-b705-fe8756a394ed", "question": "Which met_id and metref_id are associated with ref_type PMID and a ref_id greater than 4866500718942?"}
+{"id": "4ad6f515-64ce-4a49-9dc1-1551fafc5da4", "question": "What is the average identifier for metabolites that have a reference type of FDA?"}
+{"id": "94489c97-291c-4dfb-9070-3231a649a5f0", "question": "Which ref_type corresponds to the ref_url http://europepmc.org/abstract/MED/20947616 with metref_id values ranging from 3879 to 4260?"}
+{"id": "9b8fd068-7e59-40ef-841c-eb572aa57496", "question": "Which is the highest metref_id for met_id values that are below 1453?"}
+{"id": "656e187c-d13e-4fa5-bf6e-6c6f4b49e89c", "question": "Which ref_type and met_id are associated with ref_id values exceeding 3049212525097?"}
+{"id": "8c4bc142-f40b-421b-ad65-1d8e2ca8d7d3", "question": "Which ref_id values fall within the range of met_id from 511 to 1551?"}
+{"id": "11613068-bf60-40a8-b4d7-8ce428f18982", "question": "Which values represent the smallest rgid and the total of smid for standard text value minimal?"}
+{"id": "08dbe24f-1b86-425f-aebd-73630fa109e1", "question": "How much is the total of rgid and the smallest smid?"}
+{"id": "f8eb82f3-27c9-4bcd-8425-135131d04b9b", "question": "How high is the maximum as_id?"}
+{"id": "8513fb54-e4b5-43f8-95ad-3b981f26f3c8", "question": "What is the average of \"hrac_class_id\" and \"molregno\" for molecules with a \"mol_hrac_id\" exceeding 31?"}
+{"id": "b9fcfaa5-fcdf-4697-a9fa-959aa226ecea", "question": "Which \"molregno\" and \"mol_hrac_id\" correspond to classifications with an \"hrac_class_id\" below 143?"}
+{"id": "d97b4164-c087-48d7-a241-68c9da1d258c", "question": "What total do we get for \"mol_hrac_id\" in classifications with an \"hrac_class_id\" ranging from 12 to 26 and a \"molregno\" under 341639?"}
+{"id": "44137413-5ea3-4c8e-ba1c-b50f153d20a8", "question": "What is the minimum \"molregno\" and \"hrac_class_id\" for molecules that have a \"mol_hrac_id\" exceeding 33?"}
+{"id": "694a9778-08d7-4497-a082-359637e5cf1e", "question": "Which smid value is the smallest?"}
+{"id": "8a893979-08ec-4680-9069-ea068ec93ee3", "question": "What is the total of all the values listed under the identifier?"}
+{"id": "fe36111c-788c-441b-9fb7-fa0b0d0f2dcd", "question": "What is the mean value of smid?"}
+{"id": "5eecb246-cf64-40a0-aaae-d9ba1c3372c6", "question": "Which relationship type corresponds to the description \"Molecular target other than protein assigned\"?"}
+{"id": "7f9f0cec-785f-4b3c-a256-1fca66cdc1cc", "question": "Which relationship type is associated with the description \"Non-molecular target assigned\"?"}
+{"id": "2cbdd74d-b49f-47d1-a654-0e77e304cee0", "question": "Which description is linked to the relationship type \"N\"?"}
+{"id": "0e103ba7-f357-43c6-bb3a-f4d39bf81935", "question": "Which relationship descriptions and their associated types can be found?"}
+{"id": "67103365-75d7-46df-bb00-c139b9bcfce3", "question": "Which relationship types exist along with their descriptions?"}
+{"id": "438dab9b-baf8-45ef-8c8f-9b7cc1a9361f", "question": "Which definitions correspond to standard units of nM and standard activity IDs ranging from 52 to 122?"}
+{"id": "65c2435e-a4b0-4bdb-9a46-ebf3b79c8c72", "question": "Which standard types and definitions have a normal range maximum exceeding 60221722.62 and standard units of nM?"}
+{"id": "37e0ba97-8ec6-4a6a-907c-5605df097759", "question": "What are the highest standard activity ID and the lowest normal range minimum for standards with a normal range maximum of 10000.0?"}
+{"id": "6755c542-e70a-45b2-99bd-a1691784d01d", "question": "Which standard units and total normal range maximums correspond to the definition of Minimum inhibitory concentration in 70% of population, with normal range minimums exceeding 44.87 and a total greater than 774451393.94?"}
+{"id": "4b401484-f6e9-4577-bb7a-25bba108e639", "question": "Which standard types and definitions have a normal range maximum of 5000.0 and standard activity IDs ranging from 36 to 142?"}
+{"id": "18d0461b-5bfe-4d55-9740-8d863b3824d8", "question": "Which normal range maximums and definitions correspond to standard activity IDs below 128?"}
+{"id": "08e97c2a-20a5-4363-a3b2-bd2ab4c29f5d", "question": "Which standard types and total normal range minimums are associated with a standard activity ID of 116 and standard units of -?"}
+{"id": "4f21bd56-b064-496f-88f5-429afc4d8b80", "question": "When was the Swiss-Prot 2024_01 entry created that has the comments \"UniProtKB version used for component_sequences data (https://www.expasy.org/resources/uniprotkb)\"?"}
+{"id": "90e5ef79-1f68-4696-a3d3-ea607132f7c2", "question": "Which level 2 description corresponds to HRAC class ID 167 and HRAC code H?"}
+{"id": "cf0332e3-6444-4e91-a299-95916d8051c5", "question": "Which level 2 description and level 1 are associated with level 3 B119 and HRAC class ID below 29?"}
+{"id": "6667ec99-5084-462f-9584-ff793eba5048", "question": "Which active ingredient corresponds to level 2 B1 and level 1 B?"}
+{"id": "99de7e5c-6b47-4126-96df-49f408110842", "question": "What total do the HRAC class IDs reach for level 2 C14?"}
+{"id": "d4a6b87b-3678-4efb-b037-d42639822332", "question": "What is the mean of HRAC class IDs for level 2 C21 with the level 2 description UREA?"}
+{"id": "14a91d20-a989-4a99-815f-eb108bfd3c76", "question": "Which biocomp_id values are associated with molregno and component_id that exceed 1933452 and 21106, respectively?"}
+{"id": "6136e185-240c-4742-833f-355b38b816f5", "question": "What are the average molregno and the lowest component_id for biocomp_id values exceeding 3196?"}
+{"id": "58d822b0-1c23-46e7-9003-725eaa70a452", "question": "Which molecular registration numbers and biotherapeutic component identifiers are associated with component identifiers that are greater than 20751?"}
+{"id": "c5696eee-a8da-461f-80d5-00b3648b6f3f", "question": "Which component_id and biocomp_id are associated with molregno values below 2488349?"}
+{"id": "58c1e34b-bcf2-4d52-bb18-cf57e5de45da", "question": "Which three biocomp_id values are the lowest within the molregno range of 1421440 to 2632554?"}
+{"id": "0c8eeca7-429e-4f21-a004-affcabb88afa", "question": "Which maximum values of max_phase_for_ind and drugind_id correspond to molregno less than 449114?"}
+{"id": "ce067f0d-e6ca-4247-9297-246bd65a8b43", "question": "What are the compound names and record IDs that have a source identifier below 1 and a classification identifier equal to CLD0?"}
+{"id": "71a0f988-9090-4de9-9029-52827e00bacf", "question": "Which record IDs and compound names are linked to a document identifier that is less than 5159 and a molecular registry number that falls between 343923 and 1512467?"}
+{"id": "55786e70-4c36-47cc-8a8f-599511cf2c6c", "question": "Which molregno corresponds to the doc_id of 12247?"}
+{"id": "049277a6-ad15-441c-8c8f-e8e4e35c47ff", "question": "What identifier is linked to the research stem labeled AZD?"}
+{"id": "d34fa102-ea4b-44ef-86a7-34cbbfdd1bcd", "question": "What is the smallest identifier associated with the research stem named RTP?"}
+{"id": "7f4bbf2b-87e0-49c8-8934-5bba314c3808", "question": "What is the total value of identifiers for the research stem MB?"}
+{"id": "62ebc9b1-fe69-43b6-9c86-bfae2e93068d", "question": "What is the highest \"drugind_id\" associated with the \"indref_id\" of `603472`?"}
+{"id": "c16305a7-cadd-4253-aac4-a9081601ec51", "question": "What are the lowest \"drugind_id\" and highest \"indref_id\" values?"}
+{"id": "a5696ce2-fc7c-4c14-ac7d-b845c4fcd44f", "question": "What \"drugind_id\" corresponds to the reference ID `NCT02117648`?"}
+{"id": "7c23c5df-1e00-4ac3-899c-b7cf38645aae", "question": "Which minimum tax ID and maximum component ID correspond to the sequence with the MD5 sum `fefba7e2270a1e24650069638b164abe` in Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)?"}
+{"id": "ab561956-20a8-467e-ae87-33825b4eaee1", "question": "What is the total of component IDs and the minimum tax ID for the sequence `MVWKVAVFLSVALGIGAVPIDDPEDGGKHWVVIVAGSNGWYNYRHQADACHAYQIIHRNGIPDEQIVVMMYDDIAYSEDNPTPGIVINRPNGTDVYQGVPKDYTGEDVTPQNFLAVLRGDAEAVKGIGSGKVLKSGPQDHVFIYFTDHGSTGILVFPNEDLHVKDLNETIHYMYKHKMYRKMVFYIEACESGSMMNHLPDNINVYATTAANPRESSYACYYDEKRSTYLGDWYSVNWMEDSDVEDLTKETLHKQYHLVKSHTNTSHVMQYGNKTISTMKVMQFQGMKRKASSPVPLPPVTHLDLTPSPDVPLTIMKRKLMNTNDLEESRQLTEEIQRHLDARHLIEKSVRKIVSLLAASEAEVEQLLSERAPLTGHSCYPEALLHFRTHCFNWHSPTYEYALRHLYVLVNLCEKPYPLHRIKLSMDHVCLGHY` with the MD5 sum `716f46c43c4c97f7df8bd390b5e55ac3`?"}
+{"id": "2180cf30-cdec-44b7-8b56-98ad646d01b5", "question": "What is the lowest tax ID for the database version `2024_01` in the SWISS-PROT database?"}
+{"id": "55023991-2617-437b-b06b-131f8733585a", "question": "What is the average tax ID and the highest component ID for the identifier `Q8VHN2` in Rattus norvegicus?"}
+{"id": "5397f8e1-5fb3-4bac-8fba-c458071d1f2f", "question": "How much is the total of component IDs for the PROTEIN type described as `UDP-glucuronosyltransferase 1A4`?"}
+{"id": "9a8b31d9-0e45-4349-bc9d-3bb2901f1360", "question": "Which accessions correspond to the organism Homo sapiens?"}
+{"id": "c76264ca-74b7-43d0-b25d-0e07a3650b31", "question": "Which component ID is associated with the sequence that has the MD5 sum `4ce8c8dc7838edc8533a7f7f5d57fabd`?"}
+{"id": "97915260-0673-4f46-a86e-c4556410ef9f", "question": "Which descriptions and action types are associated with the parent type 'OTHER'?"}
+{"id": "57f691bc-5161-40a2-b3b4-cc19f310c8cc", "question": "Which description is associated with the action type 'INHIBITOR' under the parent type 'NEGATIVE MODULATOR'?"}
+{"id": "5c67e70e-3f85-4760-871d-2ce7a65fe670", "question": "Which parent type is associated with the action type 'SUBSTRATE'?"}
+{"id": "e5b178c6-b71f-4e00-b1f2-98d0a99c646f", "question": "What data validity comments and descriptions are available?"}
+{"id": "87370235-0d83-4fdc-af5e-8767f0b61499", "question": "What descriptions and data validity comments can be found?"}
+{"id": "dc3cc389-33f6-42f5-a335-88f0c2388dcd", "question": "What are the top three assay class IDs and their types for the 'NERVOUS SYSTEM'?"}
+{"id": "233fa21e-882c-40f9-927b-721e99146cdd", "question": "How much is the sum of assay class IDs for 'In vivo efficacy' from 'Vogel_2008'?"}
+{"id": "b84991fd-639a-4942-bcf3-c9c22f5f98fa", "question": "What class types and assay class IDs correspond to 'Local Anesthetic Activity' from 'Hock_2016'?"}
+{"id": "6599616b-c2f8-4b65-8aa1-cf47379e0b19", "question": "Which sources and class types relate to 'Hypnotic Activity'?"}
+{"id": "fd2ca25f-dcf6-44c7-ad3d-c7413097916d", "question": "What is the lowest assay class ID for 'Hypothalamic Hormones' under 'In vivo efficacy'?"}
+{"id": "a4a83ffd-da94-48c6-a576-4b32fe55d05f", "question": "What descriptions and data validity comments can be found in the table?"}
+{"id": "53b8a944-ea4f-433b-a1a2-bf51004da41e", "question": "What data validity comment is associated with the description regarding author confirmation of an error?"}
+{"id": "b4d14d29-0ca9-47e2-8695-0e48c9919279", "question": "What is the value of \"sei\" when \"lle\" is 5.98?"}
+{"id": "509f58a7-f666-482f-aa50-f379c29e5ff1", "question": "What is the value of \"bei\" for \"activity_id\" 75325?"}
+{"id": "ca2a4d48-da98-4c42-b683-6d89bf059a55", "question": "Which values correspond to \"sei\" and \"activity_id\" when \"bei\" is 11.36?"}
+{"id": "38430637-ea40-49a6-ae53-30c0e59b8da2", "question": "What value does \"lle\" take when \"le\" is below 1.37 and \"activity_id\" falls between 32382 and 36952?"}
+{"id": "d76485ce-52c6-4bda-910d-3f8647b99df1", "question": "What are the total of \"le\" and the smallest \"lle\" for \"activity_id\" 80287 with \"sei\" below 20.48?"}
+{"id": "2fd3f0e7-6840-4377-8e4b-b9165f12e2e4", "question": "What is the lowest \"lle\" and the highest \"bei\" for \"le\" values above 0.20 and \"activity_id\" ranging from 61992 to 71607?"}
+{"id": "12629397-00c1-4452-8c8c-c76b7fc0b61e", "question": "What is the lowest \"mw_monoisotopic\" value for compounds with \"qed_weighted\" below 0.36?"}
+{"id": "8059292e-46e7-4518-8a8d-80fb51ccb541", "question": "What are the \"molregno\" and \"num_ro5_violations\" for compounds that have a \"full_mwt\" of 238.33 and \"mw_monoisotopic\" values ranging from 467.12 to 1056.58?"}
+{"id": "1034ab66-28ed-4dc5-b4db-d4f50635faed", "question": "What values of \"aromatic_rings\" and \"ro3_pass\" correspond to compounds with \"cx_logp\" exceeding 7.34?"}
+{"id": "fdc9c146-5346-4639-af65-78b830aed73c", "question": "How many \"heavy_atoms\" are there on average for compounds with \"cx_logp\" over 0.21?"}
+{"id": "096d2ca5-3695-4f67-b8e4-e29ef09e89ae", "question": "Which \"cx_logd\" and \"hbd\" values are associated with compounds that have more than 5.19 \"aromatic_rings\"?"}
+{"id": "1eb680a7-c1a8-4aab-9a4a-a5b4f88dfc03", "question": "What are the lowest \"psa\" value and the total of \"full_mwt\"?"}
+{"id": "605d023f-d685-471a-91c2-5ef64a5799b9", "question": "Which active ingredient corresponds to level 2 C31 and HRAC code C3?"}
+{"id": "607166a6-d714-4310-b4bc-fba236b7b992", "question": "Which level 2 classifications and HRAC codes match the description \"PHENYL-CARBAMATE\"?"}
+{"id": "9b678921-945e-4fb8-afc5-838cb875ae1c", "question": "Which level 2 descriptions and active ingredients correspond to level 2 classification C14?"}
+{"id": "83a2ac6f-1537-43e5-a550-89e121a9fb58", "question": "Which HRAC codes and their average HRAC class IDs are associated with the description \"PHENYL-CARBAMATE\" and level 1 description \"INHIBITION OF PHOTOSYNTHESIS AT PHOTOSYSTEM II\", grouped by HRAC code with an average less than 106?"}
+{"id": "544aeb2b-662c-4f35-be2c-d60a80d5debb", "question": "Which caloha_id corresponds to the tissue identified by uberon_id UBERON:0001301 and a tissue_id below 7613641?"}
+{"id": "b70e808b-8533-42dd-87f8-6e9287ad0991", "question": "Which tissue identifier and Caloha reference are connected to the ChEMBL identifier CHEMBL3988141?"}
+{"id": "ac0fbcc6-e5cf-48b3-9570-dcdbee0df54f", "question": "What is the smallest tissue identifier for the tissue that is referred to as Small intestine and has the EFO identifier EFO:0000841?"}
+{"id": "b8475a7d-02ac-4111-ad21-9eb133d44503", "question": "Which Caloha reference is associated with the tissue that has the identifier 2108 and the EFO identifier EFO:0000841?"}
+{"id": "96b1a483-f57e-4172-84dc-f66759ae17af", "question": "What is the highest tissue_id for the tissue identified by uberon_id UBERON:0001965 and pref_name Substantia nigra pars compacta?"}
+{"id": "03269e04-8b80-4e67-8814-5a68af976f72", "question": "Which caloha_id and uberon_id are associated with the tissue that has the pref_name Umbilical cord and efo_id EFO:0001415?"}
+{"id": "18827709-ea10-419c-99fd-be3a34f077ce", "question": "Which pref_name corresponds to the tissue with a tissue_id exceeding 2891583 and chembl_id CHEMBL3988042?"}
+{"id": "fbc27046-dd74-48a6-b01e-ade77fd2369d", "question": "Which Uberon identifier corresponds to the tissues that have identifiers ranging from 3139015 to 8742578?"}
+{"id": "26c1f6e9-1a8e-4934-9193-10c9d23831b5", "question": "What is the smallest tissue identifier for the tissue that has the BTO identifier BTO:0000408 and the Uberon identifier UBERON:0001301?"}
+{"id": "d70457f4-1efc-443b-b8bd-b36b4db533b5", "question": "Which alert_id corresponds to cpd_str_alert_id values exceeding 76423480?"}
+{"id": "21c35f56-7abd-4e39-9fac-ea7bea9ea3ea", "question": "Which values represent the highest cpd_str_alert_id and lowest molregno for alert_id values above 58?"}
+{"id": "f3af0d65-bd74-4336-8983-08ec358fdc3d", "question": "What is the smallest molecule identifier for the specific structural alert ID of 76994496 and alert identifier of 1028?"}
+{"id": "8fbf5308-8599-4984-ab23-98c08d847fce", "question": "What is the maximum alert identifier for structural alert IDs that are less than 78522650?"}
+{"id": "fc3a716c-cc6b-4f27-a424-6f0df907536b", "question": "Which values indicate the highest alert identifier and the highest structural alert ID for molecule identifiers that are below 3026?"}
+{"id": "b7861002-9ec4-45ed-867a-1d7fe5fb61be", "question": "What is the average unique identifier for research companies associated with Novartis in Switzerland?"}
+{"id": "0e0c8d47-f1c1-4739-a218-d95743a78474", "question": "Which values indicate the highest unique identifier for companies and the lowest research identifier for those linked to Sankyo?"}
+{"id": "ec205635-5b78-4af4-97cb-c071521ac1a0", "question": "What company has Corgentech as its previous company?"}
+{"id": "306c5c1d-5f60-4c04-baf0-52f471c51a3f", "question": "Which co_stem_ids belong to companies in Switzerland?"}
+{"id": "3b1a6f9d-7100-43e0-8e9c-32118b128dce", "question": "How do the average research identifier and the maximum unique identifier for Anesiva compare regarding their prior connection with Corgentech?"}
+{"id": "58e30df9-2a5a-4837-ae84-c015895efe69", "question": "What is the average unique identifier for GlaxoSmithKline when the research identifier is 667?"}
+{"id": "b060cc48-7304-4758-a184-d76104ae6013", "question": "Which values represent the highest black box warning and total topical for OPTIPRANOLOL?"}
+{"id": "7ac29040-9821-43d1-b7e3-97a27a79ca16", "question": "What is the lowest oral value for injectable products approved on January 1, 1982?"}
+{"id": "96944827-619c-4784-9b27-ef017d498249", "question": "What descriptions and data validity comments can be found in the table?"}
+{"id": "6ba88ea8-2862-4982-a4ea-c62549553469", "question": "What descriptions and data validity comments can be found in the table?"}
+{"id": "7aa0b9a9-3c17-4df7-92d5-351dbeafe3a0", "question": "Which description corresponds to the data validity comment regarding a potential transcription error?"}
+{"id": "0ce880a8-97e0-48b7-9afe-a1dd782465d8", "question": "Which synonym type corresponds to the component ID exceeding 1044 and having the synonym FPGS?"}
+{"id": "d1779581-a7d3-4483-8e89-eca9d0ce4fa9", "question": "Which synonym type and compsyn_id are associated with the component ID greater than 159 and the synonym Atrial natriuretic peptide clearance receptor?"}
+{"id": "5c772956-a7f0-497b-a89b-2235de25fffa", "question": "Which type of synonym is linked to the component with a unique identifier for synonyms that is greater than 1655870?"}
+{"id": "6a957b7f-b504-401d-9d00-d0e8901c6c60", "question": "Which identifier for components and their corresponding synonyms are linked to UNIPROT synonyms?"}
+{"id": "4df037a0-9c52-4fbe-9188-d74ecdfb7ea1", "question": "Which type of synonym is related to the synonym PBP-4 and a component identifier that is less than 149?"}
+{"id": "678a520e-5360-4a25-a365-4aa812d843f2", "question": "How much is the total of site IDs and what is the average of TIDs for the site called \"Carbepenem-hydrolyzing beta-lactamase KPC, Beta-lactamase2 domain\"?"}
+{"id": "f253f076-96b2-4960-8d01-248397b8ee7a", "question": "Which site name and TID correspond to the site ID of 2357?"}
+{"id": "4225b26f-3d46-4db0-843d-0e2281ea1e0c", "question": "What is the highest identifier for the site named \"Mitogen-activated protein kinase 6, Pkinase domain\" that has a site ID less than 27700?"}
+{"id": "b5c4295c-ca39-423d-a1d1-2da29590091d", "question": "Which TIDs and site names correspond to site IDs that are below 9634?"}
+{"id": "e7a8571f-fd55-42a8-87e2-e2052a635bd4", "question": "What are the assay_param_ids for values exceeding 109.30?"}
+{"id": "d5904aa5-65b0-4ccc-a4eb-b8894137e0cc", "question": "What are the assay_param_ids for the type and standard type both being regeneration_stabilization_period?"}
+{"id": "19ed903c-e0da-4c6d-b9d9-838a95960e8d", "question": "What are the average assay_param_id and total sum of assay_id for the standard_text_value being Oral?"}
+{"id": "ff38950b-e8b0-4c24-879d-7e9357d9614c", "question": "How is the average \"activity_id\" calculated for ligands with \"lle\" below 5.89?"}
+{"id": "7670a9ae-f054-42b8-8859-6652363e280f", "question": "What are the maximum \"lle\" and total \"le\" for ligands that have \"sei\" below 35.78 and \"bei\" equal to 17.03?"}
+{"id": "e47ad8a7-11fb-496e-a3dd-2c742054107d", "question": "Which ligands have \"bei\" and \"sei\" values when \"lle\" falls within the range of 1.84 to 7.20?"}
+{"id": "7875e8fb-8595-4154-90b4-c57882aa3f26", "question": "How do the average \"le\" and maximum \"sei\" values compare for ligands with \"bei\" under 22.30 and \"lle\" equal to 6.44?"}
+{"id": "eaedb36a-dc78-4bcf-a16a-0313f02f10f9", "question": "What are the total \"lle\" and highest \"activity_id\" for ligands with \"le\" below 0.25 and \"bei\" ranging from 26.58 to 45.64?"}
+{"id": "72d469b5-fe9e-4df6-b1f7-4b0428970399", "question": "Which level 3 description corresponds to Tumor necrosis factor alpha (TNF-alpha) inhibitors?"}
+{"id": "6fba3c60-afbd-4c61-893d-f116540cbd6b", "question": "Which level 1 codes and level 4 descriptions relate to antiinfectives for systemic use?"}
+{"id": "87346c26-251f-4aa2-b518-24888b4db75d", "question": "Which who name is associated with the level 2 code J01 and level 4 code J01EC?"}
+{"id": "641ce48c-0c5b-4c69-b8cc-090e33a63468", "question": "Which descriptions and data validity comments can be found?"}
+{"id": "84447cea-6d9e-417f-922d-d9de633be6d0", "question": "Which description is linked to the data validity comment about an author-confirmed error?"}
+{"id": "04e7250a-67bc-4468-9f52-6c6ecb04843d", "question": "Which are the highest cell source tax ID and cell ID for Homo sapiens?"}
+{"id": "c4416e7d-fff7-4b79-8f7e-f3a11ff52f99", "question": "Which cell source tax ID and cell source organism are associated with cell IDs exceeding 5699?"}
+{"id": "207dc35e-982b-455e-bbde-4e59fc76d390", "question": "Which cell source tissue and organism are related to the chembl_id CHEMBL3308717 and cell name CAL-51?"}
+{"id": "d7c5ea1f-b229-4ff0-a7d1-dbe38e572098", "question": "Which is the minimum record ID for the EFO ID EFO:0001421 associated with \"Liver Diseases\"?"}
+{"id": "9d1274a1-048d-4a79-a025-60f33890d5aa", "question": "What are the average drugind ID and the minimum molregno for the record ID 1696513 that corresponds to the EFO term \"neoplasm\"?"}
+{"id": "62b6169b-7cb5-427b-94f9-afdfcf8db3e1", "question": "What is the highest unique identifier for the primary classification K1 that has the description MICROTUBULE ASSEMBLY INHIBITION?"}
+{"id": "f7efcd31-3b48-48f2-9d8a-e270f5cbbeb1", "question": "What classifications at the second and third levels are linked to the unique identifier O and the description PHENOXY-CARBOXYLIC-ACID?"}
+{"id": "999835c3-2655-4223-8cdb-159415d64bad", "question": "Which reference ID and warning ID are associated with FDA reference types for warn reference IDs below 4988?"}
+{"id": "fe0007be-41be-4f24-8bc3-6b66ce6dc641", "question": "Which warn reference ID and reference ID are associated with warning IDs exceeding 1528?"}
+{"id": "25ea386a-d1cf-4550-accd-4321799ad100", "question": "Which warning ID and reference type are linked to the reference ID `f2edb3ed-da20-4093-88ea-00fe781e47e0`?"}
+{"id": "46eefae5-f720-41ab-8e72-976ee3d2fb45", "question": "What definitions and patent use codes can be found?"}
+{"id": "853f8b4e-e3dc-432f-a2e5-b60913f6bea6", "question": "What is the description linked to the patent use code U-797?"}
+{"id": "e438b5ee-98eb-44b4-afb8-3992b5d072ac", "question": "Which definition corresponds to the patent use code U-2584?"}
+{"id": "b97d5990-d891-4cae-9891-c822101d24f6", "question": "Which patent use codes and definitions are available?"}
+{"id": "9f2ee01e-3dea-415e-be83-3a893258095b", "question": "Which source has the description \"Donated Chemical Probes - SGC Frankfurt\" and what are its short name and ID?"}
+{"id": "1fd4eaa7-de6f-4ff2-818a-2d7f829d2c80", "question": "Which source identifier corresponds to the description \"Millipore Kinase Screening (DEPRECATED - MERGED WITH SRC_ID = 1\" and the abbreviated name \"MILLIPORE\"?"}
+{"id": "f07eef48-4c08-4571-912a-14c2d01e8bb2", "question": "Which short name corresponds to the description \"Open Source Malaria Screening\"?"}
+{"id": "e09b08d8-cbaa-46ef-8edc-db6c46d3c58b", "question": "What is the mean source ID for the short name \"DONATED_PROBES\"?"}
+{"id": "47cf7c13-22e1-4d6d-805d-c5a015b58481", "question": "Which description and ID correspond to the short name \"TP_TRANSPORTER\"?"}
+{"id": "217344ac-50a4-4d42-9bd6-3fa585006f2b", "question": "Which minimum \"mol_atc_id\" and \"molregno\" correspond to the level5 classification J01CA09?"}
+{"id": "2a6a72ee-44d2-4e0a-88e0-e285cb355d7d", "question": "Which mol_atc_ids are associated with molregno values that are less than 2332354?"}
+{"id": "e71e25f3-665d-43ba-8be0-53962a9294bd", "question": "What are the three highest molecule identifiers along with their associated registration numbers?"}
+{"id": "b7d711d1-3ecf-42ad-9036-31680c3ade1b", "question": "What is the lowest molregno for the level5 classification J05AD01 within the range of mol_atc_ids from 93659 to 95049?"}
+{"id": "07f7837f-4c04-4bb1-bcd8-5e6f3f6e5bf0", "question": "Which comments are related to ChEMBL_34 on the date 2024-03-28?"}
+{"id": "6f3a9f5c-98cc-4ae3-bd20-e55e80e1f0d6", "question": "How much is the sum of \"met_id\" for the PMID reference type?"}
+{"id": "d5eca971-63f7-4176-9243-0e8f1f31a4a8", "question": "What are the highest \"met_id\" and the lowest \"metref_id\" for the PMID reference type with a \"ref_id\" of 22587987?"}
+{"id": "06c86808-4810-43e8-a9fa-942da06122d0", "question": "What are the \"met_id\" and \"metref_id\" values for the PMID reference type with \"ref_id\" in the range of 2552162338878 to 5726559959864?"}
+{"id": "391d9251-86b2-47ab-9545-ead4911f423b", "question": "How much is the sum of \"met_id\" for the PMID reference type with \"ref_id\" exceeding 8450352646485?"}
+{"id": "34a5dce4-ca5d-4f61-8de5-2652afbe17fd", "question": "What are the \"met_id\" and \"ref_type\" for the \"ref_id\" 0443051488 with \"metref_id\" in the range of 493 to 8911?"}
+{"id": "4eaf5b03-63cb-444c-b83e-4d05ac592dac", "question": "Which \"ref_id\" is associated with the PMID reference type for the \"ref_url\" http://europepmc.org/abstract/MED/24447964?"}
+{"id": "a1c1ef35-cc8f-489f-8d4f-a684ba9913ef", "question": "How much is the sum of \"ref_id\" for \"metref_id\" values below 10573?"}
+{"id": "83f977e3-bdf6-4f60-a689-3575b9098aaf", "question": "What descriptions are associated with their respective data validity comments?"}
+{"id": "529c92ec-b7fc-485b-99ec-e549c00ec19a", "question": "What is the explanation linked to the data validity comment concerning potential missing data?"}
+{"id": "5a8aa05c-b215-4251-ad38-762e0a8fdff5", "question": "What is the explanation that relates to the data validity comment about an author confirmed error?"}
+{"id": "62f506a3-ccb6-4141-b2bf-0576556fba27", "question": "What descriptions are linked to their respective data validity comments?"}
+{"id": "f3e1c269-7973-4330-afde-5adfd07c0402", "question": "What are the action types and their corresponding maximum standard values?"}
+{"id": "1ed0a66d-f1fe-4256-8a0a-42182c63d55a", "question": "Which standard units and activity comments are associated with a standard flag less than 0 and QUDT units of micrograms per milliliter?"}
+{"id": "665d6199-34be-4c5d-a5c9-abcec6f3a99a", "question": "What are the average standard flag and the lowest assay ID?"}
+{"id": "739735b0-5cb2-4339-934b-1328967b889e", "question": "Which bao_id corresponds to the label 'result'?"}
+{"id": "973a6bad-ff7a-4c3f-9383-4ed3b9b86ed0", "question": "Which labels and bao_ids can be found?"}
+{"id": "4c370427-c702-481f-9c66-40061559399c", "question": "Which label corresponds to the bao_id 'BAO_0000219'?"}
+{"id": "437ee27b-6c93-4c0a-b53b-f1f4ee0387a9", "question": "What is the label linked to the identifier 'BAO_0000086'?"}
+{"id": "5ae9e72b-91c2-4379-99ae-98fac012a1a5", "question": "Which identifier is related to the description 'cell-based format'?"}
+{"id": "d458ad9c-5ba5-4102-83f8-6fc793ee789e", "question": "Which label is associated with the bao_id 'BAO_0002794'?"}
+{"id": "581a8f2d-8021-40a4-a031-36ec784bcf9f", "question": "Which label is associated with the bao_id 'BAO_0000219'?"}
+{"id": "cbba8a0e-4d0d-4475-a025-eb7c2b1824b7", "question": "Which tax ID and sequence are available?"}
+{"id": "d6648949-840a-4514-aa8b-69f3430cb514", "question": "How much is the sum of component IDs for the Protein type?"}
+{"id": "720d6d54-6baa-4ceb-8951-4a499c807213", "question": "Which sequence and description are associated with the MD5 sum `5f13f79acb702b2662f2ee03697e2351`?"}
+{"id": "6a8cba77-bd8a-4f6a-ad93-2d163d903737", "question": "Which component type and sequence correspond to the MD5 sum `51a54f25396c1163ed26c756f1e77b88`?"}
+{"id": "16d988e8-294f-4032-80fe-278b804cfeb5", "question": "What additional information is associated with ChEMBL_34, which was created on 2024-03-28?"}
+{"id": "c2040ad0-0b09-4f8e-816e-b54d9a47ced3", "question": "What are the creation date and comments associated with Gene Ontology 2024-02-22?"}
+{"id": "b2014109-adc1-4ba4-ab97-f4bca05195ce", "question": "What title and additional information are linked to the entry created on 2024-03-28?"}
+{"id": "a845c044-2e35-4194-b3c6-548a09f49397", "question": "What are the creation date and title associated with the additional information \"BAO version used for assays (http://bioassayontology.org/)\"?"}
+{"id": "81f20fc2-437d-4b0a-9494-ddfe47f215ff", "question": "Which name and comments belong to the entry created on 2024-03-28?"}
+{"id": "b070d490-b752-4bc5-a2d5-bc486258b728", "question": "What creation date corresponds to the entry named RDKit 2022.09.4?"}
+{"id": "5dc4e85c-e242-4257-b71b-21ca85862768", "question": "What is the creation date and additional information related to the entry named Gene Ontology 2024-02-22?"}
+{"id": "5e3e6dd1-96f1-4158-8356-06ac5347730f", "question": "What title is associated with the additional information \"EFO version used for indication and warning data (https://www.ebi.ac.uk/efo/)\"?"}
+{"id": "1ac391bb-7986-44fd-8fc8-9bd6586f4bb5", "question": "Which level3 corresponds to the level2 description of PHENYLPYRAZOLE?"}
+{"id": "b4515efb-32dd-4745-809f-dc01bb0b8f9c", "question": "Which level1 description and hrac_class_id are related to level2 N3?"}
+{"id": "c2b634d4-194e-4680-8cd5-a703b69db7ba", "question": "Which hrac_code and level2 are associated with level1 F1 and the description of BLEACHING: INHIBITION OF CAROTENOID BIOSYNTHESIS AT THE PHYTOENE DESATURASE STEP (PDS)?"}
+{"id": "a988f85d-680d-4b01-94a9-47c0bf4ab606", "question": "What is the lowest hrac_class_id for level1 Z with hrac_code Z?"}
+{"id": "95048d60-22d6-46f8-944b-2c3d5d40d4ca", "question": "Which bao_id and label correspond to the bioassay ontology?"}
+{"id": "2b672f84-c6b0-4e19-ad29-cc2db105cc5f", "question": "What identifiers and their corresponding names are present in the bioassay ontology?"}
+{"id": "2893e1fc-72f4-4170-bf95-f55328e5453b", "question": "Which bao_id and label are included in the bioassay ontology?"}
+{"id": "44abeb7a-075f-4546-bc7e-4e796662662c", "question": "What \"standard_value\" and \"value\" correspond to a \"standard_text_value\" of minimal with \"as_id\" under 1821?"}
+{"id": "ec2cd85e-39ff-4936-9c88-a471e15a5228", "question": "How much is the sum of \"usan_stem_id\" for the -virsen subgroup?"}
+{"id": "40361d54-dc00-4987-bd00-e361327acb47", "question": "Which \"usan_stem_id\" corresponds to the annotation of prostaglandins in the GPCR major class?"}
+{"id": "d9b7c693-85a4-409c-acbd-36adece6d990", "question": "Which \"subgroup\" values are associated with \"usan_stem_id\" less than 3689 and a suffix stem class?"}
+{"id": "3dde4ec8-2ade-4be9-9aad-831be43dae90", "question": "Which entry has the highest \"usan_stem_id\" in the ion channel major class with a suffix stem class?"}
+{"id": "324ee375-c76f-47bb-93d4-c828f0285a7c", "question": "Which \"subgroup\" and \"stem\" are associated with the description of antibacterial antibiotics that are analogs of chloramphenicol, specifically for \"usan_stem_id\" values below 3848?"}
+{"id": "acc5e21b-a80e-4fd5-887c-a5a4cd6f9f52", "question": "Which \"major_class\" entries fall within the \"usan_stem_id\" range of 3375 to 3990 with a suffix stem class, showing the top three results?"}
+{"id": "a7c775b1-01a4-4a35-9f9c-52dcbc8320b8", "question": "Which \"ddd_units\" and \"ddd_id\" correspond to \"ddd_value\" over 181.06 for \"atc_code\" R03AC05?"}
+{"id": "a2ac3980-1fb9-4c25-844b-bc8144cbe2fe", "question": "What are the sum of \"ddd_value\" and the smallest \"ddd_id\"?"}
+{"id": "eace8f53-7d87-4255-a55d-f6a3cbfbe936", "question": "Which \"ddd_units\" correspond to \"ddd_id\" 1603 with a \"ddd_value\" under 70.01?"}
+{"id": "3db18453-cbea-4d08-b591-d1c567ff05ed", "question": "How much is the sum of \"ddd_id\" for \"ddd_admr\" R with \"ddd_value\" exceeding 19.93?"}
+{"id": "7a275c52-05c4-4b66-95bb-dc7ce471334b", "question": "Which units and result flags correspond to activities with standard units of hours and application IDs ranging from 2990 to 9342?"}
+{"id": "fb04b7e0-7e90-4fef-88f8-8e3e8a8186e1", "question": "What relations are found for activities whose IDs exceed 17126398?"}
+{"id": "36942d90-02dd-4661-aa01-912ba28cd38f", "question": "What is the total of application IDs and the average of result flags?"}
+{"id": "16b76afb-b5d1-4da0-bcf1-0628ef2bc3cd", "question": "Which activity IDs and result flags correspond to activities with standard units of hours?"}
+{"id": "2a8b87ec-2bd6-47d8-8147-fa92d6966c05", "question": "What are the support mechanism identifiers for activity identifiers in the range of 17127769 to 17127837 with activity-support mapping IDs below 2071?"}
+{"id": "0cbd8c90-77de-42fc-a825-e54cd5fd8e94", "question": "What are the average actsm_id and the minimum smid for activity_ids above 17128721?"}
+{"id": "a0052f82-244d-4c95-978f-baf80c2309c7", "question": "What is the highest activity identifier for activity-support mapping IDs greater than 9872 with a support mechanism identifier of 2906?"}
+{"id": "ab9f83f8-3865-4d7e-80cc-4b1ef61243e3", "question": "What are the support mechanism identifiers for the mapping ID equal to 8262 with activity identifiers ranging from 17127111 to 17127946?"}
+{"id": "a4346f94-2203-4bb3-9828-6c15fb2fa3c5", "question": "How does the average \"hba\" value compare for compounds with \"cx_most_bpka\" under 8.62 and \"mw_freebase\" ranging from 207.77 to 416.51?"}
+{"id": "c68f23d9-58e1-4aa8-a4d8-ca132184ec9e", "question": "Which \"num_lipinski_ro5_violations\" and \"molecular_species\" correspond to the compound with \"molregno\" 9334 and 32.0 heavy atoms?"}
+{"id": "72d10a31-755a-46ae-b13b-2bf9e5338e3b", "question": "What is the average \"mw_freebase\" and the lowest \"num_ro5_violations\" found in the dataset?"}
+{"id": "7ae93d04-38ca-4655-9a8d-ffea8291a875", "question": "Which EFO ID corresponds to the IST-MEL1 cell description?"}
+{"id": "ff172889-cb4d-4d18-9c39-71c2aaa92de7", "question": "Which mol_atc_id corresponds to the classification D07AC05 with a molregno exceeding 2531514?"}
+{"id": "a516f324-305f-49d6-9be0-49a0a73ce84f", "question": "Which registration number is linked to the classification V08AD04 with a molecule ATC identifier below 94887?"}
+{"id": "60d39919-9044-4bf1-9405-c8f3204cb4dd", "question": "What is the smallest registration number for the classification C08CA17 with a molecule ATC identifier less than 93493?"}
+{"id": "b812a377-7588-485f-a285-730db0f5a841", "question": "What is the total of the molecule ATC identifiers, and what is the highest registration number for the classification A11CC05?"}
+{"id": "c1aa4099-9266-4e8a-8162-c07d4d1e0252", "question": "Which \"site_id\" corresponds to the site \"Vasopressin V1a receptor, 7tm_1 domain\"?"}
+{"id": "78e88fb3-30a9-4b78-a352-adc5420fde5c", "question": "What is the highest \"tid\" and the lowest \"site_id\" for the site \"Apelin receptor, 7tm_1 domain\"?"}
+{"id": "a11d259a-0537-4d10-8799-b799c67da3fe", "question": "Which \"tid\" is associated with the site \"Protein Gpr39, 7tm_1 domain\"?"}
+{"id": "feeb1b16-f5df-42da-bdc9-eec7e3dbbde1", "question": "Which \"site_name\" and \"site_id\" correspond to entries where \"tid\" is greater than 9524?"}
+{"id": "b9fe18c7-1c7c-43b2-b848-ac12c23fb5d0", "question": "Which \"site_name\" is associated with \"site_id\" values between 24520 and 37854 and a \"tid\" exceeding 103241?"}
+{"id": "6a168dfe-4fcb-4e4d-b59c-ef58dd467406", "question": "What is the lowest \"tid\" and the average \"site_id\" for the site \"Neuromedin B receptor, 7tm_1 domain\"?"}
+{"id": "9fed0902-8911-4a90-89f7-ee7a0c3a258d", "question": "What is the lowest \"site_id\" and the total of \"tid\" for the site \"Nicotinic acetylcholine receptor alpha-4/beta-2, Neur_chan_LBD domain\"?"}
+{"id": "c4b64f3f-d2c0-42e2-94c2-2bc426640412", "question": "How much is the sum of source IDs for 'ATLAS'?"}
+{"id": "815313e2-3ed1-4f17-b993-bbc7ad811bef", "question": "Which source ID corresponds to the description 'GSK Published Kinase Inhibitor Set' and the source short name 'GSK_PKIS'?"}
+{"id": "4b2db50c-2cca-4884-87d1-688813525e4d", "question": "How much is the sum of source IDs for 'METABOLISM' with the description 'Curated Drug Metabolism Pathways'?"}
+{"id": "c1de880b-52dc-4397-b028-d25bd6125d90", "question": "Which source description is associated with 'EUBOPEN_CGL' and has a source ID under 20?"}
+{"id": "98b7d39b-ae1a-4ef4-a165-2f2c0704b176", "question": "Which source IDs and short names correspond to the description 'Gene Expression Atlas Compounds'?"}
+{"id": "41eb0283-5631-4928-ae99-f5443fbb9751", "question": "Which protein class synonyms and their protclasssyn_ids exist for protein_class_id exceeding 1495?"}
+{"id": "ec24e01f-0da0-415c-bbf2-834d3a63729d", "question": "What are the average protclasssyn_id and the highest protein_class_id for 'AMP-Activated Protein Kinases' under the syn_type 'CONCEPT_WIKI'?"}
+{"id": "d0997bca-0892-4fe2-922b-9719c22161fa", "question": "Which protein class synonyms are linked to the source type 'UMLS'?"}
+{"id": "fca937dd-cbc8-4f0c-a674-9d4243801b8d", "question": "What is the average protclasssyn_id for 'ConceptWiki:99b6483c-9835-4fb1-8175-e439416a5c81' with protein_class_id below 866?"}
+{"id": "5c601e26-1004-4d29-8d4a-faa7a9879887", "question": "What is the highest level of importance for the alert set 'MLSMR' with an alert set ID between 1 and 3?"}
+{"id": "941fcbfa-4026-47a6-873b-b825878a25dd", "question": "What priority does the alert set 'Glaxo' have?"}
+{"id": "de238637-31e7-4ac3-bd75-82ebf069d505", "question": "What is the set name and level of importance associated with the alert set ID of 3?"}
+{"id": "37a6add0-5d67-4c24-afda-1517cc6a7372", "question": "How can we determine the average ID for USAN stems in the '-dutide' category that have a suffix stem class?"}
+{"id": "1b6b5f07-1cbb-425c-ad42-1c5234d6cff3", "question": "What method can we use to find the average ID for USAN stems in the '-glustat' category that possess a suffix stem class?"}
+{"id": "66d02a18-5479-49a5-b795-2eee286f1041", "question": "Which major class corresponds to the stems annotated as 'nociceptin opion receptor (NOP) agonists' with a suffix stem class?"}
+{"id": "7a3b4b1f-da0a-48e3-b57b-81d22c002bc9", "question": "How can we compute the total sum of IDs for USAN stems in the '-glustat' category that are classified as enzyme inhibitors of glucosyltransferase?"}
+{"id": "cbe910a9-1f25-4559-940e-de8ee26f78e5", "question": "What type of reference is associated with the reference ID NCT01027910 within the range of unique reference identifiers from 595867 to 596461?"}
+{"id": "467522fc-301a-4940-9a26-78b3e635423d", "question": "What type of reference is related to drug indication identifiers greater than 32751 and the reference URL https://clinicaltrials.gov/search?term=NCT01027910?"}
+{"id": "fde66720-da2e-4352-8bf1-f11ebbcf4b17", "question": "What is the lowest value for indref_id and drugind_id in the dataset?"}
+{"id": "e3987933-028f-464a-9748-68ad83324feb", "question": "Which reference IDs and drug indication IDs are associated with the ClinicalTrials reference type?"}
+{"id": "9e406cc5-b506-4f77-9b43-1e8274e636eb", "question": "Which average component ID corresponds to compsyn IDs below 1729071 and the synonym 2.4.1.80?"}
+{"id": "1f305f2d-d595-449e-92e1-a1fbe85b8b80", "question": "How much is the sum of compsyn IDs for the component that has an ID of 516?"}
+{"id": "7b496958-221d-4667-ae39-e34154af7d43", "question": "Which average values of component ID and compsyn ID are associated with the synonym \"Cytochrome P450 7A1\"?"}
+{"id": "49b1e01d-ec3f-4690-9055-5c9c31fb6c49", "question": "What is the highest component ID linked to the synonym \"MAPK 10\"?"}
+{"id": "075752bd-8573-4280-a733-ed9efdf29d90", "question": "Which component synonym and average compsyn ID are found for the component ID 280, with an average compsyn ID exceeding 1390914?"}
+{"id": "67756b56-bbbe-4297-9b27-f9d9fa30c040", "question": "Which compsyn ID corresponds to the synonym \"Synonyms=FUR\" and component ID 946?"}
+{"id": "63415f27-acc1-4931-9513-772402ee80de", "question": "What are the highest compsyn ID and lowest component ID associated with the synonym \"2.4.1.80\" and synonym type \"EC_NUMBER\"?"}
+{"id": "cdc50aa1-71aa-42ac-86a0-9dd3aef7f856", "question": "Which synonym type is found for compsyn IDs below 1690556 and component IDs ranging from 156 to 1298?"}
+{"id": "2627b8dc-27fa-4827-b962-da8f99c45f07", "question": "Which component ID falls within the range of compsyn IDs from 918260 to 1342993?"}
+{"id": "0ccea96e-03d4-47bd-bc86-0b74ba4fcbee", "question": "Which classifications at the fifth level and corresponding molecule ATC identifiers are linked to substances with registration numbers ranging from 1876092 to 2344175?"}
+{"id": "ddb36522-9d34-4cad-93ed-90f49e11b707", "question": "What is the highest registration number for the level5 classification S01GA02?"}
+{"id": "31ab45c6-2075-4720-a099-fb9b36ff3c78", "question": "What is the total of the registration numbers for the molecule identifier 95284 and the fifth-level classification D07XC05?"}
+{"id": "aaab0a6a-bd8f-48d8-babe-2c2907fc6afe", "question": "Which level5 classification is associated with the molecule that has a registration number of 675343 and a mol_atc_id in the range of 92918 to 94363?"}
+{"id": "5d99cfaa-7920-492c-bd64-6ca52f9e0be8", "question": "Which \"irac_class_id\" and \"molregno\" correspond to molecules with \"mol_irac_id\" below 176?"}
+{"id": "d263bd2d-e0d9-44ba-b1df-f2b6560cf776", "question": "Which \"mol_irac_id\" and \"irac_class_id\" correspond to molecules that have a \"molregno\" exceeding 1466715?"}
+{"id": "7922d6aa-9216-4ad7-afc1-029e26199996", "question": "Which \"mol_irac_id\" and \"irac_class_id\" are linked to molecules that have a \"molregno\" greater than 1478391?"}
+{"id": "7ecce87e-91d0-48e6-9710-fd97733d1da5", "question": "Which \"molregno\" values correspond to molecules that have a \"mol_irac_id\" above 33?"}
+{"id": "980f4c94-0bdb-46a6-8f7c-9c7583c1d4ee", "question": "What is the total of \"irac_class_id\" and the highest \"molregno\" for molecules that have a \"mol_irac_id\" in the range of 182 to 182?"}
+{"id": "c500af06-3e62-4dc6-801a-99f3119b1d18", "question": "What is the lowest \"irac_class_id\" and the total of \"mol_irac_id\" for molecules that have a \"molregno\" below 138650?"}
+{"id": "6fdce1c2-f4d2-4917-b1b0-df135c3da065", "question": "What are the InChI and SMILES representations associated with the unique identifier CJQKTFJEKWXTLH-UHFFFAOYSA-N?"}
+{"id": "86c02a24-8829-41a8-9448-dcb5bec30632", "question": "What unique identifier corresponds to the numerical values of compounds ranging from 3856 to 9943, given the full InChI representation InChI=1S/C21H26ClN3O3/c1-3-25(4-2)14-13-23-21(27)16-5-9-18(10-6-16)24-20(26)15-28-19-11-7-17(22)8-12-19/h5-12H,3-4,13-15H2,1-2H3,(H,23,27)(H,24,26)?"}
+{"id": "8da286f1-da90-4dfb-ab36-24216dccfe84", "question": "What is the full InChI representation for the compound identified by the number 5051?"}
+{"id": "220da90f-6b94-47f8-9162-c8507e891d2d", "question": "Which standard_inchi values are found for molregno between 2183 and 5910, associated with the standard_inchi_key `QREITGQFANCVJU-UHFFFAOYSA-N`, sorted by molregno in descending order, with a limit of 5?"}
+{"id": "81c4e4e1-7040-4ef3-9300-6508981c6b48", "question": "What value indicates the average numerical identifier for the chemical structure represented by the SMILES string CCN(CC)CCNC(=O)c1ccc(NC(=O)COc2ccc(Cl)cc2)cc1?"}
+{"id": "12924256-23fd-4515-9925-bf265954c573", "question": "Which descriptions correspond to the target mapping 'Protein complex' and have a confidence score in the range of 5 to 8?"}
+{"id": "50be68d9-6d50-4298-807d-579de8d2e8a0", "question": "What descriptions and confidence scores are linked to the target mapping 'Protein'?"}
+{"id": "049959a3-937b-4cf5-a8cc-d5038d282edc", "question": "Which descriptions correspond to confidence scores that are below 7?"}
+{"id": "aca8b3a2-a081-4f84-88f1-5eb9da590786", "question": "Which descriptions are linked to the target mapping 'Homologous protein complex' that have a confidence score between 1 and 7?"}
+{"id": "3fb8f87e-7299-4822-b571-142db04b1193", "question": "What are the comments linked to the creation date of \"2024-03-28\"?"}
+{"id": "8da475b3-be91-4181-9261-a43414c64f9c", "question": "When was the version \"Gene Ontology 2024-02-22\" created?"}
+{"id": "12065ae1-9da9-46b4-96dc-c4c45784a366", "question": "Which protein has the preferred name associated with the short name 'M2'?"}
+{"id": "37cbea3b-ad44-4f29-be84-ac56d1769d25", "question": "Which preferred name and protein class description are associated with the protein ID '809' and short name 'CPA2'?"}
+{"id": "d5e69d6d-0fbf-4694-acdd-9c32135cca35", "question": "What are the minimum class level and total sum of parent IDs for the protein identified by the short name 'M17'?"}
+{"id": "513cc178-0ba9-4359-9647-d9a8ff3851ee", "question": "What is the total sum of parent IDs for proteins classified at class level '3'?"}
+{"id": "c9a76a8b-e1eb-40b9-9adc-c86c3517eb44", "question": "Which unique identifier corresponds to the alert named 'thio_dibenzo(23)' with the provided smarts?"}
+{"id": "2051f383-2474-4758-9c6f-2de277e96212", "question": "Which alert_set_id and smarts are linked to the alert with alert_id 496?"}
+{"id": "769eb220-7015-4302-ab08-b520efc6bc45", "question": "What is the highest alert_set_id for the alert named 'anil_NH_alk_A(5)' that has alert_id 481?"}
+{"id": "7bfa1038-7b52-4f75-bc12-5f666c836264", "question": "What is the smallest group identifier and the largest individual identifier for the alert named 'tertiary_halide_sulfate' with the provided smarts?"}
+{"id": "73785032-0512-41a1-9714-699d5d32e247", "question": "Which names and structural representations are linked to alerts that have an individual identifier below 726?"}
+{"id": "5a4cb7b3-56e5-4980-a679-41d043b38ce2", "question": "Which alert_set_id corresponds to the alert named 'N3 Saponin derivatives'?"}
+{"id": "d2ffd5fd-5f82-408d-ae3b-82d71b7883f5", "question": "Which alert_name and smarts are linked to alerts that have an alert_set_id ranging from 2 to 3 and an alert_id from 174 to 672?"}
+{"id": "b6d6c006-8336-4be3-a27a-3867324fae02", "question": "Which polymer flags and oral statuses do the molecules have?"}
+{"id": "7a121fb4-bbc0-481f-b553-e80cf6b2cf91", "question": "What is the handedness of the compound identified by CHEMBL10673 that has a skin application value less than 0?"}
+{"id": "b27f96a1-319c-48fc-9117-3c4052ee8504", "question": "What are the average unique identifier for the binding site and the minimum target identifier for \"Gonadotropin-releasing hormone receptor, 7tm_1 domain\"?"}
+{"id": "c0796327-d5da-4a2c-9f83-11a8cea8db98", "question": "Which site_id corresponds to \"Steroid 5-alpha-reductase 2, Steroid_dh domain\" where tid equals 11594?"}
+{"id": "70c27c43-c448-4a89-9297-6f9beda6852d", "question": "What target identifier and unique binding site identifier correspond to \"Matrix metalloproteinase-2, Peptidase_M10 domain\"?"}
+{"id": "bb463eaa-b96c-46a7-bacf-c944ad478cf3", "question": "How much is the total of tid for \"Dual specificity mitogen-activated protein kinase kinase 1, Pkinase domain\"?"}
+{"id": "838b7fbe-febf-4cef-9fbd-74601e70d960", "question": "How much is the average tid for \"Matrix metalloproteinase-2, Peptidase_M10 domain\" where site_id exceeds 1499?"}
+{"id": "dcc3738f-0cbc-4459-b7a5-6e1c654e9bbf", "question": "Which descriptions and short names are associated with source IDs that are below 17?"}
+{"id": "fa886e8c-5f42-4ace-b1f9-80adfa493ceb", "question": "How much is the sum of source IDs for the description 'External Project Compounds'?"}
+{"id": "f438ecaa-956f-4635-a263-b0b1d491582a", "question": "Which site_id and prediction_method correspond to activity_id 1701853 and predbind_id in the range of 7706415 to 7707887?"}
+{"id": "0d77fdfb-4713-454e-b32a-79163cff5380", "question": "Which unique identifiers for predicted binding domains are linked to activity values below 2251490?"}
+{"id": "21a6493b-d705-43ce-83f1-51691622a60e", "question": "What is the highest activity value for the method of prediction classified as 'Single domain'?"}
+{"id": "a085b5be-f887-4212-9f4f-21436c1183f7", "question": "Which predbind_id values are linked to activity_id below 805812 with a confidence level of 'high'?"}
+{"id": "bc9715ca-55fc-42f9-ab64-9fc1f9815bdb", "question": "What is the smallest binding site identifier for activities that are within the range of 1313670 to 2319409?"}
+{"id": "1750a297-a1c7-4d34-a6d4-043d3af74091", "question": "What is the average value of unique identifiers for predicted binding domains for entries that have a certainty level of 'high'?"}
+{"id": "67b0b745-0854-4f0a-8770-7edf4a0bd0b3", "question": "What is the average activity value and the minimum binding site identifier for the prediction method 'Single domain' where the unique identifiers for predicted binding domains fall between 7705171 and 7707257?"}
+{"id": "c7499831-450c-42b3-aece-7f60fd00a4cc", "question": "Which metref_id corresponds to the ref_url `http://europepmc.org/abstract/MED/22859782`?"}
+{"id": "a46531f1-a920-4acf-be4b-2c2f50283ec5", "question": "How can you determine the average reference identifier for reference entries associated with identifiers greater than 10852 that correspond to a metabolite identifier of 1075?"}
+{"id": "cfec0294-21cf-4c56-ab0b-fbb91aa946be", "question": "What are the values that indicate the highest reference identifier and the lowest reference entry identifier for a metabolite identifier of 1815 with a reference type of PMID?"}
+{"id": "7d17257f-51f5-48cf-969a-38f8e4f0c827", "question": "What are the minimum met_id and the total sum of ref_id for the ref_url `http://europepmc.org/abstract/MED/22859782`?"}
+{"id": "42e4df29-e702-4ff6-821a-6eaed9e8f4a1", "question": "How is the average ref_id determined for metref_id values below 8302?"}
+{"id": "0a390245-173c-45f2-8523-94b585924d54", "question": "What web addresses are available for reference entries with identifiers between 6208 and 8641 that have a reference identifier lower than `6915786856036`?"}
+{"id": "f1e198d9-83b5-4a75-aa38-aaf827a7fa88", "question": "How do the average target identifier and average binding site identifier compare for the Receptor-type tyrosine-protein phosphatase S, Y_phosphatase domain?"}
+{"id": "8b078d44-72a4-440e-b783-379ae5923bf1", "question": "What is the target identifier that corresponds to the unique identifier 2832 and the binding site named Receptor-type tyrosine-protein phosphatase S, Y_phosphatase domain?"}
+{"id": "ac911b65-7d82-4dbb-b2f9-54b1e426c87c", "question": "Which unique identifier is linked to the Gamma-aminobutyric acid receptor subunit alpha-1/beta-2/beta-3/gamma-2, Neur_chan_LBD domain and has a target identifier less than 71095?"}
+{"id": "3579503d-3a7c-48e8-a4a4-a3166bae0fbb", "question": "What target identifier and binding site identifier are associated with the Heparanase, Glyco_hydro_79n domain?"}
+{"id": "e36702ff-ee94-44c8-8401-ad8fa46097fb", "question": "What are the minimum site_id and total tid for the Dual specificity protein kinase CLK3, Pkinase domain?"}
+{"id": "4594821a-b330-4746-9900-0e6606cded21", "question": "What is the target identifier linked to the unique identifier 2450 and the binding site named Neuronal acetylcholine receptor; alpha3/beta4, Neur_chan_LBD domain?"}
+{"id": "e5546d04-67ce-443a-8344-0d660808cbf6", "question": "What is the lowest tid and the total of site_id for the Heparanase, Glyco_hydro_79n domain?"}
+{"id": "2977225d-e810-44bc-8e3d-a9d11c3aba40", "question": "What synonym type and protein class identifier are linked to records with a protclasssyn identifier exceeding 39639 and an alternative name of NK-3 Receptor?"}
+{"id": "ff281e41-a114-4ebe-b033-dd2079262165", "question": "What is the highest protclasssyn_id and the average protein_class_id for entries that have a protein_class_synonym of 17,20-Desmolase and a syn_type of UMLS?"}
+{"id": "be9b5bb0-e2db-4eca-b69c-c8c8723c334a", "question": "What is the highest protclasssyn_id and the average protein_class_id for all entries?"}
+{"id": "308793e0-e5e7-4d56-877c-ccbf9cfb25ec", "question": "How do the average protclasssyn identifier and total protein class identifier compare for records with a synonym type of UMLS and an alternative name of Receptor, Ca-Sensing?"}
+{"id": "9bf5a5b7-63e4-40cf-8d19-ab738f06ce5d", "question": "What is the average protein_class_id for entries that have a protclasssyn_id below 40519 and a protein_class_synonym of Receptor, Ca-Sensing?"}
+{"id": "38f69c3b-8ab0-4fc9-8dd2-c3b5e265c501", "question": "Which domain_id corresponds to the domain called 'Reprolysin_2' in the 'Pfam-A' category?"}
+{"id": "43f31dae-4a07-4304-950b-899d4708a45c", "question": "Which source_domain_id and domain_type are associated with domain_ids that are below 12027?"}
+{"id": "de68698d-cec6-4026-bdf5-164716db349a", "question": "Which domain_name and domain_description are linked to domain_ids that exceed 6077?"}
+{"id": "3140d185-de70-470e-a13e-d7829b05ab32", "question": "How much is the average of domain_ids for the source_domain_id 'PF00334' in the 'Pfam-A' category?"}
+{"id": "b51728fb-8059-4d59-b3ea-eacf9e3cebb7", "question": "Which domain_description and average of domain_ids correspond to the source_domain_id 'PF17689' in the 'Pfam-A' category, with the average being greater than 8103?"}
+{"id": "6cccbfff-5b6c-4787-92cd-07a37a8e48cf", "question": "What is the lowest value of domain_id?"}
+{"id": "f65cc34f-bc8a-4a3d-a16e-f9de18ceb81e", "question": "Which pathway ID and enzyme name correspond to a tax ID below 9499.43 and a metabolite record ID of 2472340?"}
+{"id": "491e6005-cb90-43cc-9f49-7cbad674d1a8", "question": "What prediction techniques and levels of certainty are associated with predicted binding domains that have a unique identifier below 7706165 and a location identifier of 380?"}
+{"id": "96b66f36-e869-4ce8-ae2a-d6e78ca12bef", "question": "What average activity_id do predicted binding domains have when the site_id is below 1296 and the prediction method is Multi domain?"}
+{"id": "e8f79d0d-a618-46a0-80df-1a9b94d90c00", "question": "What prediction techniques and their average activity measures are present for predicted binding domains with a unique identifier between 7703633 and 7704903 and a location identifier ranging from 1218 to 2758?"}
+{"id": "aa310943-68c6-435f-972d-e872f8ec45be", "question": "What is the smallest unique identifier for predicted binding domains that have a biological activity level greater than 1313671 and a high level of certainty?"}
+{"id": "e5d31d79-c524-47a6-ae31-566f1689c35d", "question": "Which prediction methods and confidence levels are found in predicted binding domains with a predbind_id below 7707694?"}
+{"id": "dbc64c4c-712c-4fbb-aed2-e0b7f69db3d9", "question": "What are the average unique identifier and the maximum location identifier for predicted binding domains that utilize a Single domain prediction method and exhibit a high level of certainty?"}
+{"id": "92075e86-8af7-4a50-ba00-a16037f08250", "question": "Which tissue identifier is linked to the Caloha reference TS-0942?"}
+{"id": "cfad0915-0825-475a-b20c-186d34fc9225", "question": "Which Caloha reference is connected to the ChEMBL identifier CHEMBL3987629 and the Uberon identifier UBERON:0009758?"}
+{"id": "61c488c5-4b80-4577-a62a-7e1cbfa11384", "question": "What is the highest tissue identifier for the preferred name \"Abdominal ganglion\" and the ChEMBL identifier CHEMBL3987629?"}
+{"id": "050742cc-6703-4176-a89f-82c1f96a1fd0", "question": "How much is the total of tissue_ids for the preferred name Small intestine?"}
+{"id": "b426f22a-7e88-49bb-91c6-b52dc4b28a2a", "question": "Which uberon_id corresponds to the preferred name Caudal fin?"}
+{"id": "e5c7d221-afb6-489c-8a1b-f35ed33516ce", "question": "What is the average value of the tissue identifier for the BTO identifier BTO:0000227?"}
+{"id": "ef09301d-9f7c-4778-a75a-6649726ada4c", "question": "Which values represent the highest irac_class_id and the lowest molregno?"}
+{"id": "c3a2360f-39e3-4312-8d06-6f87b14187dd", "question": "How much is the total of mol_irac_id and what is the average of molregno for irac_class_id values ranging from 3 to 132?"}
+{"id": "6f642051-4ea5-41bc-975b-2ea60e4ca640", "question": "Which mol_irac_id and irac_class_id correspond to molregno values that fall between 1282720 and 1319744?"}
+{"id": "248f00b6-7b09-4495-bbb6-191e339f2862", "question": "What is the maximum registration number for molecule identifiers that fall between 56 and 143 and have a classification category below 159?"}
+{"id": "9dc94416-e143-4df9-a5aa-dbefa659b33f", "question": "What is the sum of registration numbers, and what is the average of molecule identifiers for classification categories that range from 100 to 125?"}
+{"id": "20a3926a-a364-4091-a099-6fad88c9c4d7", "question": "Which molecule identifier is associated with a registration number of 328162 and a classification category that is less than 52?"}
+{"id": "4858824c-29f5-4a73-a338-03078c9dcdd3", "question": "What is the highest classification category for a registration number of 264584 and a molecule identifier of 18?"}
+{"id": "f8c535d5-a1be-4ee7-b075-78c93ff2b25d", "question": "Which relationship type corresponds to the description \"Molecular target other than protein assigned\"?"}
+{"id": "a2cb88c1-51bc-49f2-b7a4-da1cd2a735f8", "question": "Which relationship type is associated with the description \"Default value - Target has yet to be curated\"?"}
+{"id": "0c8f03f9-4bf1-4750-8654-5628bda90d6c", "question": "Which description corresponds to the relationship type \"H\"?"}
+{"id": "fa4476ae-d6dc-44ae-974b-2bbc996f2ea5", "question": "Which relationship types and descriptions are available?"}
+{"id": "24febbcc-63f2-40e1-be64-d782c82d7f85", "question": "Which description is linked to the relationship type \"N\"?"}
+{"id": "10769619-50fd-413b-bc46-01022b23aa73", "question": "Which relationship types and descriptions can be found?"}
+{"id": "af4205b3-0f7c-4f67-afa5-d1aa89dc6df9", "question": "Which relationship types and descriptions exist?"}
+{"id": "eceec57b-ef0e-4e80-a223-0d2601cd8e2b", "question": "How much is the total of \"molregno\" and the lowest \"cpd_str_alert_id\" for alerts with an \"alert_id\" below 1057?"}
+{"id": "5050cfd0-300c-416f-bd14-9123f9d7036a", "question": "How much is the total of \"cpd_str_alert_id\" for alerts with an \"alert_id\" below 294 and \"molregno\" equal to 4011?"}
+{"id": "5ca350c3-b64b-438a-86df-18f034c5f5ce", "question": "Which \"molregno\" and \"cpd_str_alert_id\" correspond to alerts with an \"alert_id\" above 291?"}
+{"id": "d0cae8bc-8f3f-46c5-8f7d-59678fc08e3b", "question": "Which \"cpd_str_alert_id\" corresponds to records with \"molregno\" ranging from 117 to 4400 and \"alert_id\" equal to 1026?"}
+{"id": "17d47d2d-cb42-4343-b467-f7dc487d6937", "question": "Which \"molregno\" and \"alert_id\" correspond to records with a \"cpd_str_alert_id\" exceeding 75030208?"}
+{"id": "80dd61fd-20b6-46bb-9b28-b07eb2891a41", "question": "Which comments are linked to the version \"ChEMBL_34\"?"}
+{"id": "d5337c05-0667-4739-82c6-bdd5aa598581", "question": "What details can be found regarding the creation date and comments for the version \"MeSH 2024\"?"}
+{"id": "1fbe3a5a-5297-435b-a7e3-2aab4534fbb8", "question": "Which version name corresponds to the creation date \"2024-03-28\"?"}
+{"id": "575d52d8-c2b6-4782-a195-bb1aaa5135b5", "question": "What are the sequence MD5 sum and organism for PROTEIN components?"}
+{"id": "f21528d8-7581-419a-809c-832938ecf88d", "question": "What is the mean component ID for Homo sapiens?"}
+{"id": "dbf970ed-7bf5-4b90-a512-2b3b65065462", "question": "Which component type corresponds to component IDs above `11726`?"}
+{"id": "0023e632-64dc-49b1-9af5-45557151045a", "question": "Which record ID and molregno correspond to the strength of 5GM/100ML?"}
+{"id": "255cc752-bbe1-4677-bb5c-9992ccb4022f", "question": "Which three components are linked to the product identifier PRODUCT_017844_001 when sorted by formulation identifier?"}
+{"id": "f3d559a8-c5e3-4bb6-913f-6cdd0e1c24cc", "question": "Which formulation identifiers are included within the entry number range of 1564613 to 2266927 and the chemical registration number range of 615543 to 1998956?"}
+{"id": "a46cbd67-1a40-4d32-871a-6c3ef0a57f6d", "question": "Which level 2 classification and level 1 description are associated with the level 5 code A07EC01?"}
+{"id": "88fd6fa7-8659-4a0d-a428-a188d4f611ca", "question": "Which level 1 classification and level 1 description correspond to the D08A level 3 classification and D08AC level 4 classification?"}
+{"id": "d1e520a9-6206-4428-89a2-00ab404b259f", "question": "Which level1 classifications and active ingredients correspond to level3 C1111 with an hrac_class_id below 54?"}
+{"id": "09c6c764-d971-4640-9106-0b51e018a483", "question": "What is the lowest identifier associated with the active ingredient FLUAZOLATE?"}
+{"id": "7d6cb612-9f40-47f4-95d8-9e880b1686f7", "question": "Which level2 classifications and level1 descriptions are associated with hrac_code N?"}
+{"id": "0e8495a7-5edb-42fe-9ff2-002a2b9136f8", "question": "Which active ingredients and hrac_codes are linked to level3 F341 and level2 description DIPHENYLETHER?"}
+{"id": "03d24894-aaa2-47ad-a52d-8b64cb046e55", "question": "What classification code and primary description are linked to the active ingredient DIMETHACHLOR?"}
+{"id": "8df3aa98-fb57-4342-860c-488a0143012c", "question": "Which is the lowest drug indication ID for entries with an indication reference ID exceeding 598968 and a reference ID of NCT00206310?"}
+{"id": "0ebbc3a7-a018-4c6d-b327-8c1c8f206e81", "question": "What is the highest indication reference ID for drug indication IDs that fall within the range of 55133 to 138657?"}
+{"id": "a6a99a0e-f72d-4555-ae36-852e11390a30", "question": "Which reference types and reference IDs are associated with drug indication IDs that exceed 42819?"}
+{"id": "1d57bbaf-40e6-4b9c-b35b-26c248893a25", "question": "What is the average indication reference ID and the lowest drug indication ID?"}
+{"id": "84147fd1-f3c6-4b51-9b4d-9f0e5bf88d55", "question": "Which reference IDs and reference types are found for indication reference IDs ranging from 594908 to 597795 with a reference URL of https://clinicaltrials.gov/search?term=NCT00424060?"}
+{"id": "495f2bf7-e645-4d59-b11d-7bb34d5052bb", "question": "Which \"relation\" and \"rgid\" values are present in the records?"}
+{"id": "f965950c-f8f2-45df-b1a1-67327feaa080", "question": "How much is the total of \"tid\" for \"related_tid\" values below 8809?"}
+{"id": "af0332fd-fa30-4031-a733-05c298a2e27a", "question": "How much is the total of \"related_tid\" for \"tid\" values exceeding 62314?"}
+{"id": "aed915c4-3764-4237-a091-654fa94bcd9c", "question": "What is the highest \"related_tid\" for \"tid\" equal to 104840?"}
+{"id": "2d1cd6c5-6f21-4271-935b-fcad9a756273", "question": "What is the maximum \"tid\" and the average of \"targrel_id\" for the association labeled \"OVERLAPS WITH\"?"}
+{"id": "1b15cea2-0b26-4e63-b916-eb1c2d2849ad", "question": "What is the smallest \"targrel_id\" and the average of \"related_tid\" for \"tid\" values ranging from 28146 to 48752?"}
+{"id": "1f96a997-75de-4d61-bb8b-131022277963", "question": "What is the highest \"tid\" and the highest \"related_tid\" for \"targrel_id\" values ranging from 490512 to 496632 with the association labeled \"OVERLAPS WITH\"?"}
+{"id": "4b85282a-2fcf-49c2-929d-946a78a2bbf4", "question": "How much is the average of \"related_tid\" for the relationship \"OVERLAPS WITH\" when \"tid\" exceeds 93786?"}
+{"id": "04780449-5cdb-4bc2-a34c-bbbcb91de349", "question": "Which three \"targrel_id\" and \"related_tid\" values are listed in ascending order of \"related_tid\"?"}
+{"id": "016adb73-3701-4951-b12d-aa125af97f7f", "question": "Which values represent the total of \"ref_id\" and the highest \"met_id\" for the URL `http://www.isbnsearch.org/isbn/9780071624428`?"}
+{"id": "a6b4382a-d44f-47fa-8942-a3fcfa0b3aab", "question": "Which \"ref_type\" and \"met_id\" correspond to \"ref_id\" values in the range of `423231047204` to `9107538639400` with \"metref_id\" being less than `11732`?"}
+{"id": "ba9a1e87-0d24-4423-8180-d05fa6fa901b", "question": "Which \"ref_id\" corresponds to the \"ref_type\" `PMID` with \"met_id\" exceeding `337`?"}
+{"id": "c2eaf477-7e37-4c52-94ff-37d2bf92ee10", "question": "What average value of \"met_id\" is found for \"metref_id\" below `1780` with \"ref_type\" being `ISBN`?"}
+{"id": "c07811c9-50b8-43c8-aa3f-258a6b6a6d73", "question": "Which \"metref_id\" is linked to the \"ref_type\" `ISBN` with \"met_id\" equal to `1366`?"}
+{"id": "7ec64a81-3acd-42be-a490-edc2a8a14f64", "question": "Which values represent the total of \"met_id\" and the lowest \"metref_id\" for the URL `http://europepmc.org/abstract/MED/22942317` with \"ref_id\" exceeding `7777188818809`?"}
+{"id": "e1090dad-b3c8-4c1a-a6b5-13d6149ae58b", "question": "Which values correspond to \"res_stem_id\" and \"research_stem\"?"}
+{"id": "c138d7db-c195-424b-922b-9aa89e561c06", "question": "Which values are associated with \"res_stem_id\" and \"research_stem\"?"}
+{"id": "5d7cd6c8-0a38-4621-8485-a379b76d2b7e", "question": "How much is the average \"res_stem_id\" for the research stem \"TG\"?"}
+{"id": "aaf398fd-8b74-440d-bc2a-9b95ec102746", "question": "Which values are linked to \"res_stem_id\" and \"research_stem\"?"}
+{"id": "ef6b95da-2892-40e9-a245-90896e2638b2", "question": "Which values are associated with \"research_stem\" and \"res_stem_id\"?"}
+{"id": "e4b9f3e7-062c-48ab-b167-50153539fa45", "question": "How high is the maximum \"res_stem_id\" for the research stem \"AXP\"?"}
+{"id": "bb42e338-59bb-459a-8054-5878ddd26970", "question": "Which drug corresponds to level 3 `N07X` and level 1 `N`?"}
+{"id": "2b92c463-cec0-4461-b012-4a5aaeb5a5cb", "question": "What are the level 4 description and level 5 classification for drugs in level 4 `R01AD`?"}
+{"id": "b933ef5d-00bd-4abd-8d6c-d438e0a19064", "question": "Which drug is classified under level 4 `A03BB` and level 2 `A03`?"}
+{"id": "cb8a2b80-8fdd-4350-9be2-42abba3a3438", "question": "Which level 1 and level 3 classifications correspond to the drug `antiinfectives, combinations` that is classified as antiinfectives?"}
+{"id": "cee06889-b238-4bcb-9d5f-3878f496b490", "question": "Which drug name and level 2 classification correspond to level 3 `C07B` and level 1 `C`?"}
+{"id": "00eaf09e-04f7-4b46-b2fe-631111e7c8b0", "question": "Which irac_class_id corresponds to mol_irac_id 79?"}
+{"id": "17fd8dc5-717d-44fa-9a8c-abac91282860", "question": "What is the sum of the registration numbers and the lowest unique identifier for the classification category 27?"}
+{"id": "3d8e807b-165e-46b8-abad-bd5dbe520baf", "question": "Which unique identifiers for molecules are associated with registration numbers that are greater than 1157655?"}
+{"id": "cc1a8996-a68e-43b9-b8e3-fade70391179", "question": "How much is the average of activity ID and the total of SEI for entries with LE in the range of 0.12 to 0.48?"}
+{"id": "85d1a5a5-5fe9-4050-82c5-4a95bfe34742", "question": "What are the values of the last metric and activity ID for the entries where the second metric is less than 42.22 and the first metric equals 20.06?"}
+{"id": "f9c8f321-e127-4ef4-b881-aaf88a5dfd04", "question": "What values of the last metric can be found in entries where the third measurement is below 0.54?"}
+{"id": "609a1896-460c-43ba-9c7f-b8d3422a6b42", "question": "What is the minimum value of the last metric for entries where the first measurement is less than 51.87?"}
+{"id": "c31faeef-a59e-4667-81e8-9841e24d37fb", "question": "Which values of SEI and LLE correspond to entries with LE below 0.32 and BEI under 8.10?"}
+{"id": "cd173234-e507-4c95-8267-cd3f2ab62650", "question": "What is the total of activity IDs and the lowest SEI for entries with BEI over 40.02 and LE above 0.46?"}
+{"id": "351b415d-8845-4696-9409-b0c21533e116", "question": "Which is the lowest \"molregno\" for biocomp_id exceeding 2328?"}
+{"id": "627ac2d0-50f0-4625-8938-ad339d04a362", "question": "Which \"molregno\" corresponds to a component_id below 22332 and a biocomp_id of 3280?"}
+{"id": "881bea0a-65a2-4787-80ef-3db304b8960d", "question": "Which \"component_id\" is associated with a molregno of 1380620 and a biocomp_id under 2949?"}
+{"id": "4bf87ca6-8ede-4b34-bd85-0aaf4ff516fc", "question": "Which \"component_id\" is associated with a biocomp_id less than 1337 and a molecular registration number that falls between 230426 and 2547370?"}
+{"id": "756e3548-fa90-42a9-93b2-bd82cc32d521", "question": "What is the maximum \"component_id\" and the sum of \"molregno\" values for biocomp_id values that are below 1549?"}
+{"id": "0b8deae6-78e3-4d32-9109-10e328c2e613", "question": "Which predicted binding IDs and site IDs correspond to single domain predictions that have high confidence?"}
+{"id": "2558ef40-2ee0-46fd-bb3e-280107c6afcb", "question": "Which predicted binding IDs and prediction methods are associated with high confidence predictions?"}
+{"id": "7da3a102-5313-4f4e-872d-8cdd99fec91d", "question": "What are the average activity ID and average predicted binding ID for sites with a high level of certainty that have IDs lower than 14886?"}
+{"id": "d455facf-aee4-491a-a407-52519973f43f", "question": "Which site IDs are associated with predictions that use the single domain method?"}
+{"id": "f34e9a80-c012-41f7-8a54-68cd89e770d0", "question": "What average activity ID corresponds to high confidence predictions at site ID 163?"}
+{"id": "9a4042c5-a780-4b33-9a8e-b7a0e9f13000", "question": "What are the maximum activity ID and total of predicted binding IDs for high confidence predictions?"}
+{"id": "09bcf812-a7d4-44a8-a10e-cd646ad7b380", "question": "Which prediction methods are linked to medium confidence predictions with activity IDs exceeding 876223?"}
+{"id": "4943c7bd-0bb2-44d7-accf-153d22d2bc19", "question": "How much is the sum of hrac_class_id where level1 is B?"}
+{"id": "1df36b32-1792-4fa0-88a8-00f125be9fb3", "question": "What is the smallest hrac_class_id for level1 Z and level2 Z4?"}
+{"id": "f66c4b64-4c0f-4d01-9cbb-c19a7e14c3bc", "question": "What is the average numerical identifier for the primary classification Z?"}
+{"id": "24434364-8a2b-4d85-aa62-2ac7c57c9e5a", "question": "Which level3 and level2_description correspond to hrac_code B and level2 B1?"}
+{"id": "b1e773b1-8cfe-4f50-927d-49ba42e4fa99", "question": "Which record ID corresponds to the ingredient HYDROCORTISONE ACETATE and molregno 150313?"}
+{"id": "6b7f4415-a401-4e0c-aee2-1584e646c0db", "question": "What are the highest record identifier and the lowest formulation identifier for the compound hydrocortisone at a concentration of 0.5%?"}
+{"id": "d78c292a-2095-4746-821d-f4b1a3bc5608", "question": "What is the maximum formulation ID and average record ID for FAMOTIDINE with a strength of 10MG/ML?"}
+{"id": "fad23308-f5c2-4aeb-bb84-8cd7cd2f53e9", "question": "What is the concentration associated with the product identifier PRODUCT_021172_004?"}
+{"id": "a40bd7c1-6dbb-4bdd-8a45-ef0b1220a48d", "question": "What is the record identifier that is linked to the compound lidocaine hydrochloride and the product identifier PRODUCT_083627_002?"}
+{"id": "b0a9797a-0615-436d-a2c0-fd550e670999", "question": "Which compounds have \"cx_logp\" values given that they have less than 2.42 aromatic rings and more than 9.81 hba_lipinski?"}
+{"id": "7799ad47-14a3-437b-abd0-eb95a91e2c9e", "question": "Which values of \"heavy_atoms\" and \"cx_most_bpka\" correspond to compounds that have a psa of 105.4 and a cx_logp of 5.89?"}
+{"id": "34028e4e-2a39-474d-9fc4-bf5a42955e9a", "question": "What is the mean value of \"mw_monoisotopic\" for compounds with \"full_mwt\" ranging from 212.66 to 685.92?"}
+{"id": "df162c4a-0f11-45f4-924f-b1c8f96eaff3", "question": "How much is the total of \"cx_logp\" for compounds that have \"ro3_pass\" equal to N?"}
+{"id": "4a9a8328-0679-496d-ab86-36651420ff08", "question": "Which values of \"cx_logd\" and \"hbd_lipinski\" correspond to compounds with \"rtb\" values ranging from 0.24 to 2.95?"}
+{"id": "25b3b829-85eb-433a-aa18-6c431b3a1024", "question": "What is the smallest target identifier for Escherichia coli K-12?"}
+{"id": "d14381c0-5d64-4b2a-ae7b-ada3d066f10a", "question": "Which species and chemical identifier correspond to the taxonomy ID 42434.0?"}
+{"id": "7a5db6b6-083c-4503-ba0c-3ba52961cb6b", "question": "What are the lowest target identifier and highest species group flag for the protein known as Vascular endothelial growth factor receptor 2 with a taxonomy ID below 88703.99?"}
+{"id": "1ad9eb08-c6f3-4e92-9e98-70b86721d8cb", "question": "Which target_type and tax_id are associated with Homo sapiens?"}
+{"id": "4d067532-8fd8-4126-a329-6fa4ae92ef11", "question": "Which species is associated with the taxonomy identifier 9606.0?"}
+{"id": "feb7f79e-bef0-42d3-97b0-4525a7c16e7c", "question": "Which pref_name and organism are associated with a species_group_flag greater than 0 and tid equal to 106594?"}
+{"id": "755f7bd2-3798-4347-ab4a-b82a59d0f81c", "question": "Which taxonomy identifier and preferred name are associated with the target classification SINGLE PROTEIN?"}
+{"id": "71ae7590-b914-4bdf-ae67-744eb7c89daa", "question": "What are the minimum tax_id and minimum tid for a species_group_flag of 0 and target_type SINGLE PROTEIN?"}
+{"id": "01966342-735c-45bd-a9fb-136f83464eb0", "question": "What are the identifiers for the compound and alert that correspond to a structural alert ID greater than 78052651?"}
+{"id": "d164c8f3-4e42-40ed-a61e-929d6c6b2943", "question": "What are the maximum compound structural alert ID and the average alert ID for molregnos ranging from 4211 to 4679?"}
+{"id": "0ba0a265-cfbe-4f4f-bcb4-1903366693d0", "question": "Which compound structural alert ID corresponds to an alert ID less than 801 and a molregno of 1484?"}
+{"id": "eb9ae4ce-97c4-418d-bd22-404cac609417", "question": "What are the structural alert ID and alert ID linked to the compound identifier 4966?"}
+{"id": "771645af-6a3f-4998-873b-014be44ed36e", "question": "Which compound structural alert IDs are associated with molregnos below 740?"}
+{"id": "4cb1891b-a4f2-4925-b399-7caebe894819", "question": "Which alert ID is linked to the compound identifier 1267?"}
+{"id": "87fc1ef3-ae2e-4d9b-884d-bc13db494af4", "question": "Which descriptions and data validity comments can be found?"}
+{"id": "77bb72db-04eb-42af-9a74-f1d025cb62ab", "question": "Which descriptions and data validity comments can be found?"}
+{"id": "567b6781-1bed-44f0-9e5c-a8b829c0cfed", "question": "Which data validity comments and descriptions exist?"}
+{"id": "7a575b57-24f7-4bbc-8581-56b9c3de9ca8", "question": "What is the minimum measurement and the lowest assay parameter ID for assay IDs that are less than 884882 and have a standard text description of Biacore T200?"}
+{"id": "21671fd8-b551-4529-ac85-eac3373878f8", "question": "What are the assay parameter IDs that are classified as standard type DOSE?"}
+{"id": "52440dd8-33a2-4502-8b48-0dcc41319a9e", "question": "Which warning ID corresponds to the term 'hepatotoxicity'?"}
+{"id": "e57d5c98-3a1e-45b6-8f4f-bc1d7acd9655", "question": "What is the lowest record ID associated with the warning 'Not safe for use in asthma'?"}
+{"id": "0aaa3ba6-7d9e-4be2-b2da-3c397d451a60", "question": "Which EFO ID for warning class and what is the corresponding warning class for 'EFO:0011052'?"}
+{"id": "78e47c1b-4331-4085-b86c-cd26bb0088ba", "question": "What are the target description and parent type for a metal?"}
+{"id": "0de1d27b-3edb-44f5-903b-9c134d63cc92", "question": "What description is given to a chimeric protein that has a parent type of protein?"}
+{"id": "f43549f7-870f-4e30-a5f9-7a8c61ad27b5", "question": "What are the target description and parent type for a protein-protein interaction?"}
+{"id": "b64427ca-b77c-4a31-9a66-746c8b3fbb4a", "question": "What description is provided for a metal target?"}
+{"id": "d8406beb-1dc5-4154-ae9c-780b6360b9f0", "question": "Which upper values and potential duplicates are available?"}
+{"id": "dbee79f3-8b3d-4bd4-8d38-5f788d23f136", "question": "Which data validity comments and their corresponding sums of assay_ids exceed 219734?"}
+{"id": "1b8ab57c-b9c7-442b-a617-5ccebcbfb2b3", "question": "How much is the average standard value for records with a record_id of 73513 and a standard type of Reduction?"}
+{"id": "3deddbb8-51b5-4e2e-8b2d-0415ceaf35cf", "question": "Which compound structural alert ID and molecule registration number are linked to alerts with an alert identifier less than 426?"}
+{"id": "f3a70f59-a92a-43ca-a15c-ad2be65fa774", "question": "Which alert identifier and compound structural alert ID are associated with molecule registration numbers that are greater than 4784?"}
+{"id": "4427e0f8-b902-4eb0-bbe5-593596b8a7bf", "question": "Which molregno is associated with cpd_str_alert_id values that are higher than 78016309?"}
+{"id": "bb88a224-88cf-4f54-b39b-0ce549bc75e4", "question": "Which \"ref_id\" is associated with the URL https://clinicaltrials.gov/search?term=NCT03575793%20NCT05745350?"}
+{"id": "b5fea12f-fc82-407f-b5f6-de793bbc1a00", "question": "Which \"ref_type\" corresponds to \"drugind_id\" values that are below 44736?"}
+{"id": "3a7bff12-1172-4a95-8018-cb5f4a4782df", "question": "How do you find the average \"indref_id\" for the URL https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f6b6bf90-bd82-45d6-9150-65b370458bbe?"}
+{"id": "7bca0756-f46c-4381-a6fd-3f51cb099948", "question": "Which \"drugind_id\" and \"indref_id\" are linked to the URL https://clinicaltrials.gov/search?term=NCT00004036 and \"ref_type\" ClinicalTrials?"}
+{"id": "93931f38-d542-4c3d-8454-6472f6404c6c", "question": "Which \"ref_id\" corresponds to the \"ref_type\" DailyMed with \"indref_id\" 601678?"}
+{"id": "1fdde9e5-9a5d-4941-9dc8-ef9ba671bde5", "question": "How much is the sum of record_ids for doc_ids that exceed 7903?"}
+{"id": "7e050de5-3d2d-4458-924b-e5eaccf4b041", "question": "What are the highest compound_key and the total sum of src_ids for cidx as CLD0 and molregno above 147592?"}
+{"id": "ffe2771d-e6b4-4bb2-9c2c-686ec0e2fda4", "question": "What is the smallest value of the document identifier?"}
+{"id": "b3e44017-f48b-4dad-95f2-3af3d233e45c", "question": "Which maximum \"co_stem_id\" and \"res_stem_id\" correspond to the previous company \"Chugai\"?"}
+{"id": "b664853d-2959-4afe-ab19-68db67fe9dba", "question": "Which \"res_stem_id\" and \"co_stem_id\" are associated with the previous company \"Sanofi Research\"?"}
+{"id": "333d898f-4a7d-4e2c-8275-4ca10b8d553a", "question": "Which \"country\" and \"res_stem_id\" are linked to the previous company \"Sanofi Research\"?"}
+{"id": "9e1b16a3-023b-4445-8cb4-76340e11e26b", "question": "Which short name and protein class ID correspond to the preferred name \"Tyrosine protein kinase Fak family\" with a class level exceeding 3?"}
+{"id": "630fdfd1-a542-421e-b140-eb804003492b", "question": "How much is the average tid for assays involving Glycine max and the chembl_id CHEMBL615387?"}
+{"id": "bcde2a31-11d0-4219-8a1a-d48dcfc5ddec", "question": "Which relationship types are associated with assays that use CHO cell types?"}
+{"id": "6a1dde21-94e4-422f-8bba-ef5709ec0ca7", "question": "Which source assay identifier and type of test are associated with assays that have a source ID less than '1'?"}
+{"id": "418c7ae3-8c58-41dc-9901-f8c4d269682b", "question": "What are the average values of the synonym identifier and the registration number for the synonym HU-308 categorized as RESEARCH_CODE?"}
+{"id": "dcf630fd-181e-400b-8722-ac063dfe7c4d", "question": "What is the lowest res_stem_id associated with the synonym HU-308 classified as RESEARCH_CODE?"}
+{"id": "0a715b9f-867b-4ea9-8ad8-851efe3c6ec1", "question": "What is the average of the synonym identifiers and the maximum of the registration numbers for the RESEARCH_CODE category?"}
+{"id": "953071f6-ba5e-4ddd-ade0-889b9a41b2c2", "question": "Which synonyms and their corresponding molregno are there for the RESEARCH_CODE type, sorted by res_stem_id from highest to lowest, with a limit of 5?"}
+{"id": "5eb39607-178d-4af4-82aa-77474d2d96f2", "question": "What is the lowest registration number associated with the synonym WIN-63480 categorized as RESEARCH_CODE?"}
+{"id": "aa49fc17-c4e5-4a48-bb5f-6901d97cfdfb", "question": "What are the component IDs for protein class IDs in the range of 1080 to 1115?"}
+{"id": "74e87d8b-c4b7-468b-8237-9a0e0118bd42", "question": "How much is the total of protein class IDs and what is the smallest component ID for component class IDs exceeding 1696?"}
+{"id": "0debea14-7185-4f8d-a02b-5c26194a3260", "question": "What component IDs correspond to protein class IDs that are below 287 and have a component class ID of 8449?"}
+{"id": "86648e8b-cf33-45a7-ae1c-710fb96c011c", "question": "What are the protein class IDs for component IDs in the range of 701 to 18461 with component class IDs exceeding 5201?"}
+{"id": "bd2cd613-35cd-47ff-a250-327ae550f663", "question": "How do the average component ID and the smallest protein class ID compare for component class IDs below 11986?"}
+{"id": "c6577a0d-7869-438a-b571-f534df68f151", "question": "What are the component IDs and their corresponding component class IDs for protein class IDs under 1410?"}
+{"id": "5f73a5d2-1467-4d79-8ace-1769a7ca61a7", "question": "How do the minimum component ID and the average protein class ID relate for component class IDs in the range of 4959 to 6599?"}
+{"id": "890ba9b3-29ac-423b-a7e5-4e706aa22f07", "question": "What does \"l2\" represent for the assay class ID 326 and \"Novelty Induced Hypophagia Test\"?"}
+{"id": "6a33d2c4-a7c1-4078-b26b-00fdc32ca49f", "question": "What is the highest assay class ID associated with \"Novelty Induced Hypophagia Test\"?"}
+{"id": "85e4c48f-e3e5-48a2-8838-1232380a3dd3", "question": "Which \"l2\" and \"l3\" values are found in the assays from Vogel_2008?"}
+{"id": "f0ba7496-22d7-40e0-b76f-2286a7b7708a", "question": "Which assay class IDs and \"l2\" values are associated with Hock_2016 and the class type \"In vivo efficacy\"?"}
+{"id": "75ae05ca-85ce-4480-b433-792e02b0c558", "question": "What is the cumulative sum of assay class IDs for \"Electroshock in Mice\"?"}
+{"id": "c4d8a136-3caa-4ae0-8e28-3ba15ab1de06", "question": "What is the total sum of assay class IDs for \"General Hyperlipidemia Models\" that come from the phenotype source?"}
+{"id": "3785eeb4-7e0f-4f5d-b5c8-c7e5c5df14ba", "question": "Which \"go_id\" and \"comp_go_id\" correspond to \"component_id\" values exceeding 122?"}
+{"id": "49b2d325-94ea-443b-bff3-bdb88ac4943b", "question": "What is the average value of \"component_id\" for \"go_id\" GO:0005575 when \"comp_go_id\" is 2549984?"}
+{"id": "c74d275d-9c68-4c36-b529-05edafee4b6a", "question": "Which \"comp_go_id\" and \"go_id\" correspond to \"component_id\" values that are below 438?"}
+{"id": "cb9fdff9-7410-4e27-b1c0-d9a6334e8a13", "question": "Which \"go_id\" and \"comp_go_id\" are associated with \"component_id\" 181?"}
+{"id": "923a67c6-7091-4c8d-b180-d37fc6cd7eaf", "question": "What is the lowest \"component_id\" associated with \"go_id\" GO:0043167?"}
+{"id": "7d8569df-0465-426e-9b68-65ffa23a5c65", "question": "What is the average value of \"comp_go_id\" for \"go_id\" GO:0005737?"}
+{"id": "7f3cd4af-c452-451b-be94-d02429b032a3", "question": "What is the highest \"component_id\" for \"go_id\" GO:0043167 when \"comp_go_id\" is between 2556649 and 2557196?"}
+{"id": "23a1312b-32d9-43b9-b3fd-cdb3f90e62f8", "question": "Which action types and descriptions are associated with the parent type of positive modulators?"}
+{"id": "e489a5fc-1c0a-4ac6-befa-182fad22ae81", "question": "What description is associated with the negative modulator parent type?"}
+{"id": "bc0c36f0-b8d0-46fe-b786-e863080c6da2", "question": "Which oc_id and l1 correspond to Eudicotyledons in the Viridiplantae class?"}
+{"id": "ac0c164b-1765-4da9-b3ad-d4ebd41699e8", "question": "Which third-level classification corresponds to organisms with unique identifiers ranging from 2646 to 4314 in the Viruses category?"}
+{"id": "07d593c1-bd2c-4d3e-9f17-6fedd7f44d53", "question": "Which l3 values are found for organisms with oc_id below 4280?"}
+{"id": "52c3420b-4550-4e43-9dba-8992aa9a20d1", "question": "What are the second-level classifications and unique identifiers for organisms categorized as Other in the Bacteria class?"}
+{"id": "9dcbc71d-e6d1-4edf-970a-512dd74d7e24", "question": "Which first-level classifications are linked to organisms in the Gram-Negative category that have a taxonomic identifier greater than 2009242?"}
+{"id": "44ad0504-0152-4d8c-81be-bc7b288c07d9", "question": "What is the highest taxonomic identifier found among organisms in the Lepidoptera category?"}
+{"id": "f4a19ae5-4c28-402c-8f55-5fccd4497af9", "question": "Which l1 and l2 values correspond to assay class ID 486 and l3 \"Repetitive Transcranial Magnetic Stimulation\"?"}
+{"id": "6b9a12d4-9f87-4201-b04c-d778b928898d", "question": "How do we calculate the average assay class ID for the category \"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS\"?"}
+{"id": "0731c097-b271-4e0a-b438-1b2c0332a6a4", "question": "What is the total of assay class IDs for the assay categorized as \"General Behavioural Responses\"?"}
+{"id": "b5beef4d-8c94-4216-951a-63ff4def5c25", "question": "How can we calculate the mean assay class ID for the assay identified as \"Repetitive Transcranial Magnetic Stimulation\" within the category \"NERVOUS SYSTEM\"?"}
+{"id": "382debfb-b119-4e00-8a26-f9e835459d4f", "question": "Which l2 values are associated with assay class IDs that are below 470 in the \"CARDIOVASCULAR SYSTEM\"?"}
+{"id": "5cf5b238-aa04-4015-af8a-544ab39bb901", "question": "Which l2 values correspond to the category \"BLOOD AND BLOOD FORMING ORGANS\" for assay class IDs exceeding 163?"}
+{"id": "8e4df9ad-cfaa-47e6-8466-0d1f256c14c7", "question": "Which confidence values correspond to activity IDs in the range of 49808 to 2190351?"}
+{"id": "430f8f70-f96d-482f-b697-554bfe6173ce", "question": "Which mol_hrac_id applies to molecules with a molregno in the range of 1014460 to 1570295 and an hrac_class_id under 147?"}
+{"id": "d1c810be-582b-4346-8d85-9c33bb4a1e8f", "question": "What is the maximum molecule classification identifier and the highest herbicide action classification identifier for substances with a registration number lower than 1369314?"}
+{"id": "1b202d78-f76d-459e-9f6a-ac7f4fce29e0", "question": "What is the highest molecule classification identifier and the total of the herbicide action classification identifiers for substances with a registration number between 788802 and 1523826?"}
+{"id": "fd6e69dd-4bac-481b-b505-9876379c18bc", "question": "What are the smallest herbicide action classification identifier and the overall total of registration numbers?"}
+{"id": "d5e538e5-9c84-4628-ad0d-ced09e3864cf", "question": "Which hrac_class_id and molregno correspond to molecules with a mol_hrac_id exceeding 43?"}
+{"id": "8020eb83-e1cd-42b5-9e89-1ec175744773", "question": "Which registration number is associated with substances that have a molecule classification identifier of 181 and a herbicide action classification identifier greater than 95?"}
+{"id": "ce3562f1-2c5d-41fb-b7b8-fe48ac6c591d", "question": "Which URLs and their corresponding minimum warning reference IDs are associated with DailyMed references?"}
+{"id": "6edd79bb-4b6e-48da-be3d-d98792a1e445", "question": "What comments and descriptions are available regarding data validity?"}
+{"id": "ae3fb3d5-e059-4908-8543-7e014665f846", "question": "Which descriptions and comments can be found?"}
+{"id": "410f7487-9d2f-4d62-9417-046ee16e08f7", "question": "Which comment is associated with the description about unusual units for the activity type?"}
+{"id": "ea32efae-4c2f-4846-9ea3-3f5791cebe2a", "question": "What comments and descriptions exist?"}
+{"id": "040bc025-e47f-4b6e-9ec1-b078b1855d7d", "question": "Which values of \"cidx\" and \"src_compound_id\" correspond to \"src_id\" equal to 1 and \"doc_id\" within the range of 4879 to 15190?"}
+{"id": "ebdfd441-4490-47c7-b344-6c66ca92dba3", "question": "How do we calculate the average of \"compound_key\" and the total of \"src_id\"?"}
+{"id": "d9243c18-30fc-4ec3-986a-97919a35c5b7", "question": "What is the lowest \"molregno\" and the highest \"record_id\"?"}
+{"id": "903bc3bf-f3ad-4f69-a3ea-879303dcd954", "question": "Which \"molregno\" values are associated with \"record_id\" values that are below 7213?"}
+{"id": "ef528251-014e-4b36-9c6c-90d3b1fc8482", "question": "Which \"doc_id\" and \"src_id\" values are found for \"cidx\" equal to CLD0, sorted by \"molregno\" from highest to lowest, and limited to five entries?"}
+{"id": "c5e16690-51f3-4e7a-b775-cabc0abea036", "question": "Which molecule registration numbers are associated with active molecule registration numbers in the range of 169401 to 327066?"}
+{"id": "ebb94a59-5bd2-499c-919a-396200f1b876", "question": "Which parent and active molecule registration numbers correspond to the molecule registration number 6101?"}
+{"id": "8c167697-1290-4f72-8a1b-eac574e315fe", "question": "Which types correspond to assay IDs in the range of 188800 to 1009474?"}
+{"id": "fb48aea3-720b-491f-ae86-fc5c9e1d3e57", "question": "What is the mean of the numerical measurement and the mean of the assay parameter ID?"}
+{"id": "ca66b73f-206c-4f58-b109-7a94932970aa", "question": "What are the maximum sample ID and the minimum analysis ID?"}
+{"id": "3e6b3b8b-a39e-4e31-9241-5703aaa8a2db", "question": "What is the highest as_id and the lowest rgid?"}
+{"id": "77ee491a-34a2-4c0d-b5cc-4e215a854a48", "question": "Which text values and standard values are available?"}
+{"id": "74a196ff-41a7-48c1-a1d4-eff49f6c4aa0", "question": "Which routes correspond to NDA type A?"}
+{"id": "1159a9f3-5cad-4043-abb0-9cf7b2780471", "question": "What is the lowest parenteral value for transdermal products classified as NDA type N?"}
+{"id": "5b647775-c887-4858-bed7-0c5c296f3337", "question": "What are the values that indicate the smallest molecule ATC identifier and the mean registration number for the classification M03BB53?"}
+{"id": "c52c1b6d-01c7-44c6-907d-6cdcb90954d5", "question": "Which molecule ATC identifier and registration number are associated with the classification D04AB07?"}
+{"id": "7f6a4c91-9b2f-4247-9b24-cdf54447ee25", "question": "What is the total registration number for the classification C10AA06?"}
+{"id": "9ea1e0b1-fc9d-428b-8661-4256224c6b22", "question": "Which tax identification numbers and MD5 hash values are associated with the term \"Light chain\"?"}
+{"id": "c1d1d0fe-c586-419a-bc98-f764170c74b9", "question": "How do the component IDs average out?"}
+{"id": "6412666a-0695-44a4-9c88-6ba6579c890d", "question": "Which organisms are linked to the given sequence MD5 sum, sorted by component ID in ascending order, with a maximum of 5 results?"}
+{"id": "c30fae9a-5f52-44e5-bc7a-fc2e5ed5eaac", "question": "What descriptions and component types exist for component IDs below `22587`?"}
+{"id": "e5813bd6-f339-48cd-b1db-3349e74230c8", "question": "What is the average of the component IDs for the term \"Heavy chain\"?"}
+{"id": "477db647-2b8e-48a1-801e-94921659d36d", "question": "How do you find the average ref_id and the highest mecref_id for records with the ref_url https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=3633 and ref_type IUPHAR?"}
+{"id": "7d445b61-10d7-4c2e-84ec-30671860cde8", "question": "Which five domain IDs and their source domain IDs come first in order?"}
+{"id": "1be572a4-0fe5-4f70-ab38-b993d95e8b3f", "question": "Which domain IDs belong to the domain type 'Pfam-A'?"}
+{"id": "c2b671f8-89f8-4909-9f84-0040f58fb371", "question": "Which domain type and domain name correspond to the source domain ID 'PF21336'?"}
+{"id": "62f63632-c0af-4301-8283-128dc632ec92", "question": "Which domain ID is associated with the source domain ID 'PF01035' and the domain name 'DNA_binding_1'?"}
+{"id": "79c53366-8741-4012-b995-752a9da05ad3", "question": "Which source domain ID corresponds to the domain ID '13847'?"}
+{"id": "ba705091-3470-489e-9c9b-967faf57796b", "question": "What is the highest domain ID associated with the source domain ID 'PF00575'?"}
+{"id": "bd3b1cca-1187-459c-9bcc-eded9bb5c932", "question": "Which source domain IDs are paired with their domain names?"}
