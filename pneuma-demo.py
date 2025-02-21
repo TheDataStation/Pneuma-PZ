@@ -19,7 +19,7 @@ output_cols = [
     {
         "name": "answer",
         "type": str,
-        "desc": "Output the answer to the `question` based on the contents in `table_contents`; output unknown if the contents cannot answer the question.",
+        "desc": "Output the answer to the `question` based on the contents in `relevant_tables`; output unknown if the contents cannot answer the question.",
     }
 ]
 
@@ -99,17 +99,17 @@ def build_pneuma_query(pneuma: Pneuma, dataset: QuestionDataReader, k: int):
         response = json.loads(response)
         retrieved_tables = response["data"]["response"]
 
-        table_contents: list[str] = []
+        relevant_tables: list[str] = []
         for table in retrieved_tables:
             table_content = exract_table_content(pd.read_csv(table))
-            table_contents.append(table_content)
-        return table_contents
+            relevant_tables.append(table_content)
+        return relevant_tables
 
     questions_and_relevant_files = questions.retrieve(
         index=pneuma,
         search_func=search_func,
         search_attr="question",
-        output_attr="table_contents",
+        output_attr="relevant_tables",
         output_attr_desc="Most relevant tables to the `question`",
         k=k,
     )
