@@ -25,16 +25,16 @@ output_cols = [
 
 
 class QuestionDataReader(pz.DataReader):
-    def __init__(self, question_dataset_path, num_questions_to_process):
+    def __init__(self, questions_dataset_path: str, num_questions_to_process: int):
         super().__init__(question_dataset_cols)
 
-        # `question_dataset_path` is the path to the file containing the questions which is expected to be a jsonl file.
+        # `questions_dataset_path` is the path to the file containing the questions which is expected to be a jsonl file.
         # Each line in the file is a JSON object with an "id" and a "question" field.
 
-        self.question_dataset_path = question_dataset_path
+        self.questions_dataset_path = questions_dataset_path
         self.num_questions_to_process = num_questions_to_process
 
-        with open(question_dataset_path) as f:
+        with open(questions_dataset_path) as f:
             entries = [json.loads(line) for line in f]
             entries = entries[: min(num_questions_to_process, len(entries))]
             self.questions = [entry["question"] for entry in entries]
@@ -66,7 +66,7 @@ def parse_arguments():
         default=5,
     )
     parser.add_argument(
-        "--out-path", type=str, help="Path to the output file of Pneuma", default="demo"
+        "--out-path", type=str, help="Path to the output file of Pneuma", default="pneuma-demo"
     )
     parser.add_argument(
         "--k",
@@ -89,15 +89,15 @@ def build_pneuma_query(pneuma: Pneuma, dataset: QuestionDataReader, k: int):
         return f"{columns}\n{rows}"
 
     def search_func(index: Pneuma, query: str, k: int):
-        response = pneuma.query_index(
+        response = index.query_index(
             index_name="demo_index",
-            query=query,
+            queries=query,
             k=k,
             n=5,
             alpha=0.5,
         )
         response = json.loads(response)
-        retrieved_tables = response["data"]["response"]
+        retrieved_tables = response["data"][0]["retrieved_tables"]
 
         relevant_tables: list[str] = []
         for table in retrieved_tables:
@@ -125,7 +125,7 @@ def main():
 
     # Create a data reader for the question dataset (in this demo ChEMBL)
     dataset = QuestionDataReader(
-        question_dataset_path=args.question_dataset_path,
+        questions_dataset_path=args.questions_dataset_path,
         num_questions_to_process=args.num_questions_to_process,
     )
 
