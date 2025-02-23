@@ -1,0 +1,5 @@
+.pz_logs
+src
+.env
+*.out
+pneuma-demo
