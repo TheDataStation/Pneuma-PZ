@@ -132,7 +132,7 @@ def main():
     # Load the index
     pneuma = Pneuma(
         out_path=args.out_path,
-        llm_path="Qwen/Qwen2.5-7B-Instruct",
+        llm_path="Qwen/Qwen2.5-0.5B-Instruct",  # Use small model for testing
         embed_path="BAAI/bge-base-en-v1.5",
     )
     pneuma.setup()
