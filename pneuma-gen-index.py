@@ -1,17 +1,14 @@
 import json
 import os
-import sys
 import tarfile
 import urllib.request
-
-sys.path.append("src")
 
 import requests
 
 os.environ["CUBLAS_WORKSPACE_CONFIG"] = ":4096:8"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
-from src.pneuma import Pneuma
+from pneuma import Pneuma
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(SCRIPT_DIR, "data_src")
@@ -87,8 +84,8 @@ def main():
     out_path = "pneuma-demo"
     pneuma = Pneuma(
         out_path=out_path,
-        llm_path="../pneuma/experiments/models/qwen",
-        embed_path="../pneuma/experiments/models/bge-base",
+        llm_path="Qwen/Qwen2.5-7B-Instruct",
+        embed_path="BAAI/bge-base-en-v1.5",
     )
     pneuma.setup()
 
