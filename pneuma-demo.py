@@ -57,13 +57,13 @@ def parse_arguments():
         "--questions-dataset-path",
         type=str,
         help="Path to the questions dataset",
-        default="data_src/questions.jsonl",
+        default="data_src/questions-small.jsonl",  # Refer to small questions for now
     )
     parser.add_argument(
         "--num-questions-to-process",
         type=int,
         help="Number of questions from the dataset to process",
-        default=5,
+        default=1,  # Set to 1 for now
     )
     parser.add_argument(
         "--out-path", type=str, help="Path to the output file of Pneuma", default="pneuma-demo"
@@ -72,7 +72,7 @@ def parse_arguments():
         "--k",
         type=int,
         help="Number of relevant documents to retrieve from the index; Pneuma returns <= k tables (each table may be associated with multiple documents)",
-        default=5,
+        default=1,  # Set to 1 for now
     )
     return parser.parse_args()
 
@@ -83,7 +83,7 @@ def build_pneuma_query(pneuma: Pneuma, dataset: QuestionDataReader, k: int):
         question_dataset_cols, desc="Extract the question"
     )
 
-    def exract_table_content(df: pd.DataFrame):
+    def extract_table_content(df: pd.DataFrame):
         columns = " | ".join(df.columns)
         rows = "\n".join(" | ".join(map(str, row[1:])) for row in df.itertuples())
         return f"{columns}\n{rows}"
@@ -101,7 +101,7 @@ def build_pneuma_query(pneuma: Pneuma, dataset: QuestionDataReader, k: int):
 
         relevant_tables: list[str] = []
         for table in retrieved_tables:
-            table_content = exract_table_content(pd.read_csv(table))
+            table_content = extract_table_content(pd.read_csv(table))
             relevant_tables.append(table_content)
         return relevant_tables
 
