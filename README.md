@@ -1,10 +1,10 @@
 Prior to running the demo, please run the following commands:
 ```bash
+pip install pneuma
 pip install palimpzest
-pip install -i https://test.pypi.org/pypi/ --extra-index-url https://pypi.org/simple pneuma
 ```
 
-Export your OpenAI API key or Together AI API key using any of the following commands, which will be needed by Palimpzest:
+Export your OpenAI API key or Together AI API key using any of the following commands, which will be needed by Palimpzest (or Pneuma if you choose to use OpenAI for it):
 
 ```bash
 export OPENAI_API_KEY="your-api-key-here"
