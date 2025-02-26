@@ -57,13 +57,13 @@ def parse_arguments():
         "--questions-dataset-path",
         type=str,
         help="Path to the questions dataset",
-        default="data_src/questions-small.jsonl",  # Refer to small questions for now
+        default="data_src/questions.jsonl",
     )
     parser.add_argument(
         "--num-questions-to-process",
         type=int,
         help="Number of questions from the dataset to process",
-        default=1,  # Set to 1 for now
+        default=5,
     )
     parser.add_argument(
         "--out-path", type=str, help="Path to the output file of Pneuma", default="pneuma-demo"
@@ -72,7 +72,7 @@ def parse_arguments():
         "--k",
         type=int,
         help="Number of relevant documents to retrieve from the index; Pneuma returns <= k tables (each table may be associated with multiple documents)",
-        default=1,  # Set to 1 for now
+        default=5,
     )
     return parser.parse_args()
 
@@ -132,10 +132,18 @@ def main():
     # Load the index
     pneuma = Pneuma(
         out_path=args.out_path,
-        llm_path="Qwen/Qwen2.5-0.5B-Instruct",  # Use small model for testing
+        llm_path="Qwen/Qwen2.5-7B-Instruct",  # Change to a smaller LLM if necessary
         embed_path="BAAI/bge-base-en-v1.5",
     )
     pneuma.setup()
+
+    # Use OpenAI models (gpt-4o-mini & text-embedding-3-small) if the index was
+    # generated using OpenAI models
+    # pneuma = Pneuma(
+    #     out_path=args.out_path,
+    #     openai_api_key=os.environ['OPENAI_API_KEY'],
+    #     use_local_model=False,
+    # )
 
     # Build and run some query
     query = build_pneuma_query(pneuma, dataset, args.k)
