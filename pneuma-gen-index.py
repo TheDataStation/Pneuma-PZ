@@ -74,24 +74,31 @@ def download_questions():
 
 
 def main():
-    # NOTE: skip for now; use small data for testing.
     # Step 1: Download dataset & questions
-    # if "data_src" not in os.listdir(SCRIPT_DIR):
-    #     os.mkdir(DATA_DIR)
-    # download_chembl()
-    # download_questions()
+    if "data_src" not in os.listdir(SCRIPT_DIR):
+        os.mkdir(DATA_DIR)
+    download_chembl()
+    download_questions()
 
     # Step 2: Initialize Pneuma
     out_path = "pneuma-demo"
     pneuma = Pneuma(
         out_path=out_path,
-        llm_path="Qwen/Qwen2.5-0.5B-Instruct",  # Use small model for testing
+        llm_path="Qwen/Qwen2.5-7B-Instruct",  # Change to a smaller LLM if necessary
         embed_path="BAAI/bge-base-en-v1.5",
     )
+
+    # Alternative: Use OpenAI models (gpt-4o-mini & text-embedding-3-small); may take longer
+    # pneuma = Pneuma(
+    #     out_path=out_path,
+    #     openai_api_key=os.environ['OPENAI_API_KEY'],
+    #     use_local_model=False,
+    # )
+
     pneuma.setup()
 
     # Step 3: Register dataset
-    data_path = "data_src/chicago_data_small"
+    data_path = "data_src/pneuma_chembl_10K"
     response = pneuma.add_tables(path=data_path, creator="pneuma_pz_demo")
     response = json.loads(response)
     print(response)
